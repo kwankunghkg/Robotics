@@ -1,0 +1,50 @@
+# readme
+
+
+
+/*
+ * SPI    Serial Peripheral Interface
+ * https://www.arduino.cc/en/Reference/SPI
+ * 
+ * PINS 128x64 DOT MATRIX / GRAPHIC DISPLAY
+ * ST7920 LCD controller
+ *
+ * BLK    Backlight -
+ * BLA    Backlight +
+ * VOUT
+ * RST    RST
+ * NC     Not Connected
+ * PSB    Interface Secelection LOW = Serial / HIGH = Parallel
+ * DB7    Data Bit 7
+ * DB6    Data Bit 6
+ * DB5    Data Bit 5
+ * DB4    Data Bit 4
+ * DB3    Data Bit 3
+ * DB2    Data Bit 2
+ * DB1    Data Bit 1
+ * DB0    Data Bit 0
+ * E      Enable trigger (serial clock SCK)
+ * R/W    Read / Write (Master Out Slave In MOSI)
+ * RS     Register Select (chip select CS)
+ * V0     LCD Constrast
+ * VCC    Voltage Common Connector
+ * GND    Ground
+ * 
+ * 
+ * PIN CONNECTIONS: 
+ * 
+ * BLK        GND
+ * BLA        3.3V
+ * PSB        GND
+ * E  (SCK)   13
+ * RW (MOSI)  11
+ * RS (CS)    10
+ * 
+ * VCC        5V
+ * GND        GND
+ * 
+ */
+
+U8G2_ST7920_128X64_1_SW_SPI u8g2(U8G2_R0, /* clock=*/ 13, /* data=*/ 11, /* CS=*/ 10, /* reset=*/ 8);
+
+// End of constructor list
