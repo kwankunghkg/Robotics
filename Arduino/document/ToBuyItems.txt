@@ -75,7 +75,6 @@ https://item.taobao.com/item.htm?id=567042014284
 SX1276 LoRa模组/SX1278 LoRa模组/433MHz/超远距离/低功耗 ¥35 ¥34 约 HKD 41
 https://item.taobao.com/item.htm?id=578986839515
 
-
 sx1278 lora模块 lora ra-02 lora 无线传输 串口 ¥24 约 HKD 29
 https://item.taobao.com/item.htm?id=583061917692
 引出的接口兼容NRF24L01 模块
@@ -83,6 +82,9 @@ https://item.taobao.com/item.htm?id=583061917692
 
 sx1278 lora模块 lora ra-02 lora 无线传输 串口 ¥16-20.5 约 HKD 19-24.7
 https://item.taobao.com/item.htm?id=583062025548
+
+433m弹簧天线433mhz内置天线433无线收发模块数传天线ipex接口 ¥2.5 约 HKD 3
+https://item.taobao.com/item.htm?id=583061961803
 
 ===============================================================
 
