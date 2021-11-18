@@ -1,0 +1,86 @@
+
+20211118_VoiceCom_WiFi_RFID.txt
+
+============================================================
+
+1. raspberry pi python record audio
+2. raspberry pi python play audio
+3. raspberry pi tcpip send file
+
+============================================================
+
+
+
+============================================================
+
+Recording Audio on the Raspberry Pi with Python and a USB Microphone
+  https://makersportal.com/blog/2018/8/23/recording-audio-on-the-raspberry-pi-with-python-and-a-usb-microphone
+Recording Audio on the Raspberry Pi with Python and a USB Microphone. The Raspberry Pi is capable of recording audio through its USB 2.0 ports using the advanced Linux sound architecture (ALSA). The RPi can sample at 48kHz at a bit depth of 16-bits, which allows the user to record and playback fairly good quality audio ...
+
+============================================================
+
+Experiment 2: Play Sounds
+Python Programming Tutorial: Getting Started with the Raspberry Pi 
+  https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/experiment-2-play-sounds
+
+============================================================
+
+
+
+============================================================
+
+raspberry pi python tcp/ip send data
+
+5 parts Tutorial - Socket Programming using Python
+Source code and text-based tutorial: 
+https://pythonprogramming.net/sockets-tutorial-python-3/
+https://pythonprogramming.net/buffering-streaming-data-sockets-tutorial-python-3/
+https://pythonprogramming.net/pickle-objects-sockets-tutorial-python-3/
+https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
+https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
+
+Sockets Tutorial with Python 3 part 1 - sending and receiving data		sentdex Mar 11, 2019
+https://youtu.be/Lbfe3-v7yE0
+537,007 views
+1.08M subscribers
+Welcome to a tutorial on sockets with Python 3. We have a lot to cover, so let's just jump right in. The socket library is a part of the standard library, so you already have it.
+
+Sockets Tutorial with Python 3 part 2 - buffering and streaming data		sentdex Mar 13, 2019
+https://youtu.be/8A4dqoGL62E
+179,971 views
+1.08M subscribers
+Welcome to part 2 of the sockets tutorial with Python. In the previous tutorial, we learned how we could send and receive data using sockets, but then we illustrated the problem that can arise when our communication exceeds our buffer size. In this tutorial, we'll talk about overcoming this!
+
+Sockets Tutorial with Python 3 part 3 - sending and receiving Python Objects w/ Pickle		sentdex Mar 13, 2019
+https://youtu.be/WM1z8soch0Q
+123,824 views
+1.08M subscribers
+Welcome to part 3 of the sockets tutorial with Python. We've learned how to send and receive string data via sockets, and now I want to talk about is pickles. Not the food, but the serialization technique in Python.
+
+Socket Chatroom server - Creating chat application with sockets in Python		sentdex Apr 2, 2019
+https://youtu.be/CV7_stUWvBQ
+218,039 views
+1.08M subscribers
+We've made it through the basics of working with sockets, and now we're ready to try to actually build something with them, so, in this sockets with Python tutorial, we're going to build a console-based chat app.
+
+Socket Chatroom client - Creating chat application with sockets in Python		sentdex Apr 3, 2019
+https://youtu.be/ytu2yV3Gn1I
+93,800 views
+1.08M subscribers
+Welcome to part 5 of the sockets tutorial, in this tutorial we're going to build the client's code for our chatroom application.
+
+
+============================================================
+
+
+
+============================================================
+
+
+
+============================================================
+
+
+
+============================================================
+end of file
