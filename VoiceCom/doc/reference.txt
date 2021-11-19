@@ -1,4 +1,7 @@
 
+Robotics/VoiceCom/doc/reference.txt 
+  https://github.com/kwankunghkg/Robotics/blob/main/VoiceCom/doc/reference.txt
+
 20211118_VoiceCom_WiFi_RFID.txt
 
 ============================================================
@@ -7,9 +10,14 @@
 2. raspberry pi python play audio
 3. raspberry pi tcpip send file
 
+
 ============================================================
 
+connect BlueTooth earphone (mic+speaker) or USB webcam (with microphone) to RaspberryPi and start prototyping (programming)
 
+
+Raspberry Pi Wi-Fi & Bluetooth Setup - How to Configure your Pi 4 Model B, 3 Model B and 3 Model B+ Connectivity
+  https://www.digikey.hk/en/maker/blogs/raspberry-pi-wi-fi-bluetooth-setup-how-to-configure-your-pi-4-model-b-3-model-b
 
 ============================================================
 
@@ -68,6 +76,26 @@ https://youtu.be/ytu2yV3Gn1I
 93,800 views
 1.08M subscribers
 Welcome to part 5 of the sockets tutorial, in this tutorial we're going to build the client's code for our chatroom application.
+
+
+============================================================
+
+Python Socket Programming Tutorial		Tech With Tim Apr 5, 2020
+https://youtu.be/3QiPPX-KeSc
+528,389 views
+833K subscribers
+This socket programming tutorial will show you how to connect multiple clients to a server using python 3 sockets. It covers how to send messages from clients to server and from server to clients. I will also show you how to host your socket server locally or globally across the internet so anyone can connect. This uses the python 3 socket and threading module. 
+
+Code Download: 
+https://www.techwithtim.net/tutorials/socket-programming/
+
+============================================================
+
+Python IDEs and Code Editors
+  https://www.programiz.com/python-programming/ide
+
+============================================================
+
 
 
 ============================================================
