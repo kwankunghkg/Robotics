@@ -1,3 +1,4 @@
+# send binary file
 
 1. run ipconfig or ifconfig to check server IP address
 2. set correct server IP address in 2 python programs
