@@ -1,0 +1,8 @@
+
+1. run ipconfig or ifconfig to check server IP address
+2. set correct server IP address in 2 python programs
+3. run 2 python programs in different machines
+
+python3 ./server.py
+python3 ./client.py
+
