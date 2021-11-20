@@ -23,9 +23,6 @@ def main():
     msg_send = str(file_in_length)
     print("send str : ",file_in_length)
     clientsocket.send(bytes(msg_send,FORMAT))
-    #clientsocket.send(msg_send)
-    #msg_recv = clientsocket.recv(HEADERSIZE)
-    #print("server reply : ",msg_recv)
     wait_for_ack = True
     while wait_for_ack:
         ack_str = clientsocket.recv(HEADERSIZE)
@@ -36,8 +33,6 @@ def main():
         print("file_size_ack_str : ",file_size_ack_str)
         file_size_ack = int(file_size_ack_str)
         print("file_size_ack : ",file_size_ack)
-        #if int(file_size) > 0:
-        #if len(ack_str) > 0:
         if file_size_ack==file_in_length :
             print("file length ack CORRECT")
             wait_for_ack = False
@@ -62,9 +57,6 @@ def loop_socket_write(file_length):
         # 2 - Start from the end of a file (will require a negative offset)
         file_in.seek(data_pointer)
         data_buffer = file_in.read(BUFFERSIZE)
-        #num_bytes_written = file_out.write(data_buffer)
-        #print("Wrote %d bytes to " % num_bytes_written)
-        #clientsocket.send(bytes(data_buffer,FORMAT))
         send_size = clientsocket.send(bytes(data_buffer))
         print("sent : ",send_size)
         data_pointer += send_size
@@ -73,29 +65,5 @@ def loop_socket_write(file_length):
             loop_continue = False
             print("loop end")
 
-
-
-def loop_send():
-    while True:
-        full_msg = ''
-        new_msg = True
-        while True:
-            msg = client.recv(16)
-            if new_msg:
-                print("new msg len : ",msg[:HEADERSIZE])
-                msglen = int(msg[:HEADERSIZE])
-                new_msg = False
-
-            print(f"full message length : {msglen}", end =" / ")
-            full_msg += msg.decode(FORMAT)
-            print(len(full_msg))
-
-            if len(full_msg)-HEADERSIZE == msglen:
-                print("full msg recvd :")
-                print(full_msg)
-                print("     msg recvd :")
-                print(full_msg[HEADERSIZE:])
-                new_msg = True
-                full_msg = ""
 
 main()
