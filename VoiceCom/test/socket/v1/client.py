@@ -1,9 +1,12 @@
 #! python3
 import socket
 HEADERSIZE = 10
+server_ip = "192.168.2.111"
+client_ip = "192.168.2.101"
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.connect((socket.gethostname(), 1243))
+#s.connect((socket.gethostname(), 1243))
+s.connect((server_ip, 1243))
 
 while True:
     full_msg = ''

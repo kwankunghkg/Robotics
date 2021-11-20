@@ -2,9 +2,12 @@
 import socket
 import time
 HEADERSIZE = 10
+server_ip = "192.168.2.111"
+client_ip = "192.168.2.101"
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.bind((socket.gethostname(), 1243))
+#s.bind((socket.gethostname(), 1243))
+s.bind((server_ip, 1243))
 s.listen(5)
 
 while True:
