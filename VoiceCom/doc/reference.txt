@@ -116,6 +116,34 @@ python script first line Shebang
 
 ============================================================
 
+demo_mobile_APP_development 
+@20211122_0123
+
+4 min video...
+
+Best Drag and drop Android App builder		Youtechnoid Jan 23, 2019
+https://youtu.be/lT8krJ1pMuM
+#makeroid #thunkable #ai2 #appy builder
+
+9+ min video...
+
+How to turn your NEW Google Sites into a Mobile App		Flipped Classroom Tutorials Feb 28, 2018
+https://youtu.be/Aflbbvw25xA
+#Google sites #Thunkable
+
+11+ min video...
+
+drag and drop app builder | TCP/IP Client Server Android - Arduino		Youtechnoid Jan 15, 2019
+https://youtu.be/OokYl-HHOD8
+Arduino Sketch:
+https://drive.google.com/file/d/1pBmMq9qYDbg2zEZ9twakGDCCqhIdmeev/view
+Android Thunkable .aia file :
+https://drive.google.com/file/d/17_l0EhF33aCPIVjtiBFWhwo_e69xMLsD/view
+ext.extension .aix file tcp/ip :
+https://drive.google.com/file/d/1RSrebGs3jNRCjPWKIn41d3dPBA2gNWyH/view
+facebook : Elektronika , Arduino & CNC
+https://facebook.com/groups/2125282534394744
+website : duniahobi.web.id 
 
 
 ============================================================
