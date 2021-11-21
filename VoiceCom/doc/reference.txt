@@ -130,21 +130,27 @@ python script first line Shebang
 demo_mobile_APP_development 
 @20211122_0123
 
+
 4 min video...
 
-Best Drag and drop Android App builder		Youtechnoid Jan 23, 2019
+Best Drag and drop Android App builder		
+Youtechnoid Jan 23, 2019
   https://youtu.be/lT8krJ1pMuM
 #makeroid #thunkable #ai2 #appy builder
 
+
 9+ min video...
 
-How to turn your NEW Google Sites into a Mobile App		Flipped Classroom Tutorials Feb 28, 2018
+How to turn your NEW Google Sites into a Mobile App		
+Flipped Classroom Tutorials Feb 28, 2018
   https://youtu.be/Aflbbvw25xA
 #Google sites #Thunkable
 
+
 11+ min video...
 
-drag and drop app builder | TCP/IP Client Server Android - Arduino		Youtechnoid Jan 15, 2019
+drag and drop app builder | TCP/IP Client Server Android - Arduino		
+Youtechnoid Jan 15, 2019
   https://youtu.be/OokYl-HHOD8
 Arduino Sketch:
   https://drive.google.com/file/d/1pBmMq9qYDbg2zEZ9twakGDCCqhIdmeev/view
@@ -157,6 +163,17 @@ facebook : Elektronika , Arduino & CNC
 website : duniahobi.web.id 
 
 
+8+ min video...
+
+Easy Raspberry tutorial 04: Control the Rpi with your Android APP		
+ADEL KASSAH Dec 15, 2018
+https://youtu.be/x10ndPdM6Vc
+- use Blocks programming languages
+- control the Raspberry Pi with an Android app
+- EasyPython
+- Android App by MIT App Inventor
+
+
 
 第一堂：認識App Inventor 2 的基本操作(上) ©2017 教育局
   https://www.edb.gov.hk/attachment/tc/curriculum-development/major-level-of-edu/gifted/resources_and_support/CodingJourney/CodingJourney_StudentWorksheet.pdf
@@ -165,7 +182,10 @@ website : duniahobi.web.id
 
 App Inventor 2 來了
   http://www.appinventor.tw/ai2
-MIT 行動學習中心已發表 App Inventor 2 (本文後簡稱 AI2)，省略了需要使用 Java 才能開啟的 Blocks Editor，將其整合在網頁中即可使用，可說是與 Scratch 愈來愈像了。在操作上也將各指令藉由下拉式選單大幅簡化，使用者應該可以更快找到所需的指令。
+MIT 行動學習中心已發表 App Inventor 2 (本文後簡稱 AI2)，
+省略了需要使用 Java 才能開啟的 Blocks Editor，
+將其整合在網頁中即可使用，可說是與 Scratch 愈來愈像了。
+在操作上也將各指令藉由下拉式選單大幅簡化，使用者應該可以更快找到所需的指令。
 
 
 ============================================================
