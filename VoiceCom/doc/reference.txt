@@ -10,7 +10,18 @@ Robotics/VoiceCom/doc/reference.txt
 2. raspberry pi python play audio
 3. raspberry pi tcpip send file
 
+============================================================
 
+VoiceCom / InterCom
+1. press button 
+2. record sound file
+3. release button
+4. send sound file 
+5. play sound file 
+
+  https://github.com/kwankunghkg/Robotics/tree/main/VoiceCom/test/socket/
+v1 : send text
+v2 : send binary file
 
 ============================================================
 
@@ -42,11 +53,11 @@ raspberry pi python tcp/ip send data
 
 5 parts Tutorial - Socket Programming using Python
 Source code and text-based tutorial: 
-https://pythonprogramming.net/sockets-tutorial-python-3/
-https://pythonprogramming.net/buffering-streaming-data-sockets-tutorial-python-3/
-https://pythonprogramming.net/pickle-objects-sockets-tutorial-python-3/
-https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
-https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
+  https://pythonprogramming.net/sockets-tutorial-python-3/
+  https://pythonprogramming.net/buffering-streaming-data-sockets-tutorial-python-3/
+  https://pythonprogramming.net/pickle-objects-sockets-tutorial-python-3/
+  https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
+  https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
 
 Sockets Tutorial with Python 3 part 1 - sending and receiving data		sentdex Mar 11, 2019
 https://youtu.be/Lbfe3-v7yE0
@@ -122,38 +133,38 @@ demo_mobile_APP_development
 4 min video...
 
 Best Drag and drop Android App builder		Youtechnoid Jan 23, 2019
-https://youtu.be/lT8krJ1pMuM
+  https://youtu.be/lT8krJ1pMuM
 #makeroid #thunkable #ai2 #appy builder
 
 9+ min video...
 
 How to turn your NEW Google Sites into a Mobile App		Flipped Classroom Tutorials Feb 28, 2018
-https://youtu.be/Aflbbvw25xA
+  https://youtu.be/Aflbbvw25xA
 #Google sites #Thunkable
 
 11+ min video...
 
 drag and drop app builder | TCP/IP Client Server Android - Arduino		Youtechnoid Jan 15, 2019
-https://youtu.be/OokYl-HHOD8
+  https://youtu.be/OokYl-HHOD8
 Arduino Sketch:
-https://drive.google.com/file/d/1pBmMq9qYDbg2zEZ9twakGDCCqhIdmeev/view
+  https://drive.google.com/file/d/1pBmMq9qYDbg2zEZ9twakGDCCqhIdmeev/view
 Android Thunkable .aia file :
-https://drive.google.com/file/d/17_l0EhF33aCPIVjtiBFWhwo_e69xMLsD/view
+  https://drive.google.com/file/d/17_l0EhF33aCPIVjtiBFWhwo_e69xMLsD/view
 ext.extension .aix file tcp/ip :
-https://drive.google.com/file/d/1RSrebGs3jNRCjPWKIn41d3dPBA2gNWyH/view
+  https://drive.google.com/file/d/1RSrebGs3jNRCjPWKIn41d3dPBA2gNWyH/view
 facebook : Elektronika , Arduino & CNC
-https://facebook.com/groups/2125282534394744
+  https://facebook.com/groups/2125282534394744
 website : duniahobi.web.id 
 
 
 
-第一堂：認識App Inventor 2 的基本操作(上) 
-https://www.edb.gov.hk/attachment/tc/curriculum-development/major-level-of-edu/gifted/resources_and_support/CodingJourney/CodingJourney_StudentWorksheet.pdf
+第一堂：認識App Inventor 2 的基本操作(上) ©2017 教育局
+  https://www.edb.gov.hk/attachment/tc/curriculum-development/major-level-of-edu/gifted/resources_and_support/CodingJourney/CodingJourney_StudentWorksheet.pdf
 第五及六堂：遊戲I - 打田鼠 (MoleMash)
 
 
 App Inventor 2 來了
-http://www.appinventor.tw/ai2
+  http://www.appinventor.tw/ai2
 MIT 行動學習中心已發表 App Inventor 2 (本文後簡稱 AI2)，省略了需要使用 Java 才能開啟的 Blocks Editor，將其整合在網頁中即可使用，可說是與 Scratch 愈來愈像了。在操作上也將各指令藉由下拉式選單大幅簡化，使用者應該可以更快找到所需的指令。
 
 
