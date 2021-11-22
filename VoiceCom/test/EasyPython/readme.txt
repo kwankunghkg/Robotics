@@ -44,7 +44,13 @@ for count in range(3):
 
 ==================================================
 
-Python reference
+reference
+
+Blocky
+  https://github.com/google/blockly/wiki/Text#printing-text
+Python 
+  https://www.w3schools.com/python/python_operators.asp
+  https://www.askpython.com/python/examples/colon-in-python
   http://easypythondocs.com/input.html
 
 
