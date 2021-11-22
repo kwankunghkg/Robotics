@@ -1,7 +1,14 @@
 
 readme.txt
+  https://github.com/kwankunghkg/Robotics/tree/main/VoiceCom/test/EasyPython
 
-# README
+# README 20211122
+
+==================================================
+
+IoT@school by ADEL KASSAH 
+  EasyPython
+  Easy Raspberry Pi
 
 ==================================================
 
