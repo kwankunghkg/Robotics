@@ -7,8 +7,8 @@ readme.txt
 ==================================================
 
 IoT@school by ADEL KASSAH 
-  EasyPython
-  Easy Raspberry Pi
+1. EasyPython
+2. Easy Raspberry Pi
 
 ==================================================
 
