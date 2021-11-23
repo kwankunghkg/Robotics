@@ -9,11 +9,12 @@ IoT@school by ADEL KASSAH
 
 ==================================================
 
-# EasyPython - Code Python with Blocks 
+## EasyPython - Code Python with Blocks 
       http://easycoding.tn/ep/demos/code/
 
-# EasyPython tutorial 
+## EasyPython tutorial 
       https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SNC0hcwtkS_XS1BaXX6lrt
+```
  1  6:41    Using variables  
   
  2  7:32    Basic INPUT OUTPUT operation  
@@ -40,6 +41,7 @@ IoT@school by ADEL KASSAH
 for count in range(3): 
     print('abc') 
     print('123') 
+```
 
 ![test_EasyPython_1](./EasyPython_demo_1_20211122.jpg "test_EasyPython 1")
 
@@ -51,11 +53,11 @@ for count in range(3):
 
 ==================================================
 
-reference
+##Reference
 
-Blocky
+##Blocky
   https://github.com/google/blockly/wiki/Text#printing-text
-Python 
+##Python 
   https://www.w3schools.com/python/python_operators.asp
   https://www.askpython.com/python/examples/colon-in-python
   http://easypythondocs.com/input.html
@@ -67,8 +69,9 @@ Python
 
 ==================================================
 
-IoT@school - Control your game with an Android phone
+##IoT@school - Control your game with an Android phone
   http://easycoding.tn/index.php/iot-school/project-1-control-your-game-with-an-android-phone/
+```  
   From the age of 10
 Objects to be connected
   A sprite with an Android device
@@ -80,9 +83,9 @@ Software used
 Hardware 
   A Computer
   An Android device
+```
 
-
-IOT@School Projet 1: Control your game with an Android phone
+##IOT@School Projet 1: Control your game with an Android phone
   ADEL KASSAH Aug 25, 2017
   how to control a Scratch sprite with your own Android phone
 Video 1/3
@@ -95,8 +98,9 @@ Video 3/3
 
 ==================================================
 
-Easy Raspberry Pi tutorial - ADEL KASSAH Jun 1, 2020
+##Easy Raspberry Pi tutorial - ADEL KASSAH Jun 1, 2020
   https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SjWektY24mHfUJi-4GLqMX
+```
 1	5:05	Setting up the envirment
 2	4:39	First PYTHON program Hello World
 3	4:16	Blinking LED
@@ -113,7 +117,7 @@ Easy Raspberry Pi tutorial - ADEL KASSAH Jun 1, 2020
 14	4:29	The push button
 15	12:13	Basic MQTT Operations
 16	11:26	MQTT objects control
-
+```
 
 ==================================================
 
