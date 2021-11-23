@@ -26,11 +26,9 @@ IoT@school by ADEL KASSAH
 9	6:39	HTTP server 
 10	10:46	Text to speech TTS with pyttsx3 
 11	11:05	Easy AI with Python tutorial: Classification & Decision tree with Scikit-learn 
-```
 
 ==================================================
 
-```
 // 
 // Generated with a lot of love 
 //    with   EasyPython       
@@ -53,8 +51,8 @@ for count in range(3):
 ```
 ==================================================
 
->Reference
-
+Reference
+```
 ##Blocky
   https://github.com/google/blockly/wiki/Text#printing-text
   
@@ -65,7 +63,7 @@ for count in range(3):
   
   http://easypythondocs.com/input.html
 
-
+```
 ==================================================
 
 
@@ -89,8 +87,8 @@ Hardware
 ```
 
 ##IOT@School Projet 1: Control your game with an Android phone
-  ADEL KASSAH Aug 25, 2017
-  how to control a Scratch sprite with your own Android phone
+>  ADEL KASSAH Aug 25, 2017
+>  how to control a Scratch sprite with your own Android phone
 ###Video 1/3
   https://youtu.be/9Dq7G75nJhQ
 ###Video 2/3
@@ -120,7 +118,6 @@ Hardware
 14	4:29	The push button
 15	12:13	Basic MQTT Operations
 16	11:26	MQTT objects control
-```
 
 ==================================================
 
