@@ -1,6 +1,5 @@
-# readme.txt
+# README.md 20211122
   https://github.com/kwankunghkg/Robotics/tree/main/VoiceCom/test/EasyPython
-# README 20211122
 
 ==================================================
 
