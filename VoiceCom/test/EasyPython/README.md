@@ -4,8 +4,8 @@ https://github.com/kwankunghkg/Robotics/tree/main/VoiceCom/test/EasyPython
 ==================================================
 
 IoT@school by ADEL KASSAH 
-## 1. EasyPython
-## 2. Easy Raspberry Pi
+ 1. EasyPython
+ 2. Easy Raspberry Pi
 
 ==================================================
 ```
@@ -95,11 +95,11 @@ Hardware
 ## IOT@School Projet 1: Control your game with an Android phone
 >  ADEL KASSAH Aug 25, 2017
 >  how to control a Scratch sprite with your own Android phone
-### Video 1/3
+###### Video 1/3
 https://youtu.be/9Dq7G75nJhQ
-### Video 2/3
+###### Video 2/3
 https://youtu.be/yLtuCWPnDWw
-### Video 3/3	
+###### Video 3/3	
 https://youtu.be/y2OPTOOQ7As
 
 
