@@ -15,8 +15,8 @@ IoT@school by ADEL KASSAH
 ## EasyPython tutorial 
       https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SNC0hcwtkS_XS1BaXX6lrt
 ```
-1   6:41    Using variables  
-2   7:32    Basic INPUT OUTPUT operation  
+1	6:41	Using variables  
+2	7:32	Basic INPUT OUTPUT operation  
 3	11:25	The If statement  
 4	8:17	The For loop 
 5	9:12	The While loop 
@@ -48,28 +48,26 @@ for count in range(3):
 
 ![test_EasyPython_4](./EasyPython_demo_4_20211122.jpg "test_EasyPython 1")
 
-```
+
 ==================================================
 
 Reference
-```
-##Blocky
-  https://github.com/google/blockly/wiki/Text#printing-text
-  
-##Python 
-  https://www.w3schools.com/python/python_operators.asp
-  
-  https://www.askpython.com/python/examples/colon-in-python
-  
-  http://easypythondocs.com/input.html
 
-```
+##Blocky  
+	https://github.com/google/blockly/wiki/Text#printing-text
+  
+##Python
+	https://www.w3schools.com/python/python_operators.asp
+	https://www.askpython.com/python/examples/colon-in-python
+	http://easypythondocs.com/input.html
+
+
 ==================================================
 
 
 
 ==================================================
-```
+
 ##IoT@school - Control your game with an Android phone
   http://easycoding.tn/index.php/iot-school/project-1-control-your-game-with-an-android-phone/
 ```  
