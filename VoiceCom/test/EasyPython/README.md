@@ -1,6 +1,6 @@
 # README.md 20211122
 https://github.com/kwankunghkg/Robotics/tree/main/VoiceCom/test/EasyPython
-
+```
 ==================================================
 
 IoT@school by ADEL KASSAH 
@@ -8,7 +8,7 @@ IoT@school by ADEL KASSAH
 2. Easy Raspberry Pi
 
 ==================================================
-
+```
 ## EasyPython - Code Python with Blocks 
 http://easycoding.tn/ep/demos/code/
 
@@ -48,28 +48,28 @@ for count in range(3):
 
 ![test_EasyPython_4](./EasyPython_demo_4_20211122.jpg "test_EasyPython 1")
 
-
+```
 ==================================================
+```
+## Reference
 
-Reference
-
-## Blocky  
+#### Blocky  
 https://github.com/google/blockly/wiki/Text#printing-text
   
-## Python
+#### Python
 https://www.w3schools.com/python/python_operators.asp
 
 https://www.askpython.com/python/examples/colon-in-python
 
 http://easypythondocs.com/input.html
 
-
+```
 ==================================================
 
 
 
 ==================================================
-
+```
 ## IoT@school - Control your game with an Android phone
 http://easycoding.tn/index.php/iot-school/project-1-control-your-game-with-an-android-phone/
 ```  
