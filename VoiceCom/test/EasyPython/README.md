@@ -48,6 +48,12 @@ for count in range(3):
 
 ![test_EasyPython_4](./EasyPython_demo_4_20211122.jpg "test_EasyPython 1")
 
+![test_EasyPython_5](./EasyPython_demo_5_20211122.jpg "test_EasyPython 1")
+
+![test_EasyPython_6](./EasyPython_demo_6_20211122.jpg "test_EasyPython 1")
+
+![test_EasyPython_7](./EasyPython_demo_7_20211122.jpg "test_EasyPython 1")
+
 ```
 ==================================================
 ```
