@@ -28,17 +28,20 @@ EasyPython tutorial
 
 ==================================================
 
-################################
-##Generated with a lot of love##
-##    with   EasyPython       ##
-##Web site: easycoding.tn     ##
-################################
+//
+// Generated with a lot of love
+//    with   EasyPython       
+// Web site: easycoding.tn     
+//
 
 for count in range(3):
   print('abc')
   print('123')
 
 ![test_EasyPython_1](./EasyPython_demo_1_20211122.jpg "test_EasyPython 1")
+![test_EasyPython_2](./EasyPython_demo_2_20211122.jpg "test_EasyPython 1")
+![test_EasyPython_3](./EasyPython_demo_3_20211122.jpg "test_EasyPython 1")
+![test_EasyPython_4](./EasyPython_demo_4_20211122.jpg "test_EasyPython 1")
 
 ==================================================
 
