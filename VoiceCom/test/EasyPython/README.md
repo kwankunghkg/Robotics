@@ -138,6 +138,10 @@ https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SjWektY24mHfUJi-4GLqMX
 GitHub - Basic writing and formatting syntax - README.md
   https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+GitHub Flavored Markdown Spec
+  https://github.github.com/gfm/
+
+
 
 ==================================================
 End of File
