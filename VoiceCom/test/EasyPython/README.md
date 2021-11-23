@@ -14,10 +14,10 @@ EasyPython - Code Python with Blocks
 
 EasyPython tutorial 
   https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SNC0hcwtkS_XS1BaXX6lrt
-  
-1	6:41	Using variables 
 
-2	7:32	Basic INPUT OUTPUT operation 
+1	6:41	Using variables  
+
+2	7:32	Basic INPUT OUTPUT operation  
 
 3	11:25	The If statement 
 
