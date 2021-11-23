@@ -1,4 +1,5 @@
 # README.md 20211122
+
   https://github.com/kwankunghkg/Robotics/tree/main/VoiceCom/test/EasyPython
 
 ==================================================
@@ -10,10 +11,13 @@ IoT@school by ADEL KASSAH
 ==================================================
 
 EasyPython - Code Python with Blocks 
+
   http://easycoding.tn/ep/demos/code/
 
-EasyPython tutorial
+EasyPython tutorial 
+
   https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SNC0hcwtkS_XS1BaXX6lrt
+  
 1	6:41	Using variables
 2	7:32	Basic INPUT OUTPUT operation
 3	11:25	The If statement
