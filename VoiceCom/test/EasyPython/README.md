@@ -1,5 +1,5 @@
 # README.md 20211122
-    https://github.com/kwankunghkg/Robotics/tree/main/VoiceCom/test/EasyPython
+https://github.com/kwankunghkg/Robotics/tree/main/VoiceCom/test/EasyPython
 
 ==================================================
 
@@ -58,7 +58,9 @@ https://github.com/google/blockly/wiki/Text#printing-text
   
 ## Python
 https://www.w3schools.com/python/python_operators.asp
+
 https://www.askpython.com/python/examples/colon-in-python
+
 http://easypythondocs.com/input.html
 
 
