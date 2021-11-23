@@ -1,7 +1,5 @@
-
-readme.txt
+# readme.txt
   https://github.com/kwankunghkg/Robotics/tree/main/VoiceCom/test/EasyPython
-
 # README 20211122
 
 ==================================================
@@ -41,6 +39,7 @@ for count in range(3):
   print('abc')
   print('123')
 
+![test_EasyPython_1](./EasyPython_demo_1_20211122.jpg "test_EasyPython 1")
 
 ==================================================
 
