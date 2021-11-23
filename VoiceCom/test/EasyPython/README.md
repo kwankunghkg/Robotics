@@ -18,29 +18,29 @@ EasyPython tutorial
 
   https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SNC0hcwtkS_XS1BaXX6lrt
   
-1	6:41	Using variables
-2	7:32	Basic INPUT OUTPUT operation
-3	11:25	The If statement
-4	8:17	The For loop
-5	9:12	The While loop
-6	7:05	File management
-7	11:12	Multi-threading
-8	4:48	Send an email
-9	6:39	HTTP server
-10	10:46	Text to speech TTS with pyttsx3
-11	11:05	Easy AI with Python tutorial: Classification & Decision tree with Scikit-learn
+1	6:41	Using variables 
+2	7:32	Basic INPUT OUTPUT operation 
+3	11:25	The If statement 
+4	8:17	The For loop 
+5	9:12	The While loop 
+6	7:05	File management 
+7	11:12	Multi-threading 
+8	4:48	Send an email 
+9	6:39	HTTP server 
+10	10:46	Text to speech TTS with pyttsx3 
+11	11:05	Easy AI with Python tutorial: Classification & Decision tree with Scikit-learn 
 
 ==================================================
 
-/ /
-/ / Generated with a lot of love
+/ / 
+/ / Generated with a lot of love 
 / /    with   EasyPython       
 / / Web site: easycoding.tn     
-/ /
+/ / 
 
-for count in range(3):
-  print('abc')
-  print('123')
+for count in range(3): 
+    print('abc') 
+    print('123') 
 
 ![test_EasyPython_1](./EasyPython_demo_1_20211122.jpg "test_EasyPython 1")
 
