@@ -9,18 +9,17 @@ IoT@school by ADEL KASSAH
 
 ==================================================
 
-EasyPython - Code Python with Blocks 
-  http://easycoding.tn/ep/demos/code/
+# EasyPython - Code Python with Blocks 
+      http://easycoding.tn/ep/demos/code/
 
-EasyPython tutorial 
-  https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SNC0hcwtkS_XS1BaXX6lrt
-
-1	6:41	Using variables  
-
-2	7:32	Basic INPUT OUTPUT operation  
-
-3	11:25	The If statement 
-
+# EasyPython tutorial 
+      https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SNC0hcwtkS_XS1BaXX6lrt
+ 1  6:41    Using variables  
+  
+ 2  7:32    Basic INPUT OUTPUT operation  
+ 
+ 3	11:25	The If statement  
+ 
 4	8:17	The For loop 
 5	9:12	The While loop 
 6	7:05	File management 
