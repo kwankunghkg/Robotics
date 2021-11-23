@@ -10,10 +10,10 @@ IoT@school by ADEL KASSAH
 ==================================================
 
 ## EasyPython - Code Python with Blocks 
-      http://easycoding.tn/ep/demos/code/
+http://easycoding.tn/ep/demos/code/
 
 ## EasyPython tutorial 
-      https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SNC0hcwtkS_XS1BaXX6lrt
+https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SNC0hcwtkS_XS1BaXX6lrt
 ```
 1	6:41	Using variables  
 2	7:32	Basic INPUT OUTPUT operation  
@@ -54,12 +54,12 @@ for count in range(3):
 Reference
 
 ## Blocky  
-	https://github.com/google/blockly/wiki/Text#printing-text
+https://github.com/google/blockly/wiki/Text#printing-text
   
 ## Python
-	https://www.w3schools.com/python/python_operators.asp
-	https://www.askpython.com/python/examples/colon-in-python
-	http://easypythondocs.com/input.html
+https://www.w3schools.com/python/python_operators.asp
+https://www.askpython.com/python/examples/colon-in-python
+http://easypythondocs.com/input.html
 
 
 ==================================================
@@ -69,7 +69,7 @@ Reference
 ==================================================
 
 ## IoT@school - Control your game with an Android phone
-  http://easycoding.tn/index.php/iot-school/project-1-control-your-game-with-an-android-phone/
+http://easycoding.tn/index.php/iot-school/project-1-control-your-game-with-an-android-phone/
 ```  
   From the age of 10
 Objects to be connected
@@ -88,17 +88,17 @@ Hardware
 >  ADEL KASSAH Aug 25, 2017
 >  how to control a Scratch sprite with your own Android phone
 ### Video 1/3
-  https://youtu.be/9Dq7G75nJhQ
+https://youtu.be/9Dq7G75nJhQ
 ### Video 2/3
-  https://youtu.be/yLtuCWPnDWw
+https://youtu.be/yLtuCWPnDWw
 ### Video 3/3	
-  https://youtu.be/y2OPTOOQ7As
+https://youtu.be/y2OPTOOQ7As
 
 
 ==================================================
 
 ## Easy Raspberry Pi tutorial - ADEL KASSAH Jun 1, 2020
-  https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SjWektY24mHfUJi-4GLqMX
+https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SjWektY24mHfUJi-4GLqMX
 ```
 1	5:05	Setting up the envirment
 2	4:39	First PYTHON program Hello World
