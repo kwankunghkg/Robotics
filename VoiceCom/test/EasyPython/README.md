@@ -53,10 +53,10 @@ for count in range(3):
 
 Reference
 
-##Blocky  
+## Blocky  
 	https://github.com/google/blockly/wiki/Text#printing-text
   
-##Python
+## Python
 	https://www.w3schools.com/python/python_operators.asp
 	https://www.askpython.com/python/examples/colon-in-python
 	http://easypythondocs.com/input.html
@@ -68,7 +68,7 @@ Reference
 
 ==================================================
 
-##IoT@school - Control your game with an Android phone
+## IoT@school - Control your game with an Android phone
   http://easycoding.tn/index.php/iot-school/project-1-control-your-game-with-an-android-phone/
 ```  
   From the age of 10
@@ -84,20 +84,20 @@ Hardware
   An Android device
 ```
 
-##IOT@School Projet 1: Control your game with an Android phone
+## IOT@School Projet 1: Control your game with an Android phone
 >  ADEL KASSAH Aug 25, 2017
 >  how to control a Scratch sprite with your own Android phone
-###Video 1/3
+### Video 1/3
   https://youtu.be/9Dq7G75nJhQ
-###Video 2/3
+### Video 2/3
   https://youtu.be/yLtuCWPnDWw
-###Video 3/3	
+### Video 3/3	
   https://youtu.be/y2OPTOOQ7As
 
 
 ==================================================
 
-##Easy Raspberry Pi tutorial - ADEL KASSAH Jun 1, 2020
+## Easy Raspberry Pi tutorial - ADEL KASSAH Jun 1, 2020
   https://www.youtube.com/playlist?list=PLfPtpZzK2Z_SjWektY24mHfUJi-4GLqMX
 ```
 1	5:05	Setting up the envirment
