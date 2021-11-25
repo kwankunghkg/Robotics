@@ -496,19 +496,19 @@ RTL8722DM https://www.seeedstudio.com/Ameba-RTL...
 
 
 RTL8720DN BW16 BW16-Kit Module Dual-band WiFi Bluetooth-compatible Wifi Wireless Module IIC I2C/SPI/UART/PWM Interface
-https://www.aliexpress.com/item/1005003312543919.html
+  https://www.aliexpress.com/item/1005003312543919.html
 
 博安通RTL8720DN 双频WiFi+低功耗蓝牙5.0模块 板载/外接天线BW16  穆穆电子开发板模块  ¥20.5 约 HKD 25
-https://item.taobao.com/item.htm?id=646456645501
+  https://item.taobao.com/item.htm?id=646456645501
 
 2.4G或5G双频WiFi+蓝牙二合一模块RTL8720DN板载天线BW16 Ai-Thinker旗舰店 ¥23-32 促销价 ¥20.5-29.5
-https://detail.tmall.com/item.htm?id=616885326132
+  https://detail.tmall.com/item.htm?id=616885326132
 	
 博安通RTL8720DN 双频WiFi+低功耗蓝牙5.0模块 板载/外接天线BW16  深圳市安信可科技有限 ¥25-34 淘宝价   ¥20.9-29.9 惊喜价 约 HKD 25.5-36.5
-https://item.taobao.com/item.htm?id=610183312653
+  https://item.taobao.com/item.htm?id=610183312653
 
 双频WiFi+低功耗蓝牙5.0模块 BW16-Kit/开发板 基于RTL8720DN芯片  coreset旗舰店  ¥ 34.1 促销价  ¥ 30
-https://detail.tmall.com/item.htm?id=645171611358
+  https://detail.tmall.com/item.htm?id=645171611358
 
 
 Realtek RTL8720DN Dual-Band WiFi & BT 5.0 vs ESP32 
@@ -526,6 +526,7 @@ Ameba IoT 開發社群[RTL8722/RTL8195/RTL8710/...]
 
 RTL8720DN開發板 串口芯片 wch ch340g 南京沁恒微电子股份有限公司
   https://img.alicdn.com/imgextra/i3/2030188370/O1CN01xsX89O2BhVl6tBfWB_!!2030188370.jpg_q50s50.jpg_.webp
+雙頻WiFi+低功耗藍牙5.0模塊 基於RTL8720DN芯片 BW16-Kit/開發板 ¥38 約HKD 46.4
   https://world.taobao.com/item/647883728169.htm
 
 
