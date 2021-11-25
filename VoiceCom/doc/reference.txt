@@ -1,4 +1,4 @@
-```
+
 Robotics/VoiceCom/doc/reference.txt 
   https://github.com/kwankunghkg/Robotics/blob/main/VoiceCom/doc/reference.txt
 
@@ -446,10 +446,6 @@ Mini USB2.0 Microphone MIC Audio Adapter For MSN/PC/Notebook ¥15 约 HKD 18
   https://detail.tmall.com/item.htm?id=599458592543
 
 
-
-
-
-
 ============================================================
 
 ESP32-S2 New Arduino USB Functionality: Cool Combination with WiFi		Andreas Spiess Nov 7, 2021
@@ -520,6 +516,12 @@ Realtek RTL8720DN Dual-Band WiFi & BT 5.0 vs ESP32
 
 how to use RTL8720DN with Arduino IDE
   https://www.instructables.com/RTL8720DN/
+Realtek官方剛剛在Arduino IDE上支援RTL8720DN了...
+
+Ameba IoT 開發社群[RTL8722/RTL8195/RTL8710/...]
+  https://www.facebook.com/groups/AmebaIoT/permalink/2842483089339842/
+
+
 
 物聯網晶片解決方案 (RTL8710C/RTL8720C/RTL8722D/RTL8715A)
   https://www.realtek.com/en/component/zoo/item/2020-ces?Itemid=108
@@ -551,7 +553,7 @@ https://item.taobao.com/item.htm?id=654516485338
 
 
 
-
+============================================================
 
 #302 We build a 20 Dollars LoRa Satellite Ground Station and we follow the FossaSat-1 launch		Andreas Spiess Dec 8, 2019
 https://youtu.be/5k0aM-PJzo8
@@ -740,4 +742,3 @@ STM32WB15CC - Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32 
 
 ============================================================
 end of file
-```
