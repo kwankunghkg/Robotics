@@ -521,6 +521,13 @@ Realtek官方剛剛在Arduino IDE上支援RTL8720DN了...
 Ameba IoT 開發社群[RTL8722/RTL8195/RTL8710/...]
   https://www.facebook.com/groups/AmebaIoT/permalink/2842483089339842/
 
+瑞昱RTL8720DN開發板 雙WiFi+低功耗藍牙5.0模組 BT16 安信可原廠 TW$285-$300
+  https://shopee.tw/product/10207300/4553063468
+
+瑞昱RTL8720DN開發板 串口芯片 wch ch340g 南京沁恒微电子股份有限公司
+  https://img.alicdn.com/imgextra/i3/2030188370/O1CN01xsX89O2BhVl6tBfWB_!!2030188370.jpg_q50s50.jpg_.webp
+  https://world.taobao.com/item/647883728169.htm
+
 
 
 物聯網晶片解決方案 (RTL8710C/RTL8720C/RTL8722D/RTL8715A)
