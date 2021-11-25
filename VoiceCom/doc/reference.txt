@@ -453,6 +453,12 @@ https://youtu.be/XnqDEV21BSA
 82,929 views
 351K subscribers
 
+#328 ESP32 Secrets: Interrupts, and Deep-Sleep under the Hood		Andreas Spiess May 3, 2020
+https://youtu.be/CJhWlfkf-5M
+127,239 views
+351K subscribers
+
+
 LILYGO® TTGO T8 ESP32-S2 ESP32-S2-WOOR V1.1 WIFI Wireless Module Type-C Connector Development Board
  https://s.click.aliexpress.com/e/_AURGxd 
 
@@ -478,11 +484,11 @@ https://detail.tmall.com/item.htm?id=611467824431
 	ESP-32S转接板
 
 
+Ai-Thinker 安信可科技 Shenzhen Anxinke Technology Co., Ltd. - IoT wireless module
+  https://ai-thinker.en.alibaba.com/
+  https://github.com/Ai-Thinker-Open
 
-#328 ESP32 Secrets: Interrupts, and Deep-Sleep under the Hood		Andreas Spiess May 3, 2020
-https://youtu.be/CJhWlfkf-5M
-127,239 views
-351K subscribers
+
 
 Riddles? The First Arduino compatible 5GHz Wi-Fi Chip (RTL8720 )		Andreas Spiess Oct 17, 2021
 https://youtu.be/T10xCiM_4cw
@@ -524,8 +530,9 @@ Ameba IoT 開發社群[RTL8722/RTL8195/RTL8710/...]
   https://www.facebook.com/groups/AmebaIoT/permalink/2842483089339842/
 
 Ameba ARDUINO: Getting Started with BW16
-  https://www.amebaiot.com/zh/amebad-bw16-arduino-getting-started/
+  https://www.amebaiot.com/en/amebad-bw16-arduino-getting-started/
 RTL8720DN雙頻Wi-Fi開發板目前支援Windows XP/7/8/10 32位元和64位元作業系統。 在本文檔中，請使用 1.8.15 或更高版本的 Arduino IDE。
+  https://www.amebaiot.com/zh/amebad-bw16-arduino-getting-started/
 
 
 
@@ -567,6 +574,29 @@ https://item.taobao.com/item.htm?id=646208517528
 Ameba RTL8722DM mini Board (AMB 23)开发板兼容Arduino Windows  seeedstudio企业店铺     ¥249 淘宝价 ¥139 专属优惠 约 HKD 169
 https://item.taobao.com/item.htm?id=654516485338
 
+
+
+$10 RTLDuino is an Arduino Compatible WiFi IoT Board based on Realtek RTL8710AF WiSoC
+January 4, 2017 by Jean-Luc Aufranc (CNXSoft)
+  https://www.cnx-software.com/2017/01/04/10-rtlduino-is-an-arduino-compatible-wifi-iot-board-based-on-realtek-rtl8710af-wisoc/
+
+
+Inside the Raspberry Pi 3
+  https://www.raspberry-pi-geek.com/Archive/2016/17/Raspberry-Pi-3-Model-B-in-detail
+The Broadcom BCM43438 WiFi/Bluetooth combo kit transmits only in the 2.4GHz spectrum and provides WiFi (802.11b/g/n standard with up to 72.2Mbps net throughput), Bluetooth 4.1 (Classic as well as Low Energy), and even an FM radio receiver, which is not enabled on the Pi. (See the box titled "No Radio.") 
+
+
+============================================================
+
+Save the planet! Program in C, avoid Python, Perl
+  https://www.cnx-software.com/2021/11/18/save-the-planet-program-in-c-avoid-python-perl/
+
+Renesas introduces sub 50 cents FPGA family with free Yosys-based development tools
+  https://www.cnx-software.com/2021/11/22/renesas-50-cents-fpga-forgefpga-yosys-development-tools/
+	Renesas has just unveiled the ForgeFPGA family of low-cost low-power FPGA’s to go for under 50 cents in (large) volumes following their acquisition of Dialog Semiconductors last August, who previously designed the GreenPAK programmable mixed-signal matrix.
+
+Yosys open synthesis suite 
+ 
 
 
 ============================================================
@@ -757,4 +787,5 @@ STM32WB15CC - Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32 
 
 
 ============================================================
+last update 2021-11-26_0249
 end of file
