@@ -525,7 +525,7 @@ Ameba IoT 開發社群[RTL8722/RTL8195/RTL8710/...]
 
 Ameba ARDUINO: Getting Started with BW16
   https://www.amebaiot.com/zh/amebad-bw16-arduino-getting-started/
-
+RTL8720DN雙頻Wi-Fi開發板目前支援Windows XP/7/8/10 32位元和64位元作業系統。 在本文檔中，請使用 1.8.15 或更高版本的 Arduino IDE。
 
 
 
