@@ -1,4 +1,4 @@
-
+```
 Robotics/VoiceCom/doc/reference.txt 
   https://github.com/kwankunghkg/Robotics/blob/main/VoiceCom/doc/reference.txt
 
@@ -448,6 +448,15 @@ Mini USB2.0 Microphone MIC Audio Adapter For MSN/PC/Notebook ¥15 约 HKD 18
 
 ============================================================
 
+WiFi chips
+
+https://en.wikipedia.org/wiki/ESP32
+https://en.wikipedia.org/wiki/ESP8266
+Espressif 乐鑫科技 （688018）
+https://www.espressif.com/zh-hans/company/about-us/who-we-are
+https://www.espressif.com/en/company/about-us/who-we-are
+
+
 ESP32-S2 New Arduino USB Functionality: Cool Combination with WiFi		Andreas Spiess Nov 7, 2021
 https://youtu.be/XnqDEV21BSA
 82,929 views
@@ -783,9 +792,37 @@ STM32WB15CC - Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32 
 
 
 ============================================================
+```
 
+## === === ========== 
+```
+GitHub  MarkDown file (.md)
+```
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+# 1= ========== 
+## 2== ========== 
+### 3=== ========== 
+#### 4==== ========== 
+##### 5===== ========== 
+###### 6====== ========== 
+####### 7======= ========== 
+######## 8======== ========== 
 
+## === === ========== 
+# 1= ========== 
+## 2== ========== 
+### 3=== ========== 
+#### 4==== ========== 
+##### 5===== ========== 
+###### 6====== ========== 
+####### 7======= ========== 
+######## 8======== ========== 
+
+[this text](../../reference.md)
+
+```
 ============================================================
 last update 2021-11-26_0249
 end of file
+```
