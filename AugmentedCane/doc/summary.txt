@@ -85,14 +85,24 @@ The Augmented Cane performed a visual servoing to steer the participant toward a
 page 
 
 
-
--------------------------
-page 
-
-
-
 -------------------------
 
+Movie 1. Summary of the Augmented Cane.
+  https://bcove.video/3Dn8Grd
+
+Movie 2. Comparison of the Augmented Cane and a white cane during indoor experiments.
+  https://bcove.video/3mEH6iD
+
+Movie 3. Comparison of the Augmented Cane and a white cane during an outdoor experiment.
+  https://bcove.video/3luLykN
+
+Movie 4. Demonstration of the Augmented Cane performing closed-loop planning to navigate to a desired indoor position in a cluttered environment.
+  https://bcove.video/3iJo6Oy
+
+Movie 5. Demonstration of the Augmented Cane visual servoing to navigate to a stop sign.
+  https://bcove.video/3uVxbZJ
+
+-------------------------
 
 Movie 1. Summary of the Augmented Cane.
   https://bcove.video/3Dn8Grd
@@ -113,7 +123,6 @@ The Augmented Cane used LIDAR-based SLAM to determine the position of the partic
 Movie 5. Demonstration of the Augmented Cane visual servoing to navigate to a stop sign.
   https://bcove.video/3uVxbZJ
 The visual servoing algorithm consists of taking an image, classifying the stop sign with a bounding box, computing the angle to turn toward the stop sign, estimating the distance to the stop sign using the height and width of the bounding box, and then using the motor to steer the Augmented Cane.
-
 
 -------------------------
 
