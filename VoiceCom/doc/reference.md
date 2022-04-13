@@ -555,7 +555,7 @@ RTL8720DN開發板 串口芯片 wch ch340g 南京沁恒微电子股份有限公�
 
 
 
-物聯網晶片解決方案 (RTL8710C/RTL8720C/RTL8722D/RTL8715A)
+瑞昱半導體 Realtek 物聯網晶片解決方案 (RTL8710C/RTL8720C/RTL8722D/RTL8715A)
   https://www.realtek.com/en/component/zoo/item/2020-ces?Itemid=108
 
 RTL8720CM - AMEBA ZII SERIES, 1X1 WI-FI +BLUETOOTH, IOT LOW-ENERGY SOC 
@@ -566,7 +566,7 @@ RTL8720CM - AMEBA ZII SERIES, 1X1 WI-FI +BLUETOOTH, IOT LOW-ENERGY SOC
 	Bluetooth	BLE4.2 (PHY, LL, L2CAP, SM, ATT, GAP, GATT)
 	Security	Wi-Fi WEP, WPA, WPA2, WPS / Security engine: MD5, SHA-1, SHA2-256, DES, 3DES, AES
 
-Realtek at 2020 CES 2020/01/06 
+瑞昱半導體 Realtek at 2020 CES 2020/01/06 
   https://www.realtek.com/en/press-room/news-releases/item/realtek-to-demonstrate-full-range-of-connectivity-multimedia-and-consumer-electronics-solutions-at-2020-ces
 
 Ameba D: 超低耗電多功能物聯網方案 (RTL8722DM)
