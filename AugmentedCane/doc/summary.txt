@@ -95,24 +95,24 @@ page
 
 
 Movie 1. Summary of the Augmented Cane.
-The Augmented Cane uses a multimodal set of sensors to perceive the environment and provides grounded kinesthetic feedback to steer the participant. A series of experiments evaluated how novice and expert participants navigated when using the Augmented Cane or a white cane.
   https://bcove.video/3Dn8Grd
+The Augmented Cane uses a multimodal set of sensors to perceive the environment and provides grounded kinesthetic feedback to steer the participant. A series of experiments evaluated how novice and expert participants navigated when using the Augmented Cane or a white cane.
 
 Movie 2. Comparison of the Augmented Cane and a white cane during indoor experiments.
-Example trials compare how a representative novice participant navigates with the Augmented Cane and a white cane during a hallway experiment and an obstacle avoidance experiment.
   https://bcove.video/3mEH6iD
+Example trials compare how a representative novice participant navigates with the Augmented Cane and a white cane during a hallway experiment and an obstacle avoidance experiment.
 
 Movie 3. Comparison of the Augmented Cane and a white cane during an outdoor experiment.
-A time lapse of a novice participant navigating an outdoor asphalt path with the Augmented Cane and a white cane with audio feedback.
   https://bcove.video/3luLykN
+A time lapse of a novice participant navigating an outdoor asphalt path with the Augmented Cane and a white cane with audio feedback.
 
 Movie 4. Demonstration of the Augmented Cane performing closed-loop planning to navigate to a desired indoor position in a cluttered environment.
-The Augmented Cane used LIDAR-based SLAM to determine the position of the participant and the environment. This map was then filtered to detect obstacles, and a path planning algorithm, A*, computed a trajectory to safely reach the desired position. The grounded kinesthetic feedback then steered the user along this trajectory.
   https://bcove.video/3iJo6Oy
+The Augmented Cane used LIDAR-based SLAM to determine the position of the participant and the environment. This map was then filtered to detect obstacles, and a path planning algorithm, A*, computed a trajectory to safely reach the desired position. The grounded kinesthetic feedback then steered the user along this trajectory.
 
 Movie 5. Demonstration of the Augmented Cane visual servoing to navigate to a stop sign.
-The visual servoing algorithm consists of taking an image, classifying the stop sign with a bounding box, computing the angle to turn toward the stop sign, estimating the distance to the stop sign using the height and width of the bounding box, and then using the motor to steer the Augmented Cane.
   https://bcove.video/3uVxbZJ
+The visual servoing algorithm consists of taking an image, classifying the stop sign with a bounding box, computing the angle to turn toward the stop sign, estimating the distance to the stop sign using the height and width of the bounding box, and then using the motor to steer the Augmented Cane.
 
 
 -------------------------
