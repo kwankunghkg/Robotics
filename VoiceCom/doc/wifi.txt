@@ -21,7 +21,8 @@ wait for IP-address show page & note down IP-address
 4.
 ssh pi@<IP-address>
 
-if IP-address showed fail, use USB keyboard to control the system, keyboard press  ALT-F2  and switch to console mode
+if IP-address showed fail, use USB keyboard to control the system, 
+keyboard press  ALT-F2  and switch to console mode
 
 login system :
 user     : pi
