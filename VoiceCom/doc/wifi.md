@@ -1,0 +1,89 @@
+
+
+============================================================
+
+##procedures to Raspberry Pi setup WiFi 
+
+1.
+setup WiFi Access Point :
+SSID     : pi
+password : pi
+
+2.
+power up & boot system
+
+3.
+wait for IP-address show page & note down IP-address
+
+4.
+ssh pi@<IP-address>
+
+if IP-address showed fail, use USB keyboard to control the system, keyboard press  ALT-F2  and switch to console mode
+
+login system :
+user     : pi
+password : pi
+
+
+5. 
+add extra WiFi Access Point parameter 
+e.g.
+SSID     : xxx
+password : yyy
+
+use nano editor to edit file /etc/wpa_supplicant/wpa_supplicant.conf
+
+cd /etc/wpa_supplicant
+
+sudo nano wpa_supplicant.conf
+
+pi@etv20190409:/etc/wpa_supplicant $ ls -al
+total 56
+drwxr-xr-x   2 root root  4096 Apr 14 16:36 .
+drwxr-xr-x 104 root root  4096 Mar 25 15:44 ..
+-rwxr-xr-x   1 root root   937 Aug  9  2018 action_wpa.sh
+-rwxr-xr-x   1 root root 25619 Aug  9  2018 functions.sh
+-rwxr-xr-x   1 root root  4696 Aug  9  2018 ifupdown.sh
+-rw-------   1 root root   257 Apr 14 16:35 wpa_supplicant.conf
+-rw-------   1 root root   257 Apr 14 16:36 wpa_supplicant.conf.save.1
+pi@etv20190409:/etc/wpa_supplicant $ sudo nano wpa_supplicant.conf
+
+
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+country=HK
+
+network={
+    ssid="HTCdesire12plus"
+    scan_ssid=1
+    psk="testing"
+    key_mgmt=WPA-PSK
+}
+
+network={
+    ssid="pi"
+    scan_ssid=1
+    psk="pi"
+    key_mgmt=WPA-PSK
+}
+
+network={
+    ssid="xxx"
+    scan_ssid=1
+    psk="yyy"
+    key_mgmt=WPA-PSK
+}
+
+
+pi@etv20190409:/etc/wpa_supplicant $
+
+press control-x to quit nano editor
+
+6.
+reboot system
+
+sudo reboot now
+
+
+============================================================
+
