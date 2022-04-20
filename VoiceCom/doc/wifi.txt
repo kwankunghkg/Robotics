@@ -2,10 +2,10 @@
 
 ============================================================
 
-ETV-box (procedures to setup Raspberry Pi WiFi)
+ETV-box (procedure to setup Raspberry Pi WiFi)
 https://github.com/kwankunghkg/Robotics/blob/main/VoiceCom/doc/wifi.txt
 
-## procedures to setup Raspberry Pi WiFi 
+## procedure to setup Raspberry Pi WiFi 
 
 1.
 setup WiFi Access Point :
