@@ -1,7 +1,8 @@
 
+
 ============================================================
 
-ETV-box (procedures to Raspberry Pi setup WiFi)
+ETV-box (procedures to setup Raspberry Pi WiFi)
 https://github.com/kwankunghkg/Robotics/blob/main/VoiceCom/doc/wifi.txt
 
 ## procedures to setup Raspberry Pi WiFi 
@@ -89,3 +90,9 @@ sudo reboot now
 
 ============================================================
 
+
+
+
+============================================================
+last update 20220420
+end of file
