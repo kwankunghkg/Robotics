@@ -499,6 +499,35 @@ Ai-Thinker 安信可科技 Shenzhen Anxinke Technology Co., Ltd. - IoT wireless 
 
 
 
+
+
+瑞昱 RealTek RTL8720DN 雙WiFi+低功耗藍牙5.0 
+
+BW16 module 博安通RTL8720DN 双频WiFi+低功耗蓝牙5.0模块 板载/外接天线   穆穆电子开发板模块  ¥20.5 约 HKD 25
+  https://item.taobao.com/item.htm?id=646456645501
+
+
+how to use RTL8720DN (Dual-band WiFi+BLE) with Arduino IDE (BW16 module)
+  https://www.instructables.com/RTL8720DN/
+	RTL8720DN just like ESP32 is WiFi and Blutooth module, but it have extra support for WiFi 5GHz. It is a very big advantages, since 2.4GHz only have 3 non-overlapping channels, 5GHz can provide more options. The performance and number of pins not as rich as ESP32, it is more like ESP8266.
+	Step 8: Dual Band WiFi Analyzer (RTL8720DN+LCD)
+	mikey60 also rewrote some examples: 
+BW16 (RTL8720DN) Module - Getting Started with Arduino 
+  https://github.com/mikey60/BW16-RTL8720DN-Module-Arduino
+
+
+DIY Dual-band WiFi+BLE Dev. Board - RTL8720DN
+  https://www.instructables.com/DIY-Dual-band-WiFiBLE-Dev-Board-RTL8720DN/
+	RTL8720DN is a dual-band WiFi (2.4G +5GHz) + BLE5.0 SoC made by Realtek. It runs on ARM Cortex M33 archtecture and has dual cores, one clocked at 20MHz, and another at 200MHz. What make it amazing to use is that it is selling at $3 only on Aliexpress, that make it one of the cheapest and strongest IoT SoC in this prince range. 
+
+
+Arduino_GFX
+  https://www.instructables.com/ArduinoGFX/
+	This instructables introduce a color display graphic function (GFX) Library for Arduino.
+	Arduino_GFX	Step 18: RTL8720DN
+	Arduino_GFX	Step 21: Raspberry Pi Pico
+
+
 Riddles? The First Arduino compatible 5GHz Wi-Fi Chip (RTL8720 )		Andreas Spiess Oct 17, 2021
 https://youtu.be/T10xCiM_4cw
 48,849 views
@@ -530,9 +559,7 @@ Realtek RTL8720DN Dual-Band WiFi & BT 5.0 vs ESP32
   https://iot-industrial-devices.com/realtek-rtl8720dn-dual-band-wifi-bt-5-0-vs-esp32/
 
 
-
-
-how to use RTL8720DN with Arduino IDE
+how to use RTL8720DN with Arduino IDE (BW16 module)
   https://www.instructables.com/RTL8720DN/
 Realtek官方剛剛在Arduino IDE上支援RTL8720DN了...
 Ameba IoT 開發社群[RTL8722/RTL8195/RTL8710/...]
@@ -824,5 +851,6 @@ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing
 ```
 ============================================================
 last update 2021-11-26_0249
+last update 2022-04-21_1730
 end of file
 ```
