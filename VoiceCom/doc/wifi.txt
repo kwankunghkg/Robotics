@@ -88,6 +88,13 @@ reboot system
 
 sudo reboot now
 
+7.
+access "schedule page"
+
+wait for IP-address show-up page & note down IP-address
+
+use any web-browser with IP-address (e.g. 192.168.x1.x2)
+
 
 ============================================================
 
@@ -95,5 +102,5 @@ sudo reboot now
 
 
 ============================================================
-last update 2022-04-20_1622
+last update 2022-04-21_1322
 end of file
