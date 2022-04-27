@@ -3,7 +3,7 @@
   
   https://github.com/kwankunghkg/Robotics/blob/main/doc/STEM/MAKER.md  
   
-would compose a skill-set list to train Automation Maker  
+would compose a skill-set list for training Automation Maker  
   
 MAKER煉成陣  
   
