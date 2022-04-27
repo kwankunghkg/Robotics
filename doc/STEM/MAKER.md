@@ -10,13 +10,13 @@ googled "MAKER煉成陣" and found the following ...
 作者:數感實驗室 第一作者:吳恩淇 共同作者:賴以威 / 2021-07-01 瀏覽次數(12101)   
   https://okapi.books.com.tw/article/14731  
   
-數感實驗室Numeracy Lab  
+數感實驗室 Numeracy Lab  
   https://www.youtube.com/channel/UC_vW48pRsAdM72Px8lr5w0Q  
   
-Just one piece of chocolate and a microwave! You can discover the secret of the speed of light.		數感實驗室Numeracy Lab  Apr 7, 2022  
+Just one piece of chocolate and a microwave! You can discover the secret of the speed of light.		數感實驗室 Numeracy Lab  Apr 7, 2022  
 https://youtu.be/Lu--zu_wPrQ  
   
-女孩愛數學！從繪本認識世界上首位計算機程式設計師Ada Lovelace  
+女孩愛數學！從繪本認識世界上首位計算機程式設計師 Ada Lovelace  
 作者:賴嘉綾 / 2019-11-08 瀏覽次數(6857)   
   https://okapi.books.com.tw/article/12607  
   
@@ -61,11 +61,11 @@ https://en.wikipedia.org/wiki/Mathematics_education
   
 Learning by Doing / Maker Movement / Open Source Movement  
   https://en.wikipedia.org/wiki/Learning-by-doing  
-  
+AdaFruit  
   https://en.wikipedia.org/wiki/Adafruit_Industries  
 	105 employees (2016)  
   https://en.wikipedia.org/wiki/Limor_Fried  
-	Fried studied at MIT, Known for Open source movement  
+	Fried studied at MIT, known for Open Source Movement  
   https://en.wikipedia.org/wiki/Open-source_hardware  
 hard / soft   
   https://en.wikipedia.org/wiki/Open-source-software_movement  
@@ -80,5 +80,5 @@ https://github.com/kwankunghkg/Robotics/tree/main/Arduino/tools/GUI/BlocklyDuino
   
 ```  
 ============================================================  
-last update 2022-04-27_1656  
+last update 2022-04-27_1721  
 end of file  
