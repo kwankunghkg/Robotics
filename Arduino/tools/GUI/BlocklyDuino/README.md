@@ -31,7 +31,7 @@ demo XML
 ```
 more tutorials ...
   
-[介紹文] BlocklyDuino進化——一次搞懂BlocklyDuino v2跟v3的四大差異點  
+[介紹文] BlocklyDuino進化  一次搞懂BlocklyDuino v2跟v3的四大差異點  
 
 ```
 https://blog.cavedu.com/tag/blocklyduino/
