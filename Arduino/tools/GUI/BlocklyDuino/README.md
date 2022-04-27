@@ -29,7 +29,10 @@ demo XML
 ```
 ![demo XML](https://github.com/kwankunghkg/Robotics/blob/main/Arduino/tools/GUI/BlocklyDuino/demo/images/BlocklyDuino_Demo_20220427_ArduinoXML_1280x720.png "demo XML")
 ```
-more tutorials  
+more tutorials ...
+  
+[介紹文] BlocklyDuino進化——一次搞懂BlocklyDuino v2跟v3的四大差異點  
+
 ```
 https://blog.cavedu.com/tag/blocklyduino/
 
