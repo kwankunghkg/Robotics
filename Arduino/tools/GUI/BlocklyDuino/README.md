@@ -12,8 +12,10 @@ demo 2 control servo with potentio rotator
 demo 3 click button to change LED colors
 
 
-note : Check BlockDuino v2
-
+note : Check BlockDuino v2  
+```
+  https://github.com/BlocklyDuino/BlocklyDuino-v2
+```
 
 demo GUI  
 ```
