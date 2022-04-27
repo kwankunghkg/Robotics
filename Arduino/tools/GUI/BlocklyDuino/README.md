@@ -10,4 +10,10 @@ BlocklyDuino is a web-based visual programming editor for Arduino.
 demo 1 make default LED blink
 demo 2 control servo with potentio rotator
 demo 3 click button to change LED colors
+
+
+
+
+Check BlockDuino v2
+
 ```
