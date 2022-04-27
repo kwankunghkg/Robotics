@@ -2,6 +2,8 @@ https://github.com/kwankunghkg/Robotics/edit/main/DoE/NuclearPower.md
 
 ============================================================
 
+playlist 軍武器研 Nuclear Power
+
 第4代核熔鹽技術開發: 軍事革命		Neo Hong Kong NHK Streamed live on Jun 26, 2021
 https://youtu.be/Eqb2VEnN54E
 19,092 views
