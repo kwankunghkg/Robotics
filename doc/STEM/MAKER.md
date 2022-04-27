@@ -67,7 +67,9 @@ Learning by Doing / Maker Movement / Open Source Movement
   https://en.wikipedia.org/wiki/Limor_Fried
 	Fried studied at MIT, Known for Open source movement
   https://en.wikipedia.org/wiki/Open-source_hardware
+hard / soft 
   https://en.wikipedia.org/wiki/Open-source-software_movement
+LadyAda.net
   http://www.ladyada.net/
 
 BlocklyDuino (Arduino Web GUI)
