@@ -28,5 +28,10 @@ demo Arduino.ino
 demo XML  
 ```
 ![demo XML](https://github.com/kwankunghkg/Robotics/blob/main/Arduino/tools/GUI/BlocklyDuino/demo/images/BlocklyDuino_Demo_20220427_ArduinoXML_1280x720.png "demo XML")
-  
+```
+more tutorials  
+```
+https://blog.cavedu.com/tag/blocklyduino/
+
+
 
