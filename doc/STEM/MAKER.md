@@ -1,3 +1,7 @@
+
+20220427_MAKER煉成陣.txt  
+  
+  https://github.com/kwankunghkg/Robotics/blob/main/doc/STEM/MAKER.md  
   
 would compose a skill-set list to train Automation Maker  
   
@@ -72,13 +76,29 @@ hard / soft
 LadyAda.net  
   http://www.ladyada.net/  
   
+============================================================    
+  
 BlocklyDuino (Arduino Web GUI)  
 https://github.com/kwankunghkg/Robotics/tree/main/Arduino/tools/GUI/BlocklyDuino  
   
-============================================================  
+============================================================    
+  
+robot - 4 legs / James Bruton 2022Mar29  
+  https://youtu.be/dYgCxZjdNUU  
+CAD and Code:  
+  https://github.com/XRobots/openDogV3  
+  
+robot - self-balancing wheels / James Bruton 2022Apr 26  
+  https://youtu.be/VYU8CRTD2cA  
+CAD & Code:   
+  https://github.com/XRobots/TallBalancer  
+  
+  
+  
+  
   
   
 ```  
 ============================================================  
-last update 2022-04-27_1721  
+last update 2022-04-27_1728  
 end of file  
