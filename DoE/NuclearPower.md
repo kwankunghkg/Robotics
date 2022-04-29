@@ -1,4 +1,4 @@
-https://github.com/kwankunghkg/Robotics/edit/main/DoE/NuclearPower.md
+https://github.com/kwankunghkg/Robotics/blob/main/DoE/NuclearPower.md
 
 ============================================================
 
