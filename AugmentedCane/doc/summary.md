@@ -1,9 +1,10 @@
   
-Robotics Stanford Augmented Cane  
+20220413_Robotics Stanford Augmented Cane.txt  
+  
   
 brief summary of Stanford research paper -   
 Multimodal sensing and intuitive steering assistance improve navigation and mobility for people with impaired vision   
-  https://github.com/kwankunghkg/Robotics/blob/main/AugmentedCane/doc/summary.md  
+  https://github.com/kwankunghkg/Robotics/blob/main/AugmentedCane/doc/summary.txt  
   
   
 Stanford Researchers Build $400 Self-Navigating Smart Cane  
@@ -135,4 +136,5 @@ https://www.science.org/doi/10.1126/scirobotics.abm6010
   
   
 -------------------------  
+last update 2022-04-13  
 end of file  
