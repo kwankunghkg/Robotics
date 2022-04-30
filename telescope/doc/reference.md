@@ -1,7 +1,8 @@
-DIY Telescope  
+20220430_DIY_Telescope.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/telescope/doc/reference.md  
   
-  
+  https://en.wikipedia.org/wiki/Milky_Way  
+  https://en.wikipedia.org/wiki/Rings_of_Saturn  
   
 Arduino Star Tracker / Arduino Astro Tracker  
   https://en.wikipedia.org/wiki/Star_tracker  
