@@ -107,15 +107,14 @@ https://youtu.be/iuMZG-SyDCU
   
   
   
-3D-printed Newtonian Reflector Telescope		Big Big Space Dec 3, 2020  
+3D printed Newtonian Reflector Telescope		Big Big Space Dec 3, 2020  
 https://youtu.be/rt04QXj3ZTo  
 5,830 views  
 243 subscribers  
-3D-printed Newtonian Reflector Telescope.  
+3D printed Newtonian Reflector Telescope.  
 Download: https://www.BigBigSpace.com  
 6" (153mm) f/5 primary mirror, 50mm secondary mirror.  
 750mm Focal Length  
-------------------  
 Download and Print from BigBigSpace.com:  
 https://bigbigspace.com/telescope/n60...  
 Read the Article on Medium:  
@@ -162,6 +161,7 @@ Software: https://github.com/eyalabraham/differ...
   
   
   
+```
 ========================================      
 last update : 2022-04-30_0925      
 end of file      
