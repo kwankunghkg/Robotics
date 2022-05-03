@@ -6,11 +6,24 @@
 Anastasi In Tech ( Neuromorphic Computing / IBM silicon Qubits  / Organic Transistors / Nvidia H100 + TSMC-N4 / Tesla Dojo / Graphcore IPU + TSMC-N7 WoW / ... )  
   https://www.youtube.com/channel/UCORX3Cl7ByidjEgzSCgv9Yw  
   
+-------------------------  
+  
+  
 Machine Learning (Graphcore, Cerebras, SambaNova, Anton)  
   https://www.anandtech.com/show/16908/hot-chips-2021-live-blog-machine-learning-graphcore-cerebras-sambanova-anton  
   
 Are Groq And Sambanova Worth It ?  
   https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/  
+  
+  
+Vision Transformers on GroqChip™ :: GroqDay March 2022		Groq Apr 15, 2022  
+https://youtu.be/KDytoBbqdN8  
+82 views  
+5  
+291 subscribers  
+In this GroqDay demo, we show how easy it is to get transformers, which were originally designed to perform natural language processing tasks, working on GroqChip™, enabled by Groq Compiler, to perform vision tasks such as image classification or object detection. We delivered up to 7x faster results compared to Nvidia’s A100.    
+Register and watch the full GroqDay event at bit.ly/groqday2.  
+    
   
   
 query language GROQ (Graph-Relational Object Queries)   
@@ -24,6 +37,9 @@ How to Work in Robotics When You're Not a Roboticist / 7 unconventional ways to 
   
 Foxglove  
   https://en.wikipedia.org/wiki/Digitalis  
+  
+  
+-------------------------  
   
   
 Organic Transistors Explained. Printing CPUs at Home. Smart Skin / Anastasi In Tech Apr 22, 2022  
@@ -120,5 +136,5 @@ MarkDown format tutorial
   
   
 -------------------------  
-last update 2022-05-04_0733  
+last update 2022-05-04_0754  
 end of file  
