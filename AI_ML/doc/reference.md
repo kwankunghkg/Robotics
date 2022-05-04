@@ -127,6 +127,118 @@ Are AI Venture Investors Crazy, Or Are Groq And Sambanova Worth It? / Karl Freun
   
 -------------------------  
   
+tesla robot optimus  
+  
+recruitment :  
+tesla.com/AI  
+  
+Watch Elon Musk announce Tesla Bot in 10 minutes		CNET Aug 20, 2021  
+https://youtu.be/p_ubwnA9428  
+840,021 views  
+14K  
+3.42M subscribers  
+At Tesla AI Day, Elon Musk and his team of engineers unveil a prototye humanoid robot, the Tesla Bot. In addition, the status of the company's full self driving technology.  
+  
+Elon Musk REVEALS Tesla Bot (full presentation)		CNET Highlights Aug 20, 2021  
+https://youtu.be/HUP6Z5voiS8  
+5,361,381 views  
+74K  
+276K subscribers  
+At Tesla AI Day, Tesla CEO Elon Musk unveils the Tesla Bot. The humanoid robot is designed to perform general robotic tasks for humans.  
+  
+Elon Musk Reveals What's Next for Tesla! (Optimus Robot and Robotaxis)		CNET Highlights Apr 8, 2022  
+https://youtu.be/HxLNwR23C-k  
+58,360 views  
+952  
+276K subscribers  
+At the Cyber Rodeo event, Tesla CEO talks about the future of Tesla, including full self driving cars, a dedicated robot factory, Tesla Robot Optimus.  
+  
+Everything Elon Musk Said About Optimus Robot in Tesla's Q1 Earnings Call		CNET Highlights Apr 21, 2022  
+https://youtu.be/IZdm8kUbLNw  
+40,917 views  
+548  
+276K subscribers  
+During Tesla's Q1 earnings call, listen to Elon Musk update the company's shareholders on the Optimus factory.  
+  
+Musk Says Tesla's Robot Will Out-Value its Cars  
+Apr 25th, 2022 / Unit 202 Productions / Eric Sorensen, Anna Wells  
+  https://www.mbtmag.com/video/video/22197253/elon-musk-says-teslas-robot-to-soon-outvalue-its-cars  
+Musk says he was “surprised” that nobody understood the scale of the Optimus development project.  
+  
+Musk says robot, aimed for 2023, will be worth more than Tesla’s car business  
+Rebecca Bellan@rebeccabellan / 7:25 AM GMT+8•April 21, 2022  
+  https://techcrunch.com/2022/04/20/musk-says-robot-aimed-for-2023-will-be-worth-more-than-teslas-car-business/  
+  
+  
+tesla / FSD / dojo 道場 / NN / ASIC / FPGA / cleanTechnica / optimus   
+  tesla.com/AI  
+  https://cleantechnica.com/2020/11/21/tesla-dojo-supercomputer-explained-how-to-make-full-self-driving-ai/  
+  https://en.wikipedia.org/wiki/Dojo  
+  https://en.wikipedia.org/wiki/Tesla_Autopilot#Tesla_Dojo  
+    https://cleantechnica.com/2020/08/15/tesla-autopilot-innovation-comes-from-team-of-300-jedi-engineers-interview-with-elon-musk/  
+  
+  
+  
+  
+Tesla Dojo Supercomputer Explained — How To Make Full Self-Driving AI  
+  https://cleantechnica.com/2020/11/21/tesla-dojo-supercomputer-explained-how-to-make-full-self-driving-ai/  
+“dojo” ... a school or training facility for Japanese martial arts. The dojo Elon Musk has been talking about is also a kind of training school, but for computers. It will become a supercomputer specially designed to train neural networks.  
+NN, ASIC, or FPGA   
+  
+Tesla Autopilot Innovation Comes From Team Of ~300 Jedi Engineers — Interview With Elon Musk / By Zachary Shahan / Published August 15, 2020  
+  https://cleantechnica.com/2020/08/15/tesla-autopilot-innovation-comes-from-team-of-300-jedi-engineers-interview-with-elon-musk/  
+  
+tesla FSD  
+  https://en.wikipedia.org/wiki/Tesla_Autopilot  
+  https://en.wikipedia.org/wiki/Tesla_Autopilot#Tesla_Dojo  
+  
+"Tesla Dojo Technology" (PDF). Tesla. Retrieved October 29, 2021.  
+  https://tesla-cdn.thron.com/static/SBY4B9_tesla-dojo-technology_OPNZ0M.pdf  
+  
+  
+  https://en.wikipedia.org/wiki/OpenEXR  
+  https://en.wikipedia.org/wiki/Truevision_TGA  
+  https://en.wikipedia.org/wiki/TIFF  
+  https://en.wikipedia.org/wiki/Cg_(programming_language)  
+    
+  https://en.wikipedia.org/wiki/IEEE_754  
+  https://en.wikipedia.org/wiki/Half-precision_floating-point_format  
+Floating-Point Arithmetic (IEEE 754)  
+  https://en.wikipedia.org/wiki/IEEE_754  
+Double-precision floating-point format (FP64 or float64)    
+  https://en.wikipedia.org/wiki/Double-precision_floating-point_format  
+  https://en.wikibooks.org/wiki/Microprocessor_Design/FPU  
+  
+  https://en.wikipedia.org/wiki/Significand  
+  https://en.wikipedia.org/wiki/Common_logarithm#Mantissa_and_characteristic  
+    
+  https://en.wiktionary.org/wiki/chilia-  
+  https://en.wiktionary.org/wiki/chiliad#English  
+  https://en.wikipedia.org/wiki/1000_(number)  
+  https://en.wikipedia.org/wiki/Harshad_number  
+  https://en.wikipedia.org/wiki/Euler%27s_totient_function  
+  https://en.wikipedia.org/wiki/Centered_square_number  
+  
+Exclusive: Elon Musk On Twitter Fame, Loneliness, And AI		Insider News Apr 27, 2022  
+https://youtu.be/J3klw7jXxL0  
+218,305 views  
+5.4K  
+271K subscribers  
+In an exclusive interview with Axel Springer in March, Elon Musk talked about his Twitter fame, feeling lonely, and the future of AI.  
+  
+  
+Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252		Lex Fridman Dec 29, 2021  
+https://youtu.be/DxREm3s1scA  
+4,675,893 views  
+132K  
+1.68M subscribers  
+Elon Musk is CEO of SpaceX, Tesla, Neuralink, and The Boring Company.  
+  
+  
+  
+  
+-------------------------  
+  
 Image Processing - Object Detection  
   
 YOLOv3, YOLOv4, YOLOv5, Oh My! | OpenCV + Roboflow Webinar on the YOLO Family of Models / Roboflow / Jun 7, 2021  
@@ -151,5 +263,5 @@ MarkDown format tutorial
   
   
 -------------------------  
-last update 2022-05-04_0754  
+last update 2022-05-04_2041  
 end of file  
