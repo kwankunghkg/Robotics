@@ -4,7 +4,7 @@
 -------------------------  
   
 Anastasi In Tech ( Neuromorphic Computing / IBM silicon Qubits  / Organic Transistors / Nvidia H100 + TSMC-N4 / Tesla Dojo / Graphcore IPU + TSMC-N7 WoW / ... )  
-  https://www.youtube.com/channel/UCORX3Cl7ByidjEgzSCgv9Yw  
+  https://www.youtube.com/c/AnastasiInTech/  
   
 -------------------------  
   
