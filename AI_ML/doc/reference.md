@@ -131,10 +131,13 @@ Image Processing - Object Detection
   
 YOLOv3, YOLOv4, YOLOv5, Oh My! | OpenCV + Roboflow Webinar on the YOLO Family of Models / Roboflow / Jun 7, 2021  
   https://youtu.be/Xgrg8_936pk  
+  
 Comprehensive Guide to YOLO Family / Joseph Nelson / Jun 7, 2021  
   https://blog.roboflow.com/guide-to-yolo-models/  
+  
 YOLOv5 v6.0 is here - new Nano model at 1666 FPS / Jacob Solawetz / Oct 13, 2021  
   https://blog.roboflow.com/yolov5-v6-0-is-here/  
+  
 YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite   
   https://github.com/ultralytics/yolov5  
   https://pytorch.org/hub/ultralytics_yolov5/  
