@@ -202,6 +202,7 @@ tesla FSD
   https://en.wikipedia.org/wiki/Cg_(programming_language)  
     
   https://en.wikipedia.org/wiki/IEEE_754  
+FP16  
   https://en.wikipedia.org/wiki/Half-precision_floating-point_format  
 Floating-Point Arithmetic (IEEE 754)  
   https://en.wikipedia.org/wiki/IEEE_754  
