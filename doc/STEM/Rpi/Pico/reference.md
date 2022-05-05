@@ -1,5 +1,5 @@
 20220506_Rpi_Pico_ref_md.txt    
-  https://github.com/kwankunghkg/Robotics/blob/main/AI_ML/doc/reference.md    
+  https://github.com/kwankunghkg/Robotics/blob/main/doc/STEM/Rpi/Pico/reference.md  
     
 -------------------------    
     
@@ -1033,5 +1033,5 @@ MarkDown format tutorial
     
     
 -------------------------    
-last update 2022-05-06_0031    
+last update 2022-05-06_0038    
 end of file  
