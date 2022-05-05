@@ -103,7 +103,6 @@ https://youtu.be/zlKJ5hvfs6s
 4.4K  
 398K subscribers  
 🔀LINKS  
--------------------------------------  
 Download MicroPython: https://bit.ly/36QWgKk  
 Download Thonny: https://thonny.org/  
 Prepare the PICO: https://electronoobs.com/eng_arduino_...  
@@ -698,7 +697,6 @@ Raspberry Pi Pico(600円)の性能テスト、結構すごい
 処理速度　26ms/frame  
 PWMの音声出力をなめてました  
 想像以上に音質が良かった  
--------------------------------  
 Raspberry Pi Pico（600日元）的性能測試，相當驚人  
 ・ SD卡讀取（硬件SPI）  
 ・ 壓縮圖像擴展（DXT1）  
@@ -1033,5 +1031,5 @@ MarkDown format tutorial
     
     
 -------------------------    
-last update 2022-05-06_0038    
+last update 2022-05-06_0031    
 end of file  
