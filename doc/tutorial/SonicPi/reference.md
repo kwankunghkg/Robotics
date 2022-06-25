@@ -7,7 +7,7 @@ Sonic Pi is a code-based music creation and performance tool.
 Sonic Pi Tutorial  
   https://sonic-pi.net/tutorial.html  
   
-寫音樂 Sonic Pi 教學  
+寫音樂 Sonic Pi 教學 tutorial  
   
 (字幕) 用程式碼也能寫音樂！？ Sonic Pi 教學 - 1 / 愷開寫程式 / Kalan Coding  
   https://youtu.be/aTA5wWhvKAQ  
