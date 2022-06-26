@@ -14,10 +14,9 @@ first try Processing 劃畫 ,
 then try Arduino ,  
 a piece of cake !!!  
   
-1小時快速入門  
+1小時快速入門  Processing Tutorial 教學  
   
-Processing Tutorial 教學  
-  
+-----------------------------------------------------------   
   
 ## demo - OpenProcessing Sine Wave simulate Lissajous Curve 20200608  
 video :  
@@ -30,16 +29,20 @@ video :
   https://openprocessing.org/sketch/1244458  
   
   
+-----------------------------------------------------------   
   
 Processing Arduino relationship...  
   https://www.arduino.cc/education/visualization-with-arduino-and-processing  
 With Processing, you can create stunning visual and interactive experiences. You can use Arduino serial data and send it to Processing using a serial library (in Processing). This allows you to use the data from all sorts of sensors !  
   
   
+-----------------------------------------------------------   
   
 Processing 基本教學 1小時快速入門  
   http://140.129.118.16/~richwang/100-1-Courses/Processing%20Tutorial%20(cht).pdf  
   
+  
+-----------------------------------------------------------   
   
 請copy至PDE執行環境,  
 並按下Run按鈕來執行看看!!  
