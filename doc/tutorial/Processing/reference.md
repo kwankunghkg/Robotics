@@ -45,6 +45,7 @@ Processing 基本教學 1小時快速入門
 並按下Run按鈕來執行看看!!  
   
   
+-----------------------------------------------------------   
   
 void setup() {  
     size(200, 200);  
@@ -62,6 +63,34 @@ void circles(int x, int y) {
     ellipse(x, y, 50, 50);  
     ellipse(x+20, y+20, 60, 60);  
 }  
+  
+  
+-----------------------------------------------------------   
+  
+0.0: Introduction - Processing Tutorial  
+  https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi  
+  
+1-7: Foundations of Programming in JavaScript - p5.js Tutorial  
+  https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA  
+  
+11: Video - Processing Tutorial  
+  https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8  
+  
+10: Images and Pixels - Processing Tutorial  
+  https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9  
+  
+12: Kinect and Processing Tutorial  
+The Coding Train Nov 25, 2015  
+  https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf  
+12.1: What is the Kinect? - Kinect and Processing Tutorial  
+12.2: The Depth Image - Kinect and Processing Tutorial  
+12.3: Raw Depth Data - Point Clouds and Thresholds - Kinect and Processing Tutorial  
+12.4: Average Point Hand Tracking - Kinect and Processing Tutorial  
+12.5: Closest or Highest Point Tracking - Kinect and Processing Tutorial  
+  
+Getting Started with Kinect and Processing - Daniel Shiffman
+  http://shiffman.net/p5/kinect/  
+For the kinect v1, the raw depth values range between 0 and 2048, for the kinect v2 the range is between 0 and 4500.  
   
   
 -----------------------------------------------------------   
