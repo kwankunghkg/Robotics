@@ -1,7 +1,7 @@
 
 -----------------------------------------------------------   
   
-Processing Tutorial 教學  
+Processing Tutorial 教學 (with pictures)   
   https://weshare.hk/kwankung/articles/4764814  
   
 Processing 基本教學 1小時快速入門  
@@ -19,7 +19,7 @@ a piece of cake !!!
 Processing Tutorial 教學  
   
   
-demo - Processing Sine Wave simulate Lissajous Curve 20200608  
+demo - OpenProcessing Sine Wave simulate Lissajous Curve 20200608  
 video :  
   https://youtu.be/X0e1K6sGsDU  
 source code :  
