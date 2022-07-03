@@ -1,6 +1,6 @@
 ---------------------------------------------  
   
-##procedure to copy (duplicate/ clone) Rpi boot image (micro-SDcard)  
+## procedure to copy (duplicate/ clone) Rpi boot image (micro-SDcard)  
 1. open a terminal (Linux Command Shell)  
 2. type "lsusb" to check USB devices  
 3. type "lsblk" to check "sb*"  
