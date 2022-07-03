@@ -7,7 +7,7 @@
 4. insert SOURCE Rpi boot image (micro-SDcard) to USB port  
 5. type "lsusb" to check newly inserted USB device  
 6. type "lsblk" to check presence of "sda"  
-7. insert BLANK (micro-SDcard)  
+7. insert BLANK micro-SDcard to USB port  
 8. type "lsusb" to check newly inserted USB device  
 9. type "lsblk" to check presence of "sdb"  
 10. type "df -h" to check mounted devices (e.g. /dev/sda & /dev/sdb)  
