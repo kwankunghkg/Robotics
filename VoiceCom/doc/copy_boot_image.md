@@ -1,6 +1,15 @@
 ---------------------------------------------  
   
+// "dd" command is very destructive. The "dd" command wipes the partition table and other metadata, flags from the block device. So you must be careful. //  
+  
+  https://linuxhint.com/dd_command_linux/  
+  
+  https://www.geeksforgeeks.org/dd-command-linux/  
+  
+  
+---------------------------------------------  
 ## procedure to copy (duplicate/ clone) Rpi boot image (micro-SDcard)  
+  
 1. open a terminal (Linux Command Shell)  
 2. type "lsusb" to check USB devices  
 3. type "lsblk" to check "sb*"  
