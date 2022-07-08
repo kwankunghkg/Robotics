@@ -12,6 +12,14 @@ OpenTechLab Jul 8, 2017
   
 ---------------------------------------------  
   
+FreeCAD - playlist  
+  https://www.youtube.com/playlist?list=PLk52L1NCT7L13Aj_7kl81Fdlyzh49TbgA  
+    38 videos 130 views Last updated on May 12, 2018  
+  
+---------------------------------------------  
+  
+  
+  
 3D CAD software  
   http://reprap.org/wiki/Useful_Software_Packages  
   
