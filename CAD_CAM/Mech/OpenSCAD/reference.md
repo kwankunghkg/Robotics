@@ -30,6 +30,21 @@ OpenTechLab Jul 8, 2017
   
 ---------------------------------------------  
   
+RPi_camera_mount_v02  
+  https://github.com/kwankunghkg/Robotics/tree/main/CAD_CAM/Mech/OpenSCAD/3Dmodel_OpenSCAD/RPi_camera_mount_v02  
+  
+---------------------------------------------  
+  
+L_Mounting_Bracket_v02  (for Tamiya 3+5mm prototyping plates)
+  https://github.com/kwankunghkg/Robotics/tree/main/CAD_CAM/Mech/OpenSCAD/3Dmodel_OpenSCAD/L_Mounting_Bracket_v02  
+  
+Tamiya 70157 Universal Plate Set  
+  https://www.tamiya.com/english/products/70157plate/index.htm  
+Tamiya 70172 Universal Plate L (210x160mm)  
+  https://www.tamiya.com/english/products/70172plate/index.htm  
+  
+---------------------------------------------  
+  
 Discovering OpenSCAD – part 1: basic functions  
   http://www.open-electronics.org/discovering-openscad-part-1-basic-functions/  
   
