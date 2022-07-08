@@ -24,6 +24,7 @@ OpenTechLab Jul 8, 2017
 1. sketchup  
 2. Design Spark Mechanical  
 3. OpenSCAD (parametric)   
+  https://en.wikipedia.org/wiki/OpenSCAD  
 4. FreeCAD  (parametric)  
   https://en.wikipedia.org/wiki/FreeCAD  
   
