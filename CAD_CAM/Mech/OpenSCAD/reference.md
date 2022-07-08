@@ -7,12 +7,23 @@ OpenSCAD - reference.md
     
 ---------------------------------------------  
   
-why FreeCAD ?  
+why FreeCAD & OpenSCAD ?  
 FOSS Free and Open-Source Software  
 excellent demo ...  
   https://youtu.be/38Z7E8OcVd8  
 [008] Prototype Enclosures with FreeCAD & OpenSCAD  
 OpenTechLab Jul 8, 2017  
+  
+---------------------------------------------  
+  
+3D CAD software  
+  http://reprap.org/wiki/Useful_Software_Packages  
+  
+1. sketchup  
+2. Design Spark Mechanical  
+3. OpenSCAD (parametric)   
+4. FreeCAD  (parametric)  
+  https://en.wikipedia.org/wiki/FreeCAD  
   
 ---------------------------------------------  
   
