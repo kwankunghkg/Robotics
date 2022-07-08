@@ -7,7 +7,7 @@ FreeCAD - reference.md
   
 ---------------------------------------------  
   
-why FreeCAD ?  
+why FreeCAD & OpenSCAD ?  
 FOSS Free and Open-Source Software  
 excellent demo ...  
   https://youtu.be/38Z7E8OcVd8  
@@ -21,8 +21,6 @@ FreeCAD - playlist
     38 videos 130 views Last updated on May 12, 2018  
   
 ---------------------------------------------  
-  
-  
   
 3D CAD software  
   http://reprap.org/wiki/Useful_Software_Packages  
