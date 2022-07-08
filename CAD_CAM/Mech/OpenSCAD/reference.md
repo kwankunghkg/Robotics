@@ -1,6 +1,15 @@
   
 ---------------------------------------------  
   
+why FreeCAD ?  
+FOSS Free and Open-Source Software  
+excellent demo ...  
+  https://youtu.be/38Z7E8OcVd8  
+[008] Prototype Enclosures with FreeCAD & OpenSCAD  
+OpenTechLab Jul 8, 2017  
+  
+---------------------------------------------  
+  
 Discovering OpenSCAD – part 1: basic functions  
   http://www.open-electronics.org/discovering-openscad-part-1-basic-functions/  
   
@@ -58,7 +67,30 @@ by Parkinbot, published Sep 15, 2015
   
 ---------------------------------------------  
   
+OpenSCAD HD Stepper Motors and Gearbox mockups  
+by thehans, published Jul 5, 2017  
+  https://www.thingiverse.com/thing:2419225  
   
+---------------------------------------------  
+    
+openscad wrap cylinder  
+  
+Wrapping a surface() around a cylinder #994  
+  https://github.com/openscad/openscad/issues/994  
+  
+Wrap image on curved surface for OpenSCAD  
+  https://www.thingiverse.com/thing:1668883/files  
+  
+Native bend modifier - is it possible to implement in OpenSCAD? #815  
+  https://github.com/openscad/openscad/issues/815  
+  
+Experimental circular/spherical/cylindric bend modifier (issue openscad#815)  
+  https://github.com/night-ghost/openscad/commit/51808511624e4523a342b437b4640ac97fb0379e  
+  
+Openscad: Warp 3d Surface To Fit Onto Another Shape  
+  https://www.shapeways.com/forum/t/openscad-warp-3d-surface-to-fit-onto-another-shape.80293/  
+  
+
 
   
   
