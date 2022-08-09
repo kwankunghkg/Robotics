@@ -6,5 +6,5 @@ while True:
   
 # -*- coding: utf-8 -*-
 while True:
-  print u"█  █ █ █▓▓█",
+  print u"█  █ █ ░▓▒▓",
 
