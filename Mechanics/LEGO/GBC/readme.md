@@ -1,5 +1,10 @@
 ---------------------------------------------  
   
+  
+LEGO playlist  
+https://www.youtube.com/playlist?list=PLk52L1NCT7L2_K1rpx9LyPV5eXkxjXcK6  
+  
+  
 Top 10 Amazing LEGO Great Ball Contraption Modules (Akiyuki) / Beyond the Brick  
 https://youtu.be/Vj8o7G8vdu4  
 8.6K likes / 1.01M subscribers  
