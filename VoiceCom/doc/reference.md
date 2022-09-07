@@ -804,6 +804,102 @@ STM32WB15CC - Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32 
 
 
 ============================================================
+ 
+ 
+raspberry pi os wifi device driver install realtek 
+ 
+Process to install RealTek wifi driver RTL8821AU 
+https://forums.raspberrypi.com/viewtopic.php?t=240609 
+https://forums.raspberrypi.com/viewtopic.php?f=28&t=62371 
+ 
+ 
+Raspberry Pi Realtek WiFi Driver Download and Install Guide 
+https://downloadlinux.net/2021/01/26/raspberry-pi-realtek-wifi-driver-download-install-guide/ 
+For Realtek rtl8188EU, rtl8188FU, rtl8192EU, rtl8192SU, rtl8812AU, rtl8821CU, rtl8822BU on Debian first try: Fars-robotics Driver. 
+Again for RTL8192EU, RTL8811AU, RTL8811CU, RTL8812AU, RTL8812BU, RTL8814AU, RTL8822BU try: Morrownr Driver. Or else: RinCat Driver. 
+  
+https://tutorialforlinux.com/realtek-wifi-driver-raspberry-pi-installation/ 
+ 
+How do I install the drivers for a WiFi dongle with the RealTek 8812AU chipset on Raspbian? [duplicate] 
+https://raspberrypi.stackexchange.com/questions/67719/how-do-i-install-the-drivers-for-a-wifi-dongle-with-the-realtek-8812au-chipset-o 
+ 
+Install drivers for RTL8812au wireless usb adapter 
+https://raspberrypi.stackexchange.com/questions/64502/install-drivers-for-rtl8812au-wireless-usb-adapter 
+
+
+
+Edimax EW-7811UTC AC600 Wireless Dual-Band Mini USB Adapter  
+https://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/au/wireless_adapters_ac600_dual-band/ew-7811utc 
+Complies with draft IEEE 802.11ac standard and backward compatible with wireless 802.11a/b/g/n standards 
+Dual-band wireless connectivity for 2.4GHz or 5GHz 
+Maximum Wi-Fi speeds of 150Mbps (2.4GHz) or 433Mbps (5GHz) 
+Features a hardware WPS (Wi-Fi Protected Setup) button for easy wireless connections 
+Features easy setup wizard 
+Supports Windows XP/Vista/7/8, Linux and Mac OS X drivers 
+  
+
+  
+Raspberry Pi Travel Router - RaspAP / Everyday Tech / Mar 24, 2022 
+https://youtu.be/m2JvWFr8bX4  
+19,605 views / 527 / 1.87K subscribers 
+This video talks about how we can turn a Raspberry Pi into a travel wireless router.  If you've been wondering what you should be doing with your Raspberry Pi, this is a very practical way to make use of it, especially as we start to travel more or if you are one who is starting to go back to coffee shops more as well.  I am mainly using a software called Rasp AP (https://raspap.com/).  There is good documentation on the site but a few quirks, depending on what you want to do.  Make sure to follow the steps in the right order.  I do recommend you installing the Raspberry Pi OS (raspbian) from scratch.   
+  
+  
+  
+Setting Up a Wi-Fi Extender Using a Raspberry Pi 
+https://www.section.io/engineering-education/setting-up-a-wifi-extender-using-a-raspberry-pi/ 
+
+
+Use your Raspberry Pi as a Wifi Extender Hotspot / Make Tech Easier / May 23, 2020 
+https://youtu.be/EIdSlGwQGyU 
+37,288 views / 536 / 54.7K subscribers 
+The Raspberry Pi is a mini-computer of many purposes, and one of those is the ability to use it as a wireless access point, boosting WiFi signal in an area where it may otherwise be a bit choppy. Here’s how to turn your Raspberry Pi into a wireless access point. 
+Code Snippets: 
+sudo apt-get update 
+sudo apt-get upgrade 
+reboot 
+sudo apt install hostapd 
+sudo systemctl unmask hostapd 
+sudo systemctl enable hostapd 
+sudo apt install dnsmasq 
+sudo DEBIAN_FRONTEND=noninteractive apt install -y netfilter-persistent iptables-persistent 
+sudo nano /etc/dhcpcd.conf  
+  
+interface wlan0  
+    static ip_address=192.168.4.1/24  
+    nohook wpa_supplicant  
+ 
+sudo nano /etc/sysctl.d/routed-ap.conf 
+sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE 
+sudo netfilter-persistent save 
+sudo mv /etc/dnsmasq.conf /etc/dnsmasq.conf.orig 
+sudo nano /etc/dnsmasq.conf  
+ 
+interface=wlan0 
+dhcp-range=192.168.4.2,192.168.4.20,255.255.255.0,24h 
+domain=wlan 
+address=/gw.wlan/192.168.4.1 
+sudo nano /etc/hostapd/hostapd.conf 
+interface=wlan0 
+ssid=NetworkName 
+hw_mode=g 
+channel=7 
+macaddr_acl=0 
+auth_algs=1 
+ignore_broadcast_ssid=0 
+wpa=2 
+wpa_passphrase=PassphrasePassphrase 
+wpa_key_mgmt=WPA-PSK 
+wpa_pairwise=TKIP 
+rsn_pairwise=CCMP 
+  
+  
+  
+RaspAP, a free, open source, inexpensive way to create a wireless access point or repeater! / Awesome Open Source / Feb 1, 2020 
+https://youtu.be/GdNK2p3RhB0 
+28,663 views / 386 / 62.2K subscribers 
+RaspAP is an inexpensive way to easily create a free (libre), open source wireless access point, or repeater for your - or any network!  You just need a raspberry pi with builtpin, or usb dongle wireless, an SDCard, and a few simple commands! 
+
 
 
 
