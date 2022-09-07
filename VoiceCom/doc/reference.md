@@ -806,7 +806,7 @@ STM32WB15CC - Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32 
 ============================================================
  
  
-raspberry pi os wifi device driver install realtek 
+raspberry pi os wifi device driver install realtek - WiFi dongle
  
 Process to install RealTek wifi driver RTL8821AU 
 https://forums.raspberrypi.com/viewtopic.php?t=240609 
