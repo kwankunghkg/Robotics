@@ -1,6 +1,6 @@
 last update : 20220918_1600(UTC+8) 
- 
-  updated : 20220705_0608(UTC+8)  
+  
+prev update : 20220705_0608(UTC+8)  
 
 ---------------------------------------------  
    
@@ -32,32 +32,30 @@ Raspberry Pi just released the Pico W. This variant of the beloved Pico comes wi
   
 
 
-
-
 ---------------------------------------------  
-
-RpiPicoW  WiFi+BT chip CYW43439 
-
-Infineon CYW43439 WiFi module 
-
-Murata Electronics - LBEE5KL1YN-814 - SHIELDED SMALL WI-FI 11B/G/N + B 
-https://www.murata.com/en-sg/products/connectivitymodule/wi-fi-bluetooth/overview/lineup/type1yn 
-datasheet 
-https://www.murata.com/products/productdata/8815814344734/type1yn.pdf 
-
-https://en.wikipedia.org/wiki/Infineon_Technologies 
-
-HK$90.7 (665 In Stock) 
-https://www.digikey.hk/en/products/detail/murata-electronics/LBEE5KL1YN-814/16374387 
- 
-HK$179.44 (庫存量: 1,928 ) 
-https://www.mouser.hk/ProductDetail/Murata-Electronics/LBEE5KL1YN-814?qs=TCDPyi3sCW1FrH0sh%252Bb5wA%3D%3D 
- 
-HK$78.3 (1 piece)  
-HK$720.9 (10 pieces)  
-Service Fee   HK$56.59 
-https://www.arrow.com/en/products/lbee5kl1yn-814/murata-manufacturing 
-
-
+  
+RpiPicoW  WiFi+BT chip CYW43439  
+  
+Infineon CYW43439 WiFi module  
+  
+Murata Electronics - LBEE5KL1YN-814 - SHIELDED SMALL WI-FI 11B/G/N + B    
+  https://www.murata.com/en-sg/products/connectivitymodule/wi-fi-bluetooth/overview/lineup/type1yn  
+datasheet  
+  https://www.murata.com/products/productdata/8815814344734/type1yn.pdf  
+  
+  https://en.wikipedia.org/wiki/Infineon_Technologies  
+  
+HK$90.7 (665 In Stock)  
+  https://www.digikey.hk/en/products/detail/murata-electronics/LBEE5KL1YN-814/16374387  
+  
+HK$179.44 (庫存量: 1,928)  
+  https://www.mouser.hk/ProductDetail/Murata-Electronics/LBEE5KL1YN-814?qs=TCDPyi3sCW1FrH0sh%252Bb5wA%3D%3D  
+  
+HK$78.3 (1 piece)   
+HK$720.9 (10 pieces)   
+Service Fee   HK$56.59  
+  https://www.arrow.com/en/products/lbee5kl1yn-814/murata-manufacturing  
+  
+  
 ---------------------------------------------  
 end of file
