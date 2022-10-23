@@ -65,34 +65,34 @@ US$4 RpiPico /
 US$6 RpiPicoW /  
 US$1 RP2040 /  
 US$0.7 RP2040 (3.4k quantity) ...  
-Raspberry Pi Direct: buy RP2040 in bulk from just $0.70    Eben Upton     17th Jan 2022  
+Raspberry Pi Direct: buy RP2040 in bulk from just $0.70 / Eben Upton / 17th Jan 2022  
   https://www.raspberrypi.com/news/raspberry-pi-direct-buy-rp2040-in-bulk-from-just-0-70/  
   
   
   
-Raspberry Silicon update: RP2040 on sale now at $1    Eben Upton     1st Jun 2021  
+Raspberry Silicon update: RP2040 on sale now at $1 / Eben Upton / 1st Jun 2021  
   https://www.raspberrypi.com/news/raspberry-pi-rp2040-on-sale/  
   
   
   
-Keeping secrets and writing about Raspberry silicon    Alasdair Allan     10th Feb 2021  
+Keeping secrets and writing about Raspberry silicon / Alasdair Allan / 10th Feb 2021  
   https://www.raspberrypi.com/news/keeping-secrets-and-writing-about-raspberry-silicon/  
 “Hardware design with RP2040” book for inspiration  
   https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf  
   
   
   
-Raspberry fish & RP2040 chip    Ashley Whittaker     27th Jan 2021  
+Raspberry fish & RP2040 chip / Ashley Whittaker / 27th Jan 2021  
   https://www.raspberrypi.com/news/raspberry-fish-rp2040-chip/  
   
   
   
-Raspberry Pi engineers on the making of Raspberry Pi Pico | The MagPi 102    Gareth Halfacree     28th Jan 2021  
+Raspberry Pi engineers on the making of Raspberry Pi Pico | The MagPi 102 / Gareth Halfacree / 28th Jan 2021  
   https://www.raspberrypi.com/news/raspberry-pi-engineers-on-the-making-of-raspberry-pi-pico-the-magpi-102/  
   
   
   
-Machine learning and depth estimation using Raspberry Pi    David Plowman     11th Feb 2021  
+Machine learning and depth estimation using Raspberry Pi / David Plowman / 11th Feb 2021  
   https://www.raspberrypi.com/news/machine-learning-and-depth-estimation-using-raspberry-pi/  
     CVPR 2021 – conference homepage - CVPR (Computer Vision and Pattern Recognition) 2021 conference  
     Mobile AI Workshop 2021  
@@ -100,7 +100,7 @@ Machine learning and depth estimation using Raspberry Pi    David Plowman     11
   
   
   
-Machine learning, combustion engines and real-time control    Liz Upton     13th Jan 2015  
+Machine learning, combustion engines and real-time control / Liz Upton / 13th Jan 2015  
   https://www.raspberrypi.com/news/machine-learning-engine-control/  
 Version 0.1 Raspberry Pi Engine Control with Real-Time, Adaptive Machine Learning (Linux, HCCI)		Adam Vaughan Jan 9, 2015  
 https://youtu.be/qQG7ocnE3EA  
@@ -145,7 +145,7 @@ HDMI RpiPico PIO
 World’s First RP2040 QWERTY Computer / Chris Lott / May 28, 2021  
   https://hackaday.com/2021/05/28/worlds-first-rp2040-qwerty-computer/  
   
-#PICOmputer​- World first Raspberry RP2040 PICO - QWERTY & IPS devkit		Peter Misenko Apr 22, 2021  
+#PICOmputer​- World first Raspberry RP2040 PICO - QWERTY & IPS devkit / Peter Misenko / Apr 22, 2021  
 https://youtu.be/pJGlxj9I5Sg  
 11,056 views		291		3.73K subscribers  
   
@@ -169,11 +169,11 @@ For more on #FreeRTOS Kernel on Pico or #rp2040 please checkout my Udemy course:
   
 ---------------------------------------------  
   
-A Raspberry Pi Pico conducts this lo-fi orchestra    Ashley Whittaker     19th Oct 2022  
+A Raspberry Pi Pico conducts this lo-fi orchestra / Ashley Whittaker / 19th Oct 2022  
   https://www.raspberrypi.com/news/a-raspberry-pi-pico-conducts-this-lo-fi-orchestra/  
   
   
-Commodore 64 + Raspberry Pi 4 = Synth6581    Simon Martin    18th Jun 2021  
+Commodore 64 + Raspberry Pi 4 = Synth6581 / Simon Martin / 18th Jun 2021  
   https://www.raspberrypi.com/news/commodore-64-raspberry-pi-4-synth6581/  
   
   
