@@ -1,4 +1,4 @@
-last update : 20221023_1300(UTC+8)   
+last update : 20221023_1713(UTC+8)   
   
 prev update : 20220918_1600(UTC+8)  
 prev update : 20220705_0608(UTC+8)  
@@ -167,7 +167,18 @@ For more on #FreeRTOS Kernel on Pico or #rp2040 please checkout my Udemy course:
   https://www.udemy.com/course/freertos...  
   
   
-
+---------------------------------------------  
+  
+A Raspberry Pi Pico conducts this lo-fi orchestra    Ashley Whittaker     19th Oct 2022  
+  https://www.raspberrypi.com/news/a-raspberry-pi-pico-conducts-this-lo-fi-orchestra/  
+  
+  
+Commodore 64 + Raspberry Pi 4 = Synth6581    Simon Martin    18th Jun 2021  
+  https://www.raspberrypi.com/news/commodore-64-raspberry-pi-4-synth6581/  
+  
+  
+---------------------------------------------  
+  
     
 ---------------------------------------------  
 end of file
