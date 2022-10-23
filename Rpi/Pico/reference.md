@@ -1,4 +1,4 @@
-last update : 20221023_1215(UTC+8)   
+last update : 20221023_1300(UTC+8)   
   
 prev update : 20220918_1600(UTC+8)  
 prev update : 20220705_0608(UTC+8)  
@@ -152,8 +152,9 @@ RP2040-PICO-PC small computer made with the Raspberry Pi RP2040-PICO module firs
   https://olimex.wordpress.com/2021/04/09/rp2040-pico-pc-small-computer-made-with-the-raspberry-pi-rp2040-pico-module-first-prototypes-are-ready/  
   
   
+---------------------------------------------  
   
-FreeRTOS Kernel SMP for the Raspberry PI Pico		Dr Jon EA Ltd Sep 23, 2022  
+FreeRTOS Kernel SMP for the Raspberry PI Pico / Dr Jon EA Ltd / Sep 23, 2022  
 https://youtu.be/nD8XeWjn-2w  
 3,033 views		107		100 subscribers  
 Tutorial on using #FreeRTOS Kernel #SMP for the #RaspberryPIPico. Code for the example is on github at:   
