@@ -16,20 +16,19 @@ RC VTOL - V4 / Tom Stanton / Nov 2, 2018
 https://youtu.be/gPEeCjVrTBw  
 385,845 views  
 Combining an Arduino with a flight controller to accomplish the VTOL transitional mixes worked well! Obviously it would be ideal to integrate the Arduino code into the flight controller, but that's beyond my current coding skill level. Also, the majority of flight controllers nowadays only have 2x motor outputs and 4x servo outputs, which would work for this aircraft, but would struggle with a more complex setup. E.g a quadcopter VTOL would need 4 motor outputs, leaving only 2 outputs for servos.  
-  
 3D printer stl files: https://goo.gl/FZ2ep9  
 Arduino Code: https://goo.gl/fqLN9A  
-  
 OpenAeroVTOL: https://goo.gl/yCye1x  
-  
 Chinook Bicopter: https://goo.gl/jy5NwN  
   
   
----------------------------------------------  
   
 Can Reaction Wheels control a Drone? / Tom Stanton • Jan 18, 2019  
   https://youtu.be/4kfBEaTncjI  
 1,603,478 views  
+  
+  
+---------------------------------------------  
   
 Drone Helicopter Hybrid - motor speed controlled rotar head - swashplateless MAV VTOL  
   https://youtu.be/d80oXSCcHTk  
@@ -67,8 +66,7 @@ https://youtu.be/hdDHI5MBwp0
 First Flight on Another Planet!  Mars Helicopter / Veritasium • Aug 11, 2019  
 https://youtu.be/GhsZUZmJvaM  
 3,049,150 views  
-How do you fly in 1% of Earth's atmosphere:  
-Have large rotors (they are 1.2m in diameter) and spin them very fast, around 2500 RPM (5x the speed of a helicopter on Earth).  
+How do you fly in 1% of Earth's atmosphere : Have large rotors (they are 1.2m in diameter) and spin them very fast, around 2500 RPM (5x the speed of a helicopter on Earth).  
   
   
 Mars 2020: The Next Mission to Mars  / Veritasium • May 18, 2017  
