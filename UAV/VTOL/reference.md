@@ -25,6 +25,57 @@ OpenAeroVTOL: https://goo.gl/yCye1x
 Chinook Bicopter: https://goo.gl/jy5NwN  
   
   
+---------------------------------------------  
+  
+Can Reaction Wheels control a Drone? / Tom Stanton • Jan 18, 2019  
+  https://youtu.be/4kfBEaTncjI  
+1,603,478 views  
+  
+Drone Helicopter Hybrid - motor speed controlled rotar head - swashplateless MAV VTOL  
+  https://youtu.be/d80oXSCcHTk  
+Jimmy's* original research video:   
+A Swashplateless MAV: Thrust, Roll, Pitch, and Yaw from Only Two Motors  
+  https://youtu.be/aEPf0QHVuMM    
+More info + research papers:   
+  https://www.modlabupenn.org/2014/10/23/underactuated-rotor/  
+Modlab website:   
+  https://www.modlabupenn.org/  
+  
+  
+Modlab, a part of the GRASP Robotics lab  
+  
+An Underactuated Propeller for Attitude Control in Micro Air Vehicles, IROS 2013 / Modlab UPenn • Feb 18, 2014  
+https://youtu.be/KZe7l5_LfoA  
+7,905 views  
+  
+A Swashplateless MAV: Thrust, Roll, Pitch, and Yaw from Only Two Motors / Modlab UPenn • Oct 24, 2014  
+  https://youtu.be/aEPf0QHVuMM    
+247,431 views  
+  
+A Fully Actuated Aerial Vehicle using Two Actuators / Modlab UPenn • May 31, 2018  
+  https://youtu.be/qWsKqmCIhRY  
+233,200 views  
+  
+ModQuad-DoF: A Novel Yaw Actuation for Modular Quadrotors (ICRA 2020) / Modlab UPenn • Jun 4, 2020  
+https://youtu.be/hdDHI5MBwp0  
+ 433 views  
+  
+  
+  
+---------------------------------------------  
+  
+First Flight on Another Planet!  Mars Helicopter / Veritasium • Aug 11, 2019  
+https://youtu.be/GhsZUZmJvaM  
+3,049,150 views  
+How do you fly in 1% of Earth's atmosphere:  
+Have large rotors (they are 1.2m in diameter) and spin them very fast, around 2500 RPM (5x the speed of a helicopter on Earth).  
+  
+  
+Mars 2020: The Next Mission to Mars  / Veritasium • May 18, 2017  
+https://youtu.be/iZCRFRgSgas  
+1,664,320 views  
+  
+  
 
 
     
