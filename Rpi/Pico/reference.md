@@ -161,6 +161,9 @@ For more on #FreeRTOS Kernel on Pico or #rp2040 please checkout my Udemy course:
   https://www.udemy.com/course/freertos...  
   
   
+HDMI RpiPico PIO ...  
+  https://pi3g.com/products/dvi-sock-raspberry-pi-pico/  
   
+    
 ---------------------------------------------  
 end of file
