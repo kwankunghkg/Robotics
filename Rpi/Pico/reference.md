@@ -61,8 +61,10 @@ Service Fee   HK$56.59
   
 ---------------------------------------------  
   
-US$4 RpiPico / US$6 RpiPicoW / US$1 RP2040 / US$0.7 RP2040 (3.4k quantity) ...  
-  
+US$4 RpiPico /  
+US$6 RpiPicoW /  
+US$1 RP2040 /  
+US$0.7 RP2040 (3.4k quantity) ...  
 Raspberry Pi Direct: buy RP2040 in bulk from just $0.70    Eben Upton     17th Jan 2022  
   https://www.raspberrypi.com/news/raspberry-pi-direct-buy-rp2040-in-bulk-from-just-0-70/  
   
