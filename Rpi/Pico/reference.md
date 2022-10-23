@@ -114,8 +114,9 @@ The final paper is available here:
   
   
   
-  
-Meet PicoSystem, the tiny hackable handheld based on RP2040    Ashley Whittaker    19th Jul 2022  
+---------------------------------------------  
+    
+Meet PicoSystem, the tiny hackable handheld based on RP2040 / Ashley Whittaker / 19th Jul 2022  
   https://www.raspberrypi.com/news/meet-picosystem-the-tiny-hackable-handheld-based-on-rp2040/  
   
   
@@ -136,7 +137,9 @@ RP2040 Doom: DOOM1 Demo/Gameplay on a Raspberry Pi Pico / Graham Sanderson / 202
 https://youtu.be/eDVazQVycP4  
 30,102 views		457		542 subscribers  
   
-  
+HDMI RpiPico PIO   
+  https://pi3g.com/products/dvi-sock-raspberry-pi-pico/  
+    
 World’s First RP2040 QWERTY Computer / Chris Lott / May 28, 2021  
   https://hackaday.com/2021/05/28/worlds-first-rp2040-qwerty-computer/  
   
@@ -161,9 +164,7 @@ For more on #FreeRTOS Kernel on Pico or #rp2040 please checkout my Udemy course:
   https://www.udemy.com/course/freertos...  
   
   
-HDMI RpiPico PIO ...  
-  https://pi3g.com/products/dvi-sock-raspberry-pi-pico/  
-  
+
     
 ---------------------------------------------  
 end of file
