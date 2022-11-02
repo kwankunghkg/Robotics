@@ -158,12 +158,13 @@ RP2040-PICO-PC small computer made with the Raspberry Pi RP2040-PICO module firs
 ---------------------------------------------  
   
 FreeRTOS Kernel SMP for the Raspberry PI Pico / Dr Jon EA Ltd / Sep 23, 2022  
-https://youtu.be/nD8XeWjn-2w  
-3,033 views		107		100 subscribers  
-Tutorial on using #FreeRTOS Kernel #SMP for the #RaspberryPIPico. Code for the example is on github at:   
+  https://youtu.be/nD8XeWjn-2w  
+3,033 views / 107 / 100 subscribers  
+Tutorial on using #FreeRTOS Kernel #SMP for the #RaspberryPIPico. Code for the example is on github at:  
   https://github.com/jondurrant/RPIPicoFreeRTOSSMPExp  
-Clone using the command: git clone --recurse-submodules https://github.com/jondurrant/RPIPicoFreeRTOSSMPExp  
-For more on #FreeRTOS Kernel on Pico or #rp2040 please checkout my Udemy course:   
+Clone using the command:  
+  git clone --recurse-submodules https://github.com/jondurrant/RPIPicoFreeRTOSSMPExp  
+For more on #FreeRTOS Kernel on Pico or #rp2040 please checkout my Udemy course:  
   https://www.udemy.com/course/freertos-on-rpi-pico/?referralCode=C5A9A19C93919A9DA294  
   
   
