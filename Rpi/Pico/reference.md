@@ -161,11 +161,10 @@ FreeRTOS Kernel SMP for the Raspberry PI Pico / Dr Jon EA Ltd / Sep 23, 2022
 https://youtu.be/nD8XeWjn-2w  
 3,033 views		107		100 subscribers  
 Tutorial on using #FreeRTOS Kernel #SMP for the #RaspberryPIPico. Code for the example is on github at:   
-  https://github.com/jondurrant/RPIPico....  
+  https://github.com/jondurrant/RPIPicoFreeRTOSSMPExp  
 Clone using the command: git clone --recurse-submodules   
-  https://github.com/jondurrant/RPIPico...  
 For more on #FreeRTOS Kernel on Pico or #rp2040 please checkout my Udemy course:   
-  https://www.udemy.com/course/freertos...  
+  https://www.udemy.com/course/freertos-on-rpi-pico/?referralCode=C5A9A19C93919A9DA294  
   
   
 ---------------------------------------------  
