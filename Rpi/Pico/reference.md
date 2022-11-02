@@ -1,4 +1,4 @@
-last update : 20221103_0145(UTC+8)   
+last update : 20221103_0217(UTC+8)   
   
 prev update : 20221023_1713(UTC+8)   
 prev update : 20220918_1600(UTC+8)  
@@ -194,10 +194,15 @@ Pico Tutorials / Learn Embedded Systems / 18 videos Last updated on Mar 21, 2022
 12  Programming the Raspberry Pi Pico in the Arduino IDE!  
 13  It's Official! Arduino IDE Support for the Raspberry Pi Pico - How to Install  
 14  How To Use FreeRTOS on the Raspberry Pi Pico (RP2040) Part 1: VSCode Setup and Blinky Test!  
+  https://learnembeddedsystems.co.uk/freertos-on-rp2040-boards-pi-pico-etc-using-vscode  
 15  FreeRTOS on the Raspberry Pi Pico (RP2040) Part 2: Tasks and Queues  
+  https://learnembeddedsystems.co.uk/freertos-part-2-tasks-and-queues-tutorial  
 16  FreeRTOS on the Raspberry Pi Pico (RP2040) Part 3: Scheduling and Task Priorities  
+  https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-3-source-code  
 17  FreeRTOS on the Raspberry Pi Pico (RP2040) Part 4: Mutex  
+  https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-4-source-code  
 18  FreeRTOS on the Raspberry Pi Pico (RP2040) Part 5: Semaphores  
+  https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-5-semaphores  
   
 ---------------------------------------------  
   
