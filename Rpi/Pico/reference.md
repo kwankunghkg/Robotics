@@ -162,7 +162,7 @@ https://youtu.be/nD8XeWjn-2w
 3,033 views		107		100 subscribers  
 Tutorial on using #FreeRTOS Kernel #SMP for the #RaspberryPIPico. Code for the example is on github at:   
   https://github.com/jondurrant/RPIPicoFreeRTOSSMPExp  
-Clone using the command: git clone --recurse-submodules   
+Clone using the command: git clone --recurse-submodules https://github.com/jondurrant/RPIPicoFreeRTOSSMPExp  
 For more on #FreeRTOS Kernel on Pico or #rp2040 please checkout my Udemy course:   
   https://www.udemy.com/course/freertos-on-rpi-pico/?referralCode=C5A9A19C93919A9DA294  
   
@@ -172,6 +172,10 @@ SMP Demos for the Raspberry Pi Pico Board
   
 Symmetric Multiprocessing Branch of FreeRTOS Gets Ported to the Raspberry Pi Pico, RP2040  
   https://www.hackster.io/news/symmetric-multiprocessing-branch-of-freertos-gets-ported-to-the-raspberry-pi-pico-rp2040-7709ab0333d2  
+  
+FreeRTOS kernel files  
+  https://github.com/FreeRTOS/FreeRTOS-Kernel/tree/smp  
+  
   
 Pico Tutorials / Learn Embedded Systems / 18 videos Last updated on Mar 21, 2022  
   https://www.youtube.com/playlist?list=PLEB5F4gTNK68IlRIJtcJ_2cW4dSdmreTw  
