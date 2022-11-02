@@ -1,4 +1,4 @@
-last update : 20221103_0117(UTC+8)   
+last update : 20221103_0145(UTC+8)   
   
 prev update : 20221023_1713(UTC+8)   
 prev update : 20220918_1600(UTC+8)  
@@ -167,6 +167,33 @@ For more on #FreeRTOS Kernel on Pico or #rp2040 please checkout my Udemy course:
   https://www.udemy.com/course/freertos-on-rpi-pico/?referralCode=C5A9A19C93919A9DA294  
   
   
+SMP Demos for the Raspberry Pi Pico Board  
+  https://www.freertos.org/smp-demos-for-the-raspberry-pi-pico-board.html  
+  
+Symmetric Multiprocessing Branch of FreeRTOS Gets Ported to the Raspberry Pi Pico, RP2040  
+  https://www.hackster.io/news/symmetric-multiprocessing-branch-of-freertos-gets-ported-to-the-raspberry-pi-pico-rp2040-7709ab0333d2  
+  
+Pico Tutorials / Learn Embedded Systems / 18 videos Last updated on Mar 21, 2022  
+  https://www.youtube.com/playlist?list=PLEB5F4gTNK68IlRIJtcJ_2cW4dSdmreTw  
+1  First Look at the Raspberry Pi Pico: Physical Overview  
+2  How to Set Up Visual Studio Code to Program the Pi Pico (Windows)  
+3  How to Set Up a Project in Visual Studio Code for the Pi Pico - Blink LED  
+4  Soldering Header Pins to your Raspberry Pi Pico  
+5  Getting Started with USB Serial Output on the Raspberry Pi Pico  
+6  Getting Started with Multicore Programming on the Raspberry Pi Pico  
+7  How to Use the Temperature Sensor on the Raspberry Pi Pico in C  
+8  Beginners Guide to I2C on the Raspberry Pi Pico (BNO055 IMU Example)  
+9  USB Serial Input on the Raspberry Pi Pico  
+10  Beginners Guide to SPI on the Raspberry Pi Pico (BMP280 Example)  
+11  How to Debug the Raspberry Pi Pico Using Another Pico! - Picoprobe and VSCode Tutorial  
+12  Programming the Raspberry Pi Pico in the Arduino IDE!  
+13  It's Official! Arduino IDE Support for the Raspberry Pi Pico - How to Install  
+14  How To Use FreeRTOS on the Raspberry Pi Pico (RP2040) Part 1: VSCode Setup and Blinky Test!  
+15  FreeRTOS on the Raspberry Pi Pico (RP2040) Part 2: Tasks and Queues  
+16  FreeRTOS on the Raspberry Pi Pico (RP2040) Part 3: Scheduling and Task Priorities  
+17  FreeRTOS on the Raspberry Pi Pico (RP2040) Part 4: Mutex  
+18  FreeRTOS on the Raspberry Pi Pico (RP2040) Part 5: Semaphores  
+  
 ---------------------------------------------  
   
 A Raspberry Pi Pico conducts this lo-fi orchestra / Ashley Whittaker / 19th Oct 2022  
@@ -187,7 +214,8 @@ Sub-Total (Ex. Taxes):  € 36.12
 Total:  € 36.12 = HKD 280.47  
   
 ---------------------------------------------  
-    
+  
+
 ---------------------------------------------  
 
 ---------------------------------------------  
