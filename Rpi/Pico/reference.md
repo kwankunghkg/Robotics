@@ -1,5 +1,6 @@
-last update : 20221023_1713(UTC+8)   
+last update : 20221103_0117(UTC+8)   
   
+prev update : 20221023_1713(UTC+8)   
 prev update : 20220918_1600(UTC+8)  
 prev update : 20220705_0608(UTC+8)  
   
@@ -179,6 +180,16 @@ Commodore 64 + Raspberry Pi 4 = Synth6581 / Simon Martin / 18th Jun 2021
   
 ---------------------------------------------  
   
+ordered 5 from kiwi-electronics  
+  https://www.kiwi-electronics.com/en/raspberry-pi-pico-w-10938  
+5 * € 6.57 = € 32.85  
+Postal Mail (no tracking):  € 3.26  
+Sub-Total (Ex. Taxes):  € 36.12  
+Total:  € 36.12 = HKD 280.47  
+  
+---------------------------------------------  
     
+---------------------------------------------  
+
 ---------------------------------------------  
 end of file
