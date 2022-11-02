@@ -6,16 +6,18 @@ prev update : 20220705_0608(UTC+8)
   
 ---------------------------------------------  
    
-kid-friendly projects, educator-led seminars, and information about our non-profit work, the Raspberry Pi Foundation YouTube channel http://rptl.io/rpfyt
+kid-friendly projects, educator-led seminars, and information about our non-profit work, the Raspberry Pi Foundation YouTube channel  
+  http://rptl.io/rpfyt  
 
-NEW Raspberry Pi Pico W - your $6 wireless microcontroller
+NEW Raspberry Pi Pico W - your $6 wireless microcontroller  
   https://youtu.be/QIdyTlmdVW8  
-Raspberry Pi / Jun 30, 2022
-new $6 Raspberry Pi Pico W brings 802.11n wireless networking to Pico platform, while retaining complete pin compatibility with its older sibling. http://rptl.io/pico  
+Raspberry Pi / Jun 30, 2022  
+new $6 Raspberry Pi Pico W brings 802.11n wireless networking to Pico platform, while retaining complete pin compatibility with its older sibling.  
+  http://rptl.io/pico  
   
-// US$5 for the Pico H, the Foundation has priced the Pico W and Pico WH at US$6 and US$7, respectively. Pico W and Pico H are orderable from today, Pico WH will not launch until August. //
+// US$5 for the Pico H, the Foundation has priced the Pico W and Pico WH at US$6 and US$7, respectively. Pico W and Pico H are orderable from today, Pico WH will not launch until August. //  
   https://www.notebookcheck.net/Raspberry-Pi-Pico-W-Pico-H-and-Pico-WH-introduced-with-802-11n-Wi-Fi-and-a-new-3-pin-debug-connector.632543.0.html  
-    
+  
   
 Pico W Overview - Everything you need to know about the newest Pi / pi3g / Jun 30, 2022  
   https://youtu.be/4RL4MJ7DVNY  
