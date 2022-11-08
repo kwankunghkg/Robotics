@@ -124,11 +124,28 @@ https://youtu.be/A7Q37jqIdng
   
 DIY exercise #4  
   
+reminder from a robotics engineer teaching video that  
+1. Scratch (visual)  
+2. Blockly (visual + text)  
+3. Python (text)  
+provides a smoother transition for beginners ...  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/blockly/readme.md  
   
 ---------------------------------------------  
   
 ---------------------------------------------  
+  
+FIRST Tech Challenge (FTC), formerly known as FIRST Vex Challenge, is a robotics competition for students in grades 7–12 to compete head to head, by designing, building, and programming a robot to compete in an alliance format against other teams.  
+  
+FIRST Lego League Explore,   
+FIRST Lego League Challenge,   
+FIRST Robotics Competition.  
+  https://en.wikipedia.org/wiki/FIRST_Tech_Challenge  
+FTC Founders : Dean Kamen & Woodie Flowers  
+  
+FIRST Tech Challenge - Game Manual Zero  
+  https://gm0.org/en/latest/  
+  
   
 ---------------------------------------------  
   
