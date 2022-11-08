@@ -1,6 +1,6 @@
 step by step - learn robotics  
   
-last update : 20221108_1933(UTC+8)   
+last update : 20221108_1943(UTC+8)   
   
 prev update : 20221108_1923(UTC+8)  
   
@@ -74,7 +74,11 @@ How to make electric bell - motorless bell / Easy Projects /  Jun 13, 2016
   https://youtu.be/7hg262mXyj0  
 507 subscribers / 43,406 views   
   
-  
+Build an Electric Buzzer / ScienceOnline /  Mar 7, 2013  
+  https://youtu.be/j3fvpIan5x4  
+195K subscribers / 345,529 views   
+The discovery of electromagnetism created a wave of innovation - over the past century thousands of patents have been issued for devices that use electromagnetism. This video demonstrates how to construct one of these devices - an electromagnetic buzzer.  
+    
 ---------------------------------------------  
   
 DIY exercise #3  
@@ -98,11 +102,7 @@ Plywood base
 625-2RS bearing  
 N52 magnets 60x10x4mm  
   
-Build an Electric Buzzer / ScienceOnline /  Mar 7, 2013  
-  https://youtu.be/j3fvpIan5x4  
-195K subscribers / 345,529 views   
-The discovery of electromagnetism created a wave of innovation - over the past century thousands of patents have been issued for devices that use electromagnetism. This video demonstrates how to construct one of these devices - an electromagnetic buzzer.  
-  
+
   
   
 ---------------------------------------------  
