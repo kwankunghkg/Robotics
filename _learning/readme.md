@@ -25,7 +25,11 @@ MarkDown - Format - summation
 $\sum_{n=1}^{10} n^2$  
   
 $$\sum_{n=1}^{10} n^2$$  
-
+  
+Math support in Markdown  
+  https://github.blog/2022-05-19-math-support-in-markdown/  
+  https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/  
+  
 MarkDown - Format - Syntax Highlight  
   
 ```js
@@ -41,9 +45,10 @@ NOUN=mother
 ATTRIBUTION=Mark Wahlberg
 $-->
 
-"Say hi to your {{ NOUN }} for me," {{ ATTRIBUTION }} {{ nameOfVariableToCapture }}
+"Say hi to your {{ NOUN }} for me," {{ ATTRIBUTION }} {{ nameOfVariableToCapture }} {{ variableName }}
   
 {% capture nameOfVariableToCapture %}Hello My Attribution{% endcapture %}
+{% assign variableName = "text etc." %}
   
 ---------------------------------------------  
     
