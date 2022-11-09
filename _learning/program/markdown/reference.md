@@ -29,6 +29,7 @@ Markdown - Format - Math support
   https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/  
   
 inline :  $\sum_{n=1}^{10} n^2$  
+    
   
 $$\sum_{n=1}^{10} n^2$$  
   
