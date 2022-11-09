@@ -150,21 +150,30 @@ https://youtu.be/A7Q37jqIdng
   
 ---------------------------------------------  
   
+LEGO GBC  
+  https://github.com/kwankunghkg/Robotics/blob/main/Mechanics/LEGO/GBC/readme.md  
+  
 ---------------------------------------------  
   
-#### DIY exercise #10  
+#### DIY exercise #10 Programming  
   
-reminder from a robotics engineer teaching video that  
+reminder from a robotics engineer's teaching video that  
   
 1. Scratch (visual)  
-2. Blockly (visual + text)  
-3. Python (text)  
+1. Blockly (visual + text)  
+1. Python (text)  
+1. Processing & Arduino (text)  
   
 provides a smoother transition for beginners ...  
   
+Blockly  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/blockly/readme.md  
   
+BlocklyDuino: Drag and Drop blocks to Blink Arduino Board LED  
+  https://github.com/kwankunghkg/Robotics/blob/main/Arduino/tools/GUI/BlocklyDuino/README.md  
   
+Processing & Arduino  
+  https://github.com/kwankunghkg/Robotics/blob/main/Processing/doc/reference.md  
   
 ---------------------------------------------  
   
