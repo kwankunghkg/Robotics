@@ -35,7 +35,8 @@ inline  $\sqrt{\$4}$  $\binom{n}{k}$  $\frac{n!}{k!(n-k)!}$
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$  
   
   
-inline  $\int_0^\infty \mathrm{e}^{-x} \mathrm{d}x$  
+inline  $\int_0^\infty \mathrm{e}^{-x} \mathrm{d}x$  $\int_a^b\lim\limits_{x \to -\infty} f(x)$  
+$$\sum_{\substack{0 \lt i \lt m ; 0 \lt j \le n}} P(i, j)$$   
 $$\prod_{n=1}^{10} n^2$$  
   
   
