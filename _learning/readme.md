@@ -158,7 +158,7 @@ reminder from a robotics engineer's teaching video that Blockly provides a smoot
 1. Blockly (visual + text)  
 1. Python (text)  
 1. Processing & Arduino (text)  
-    
+--    
     
 Blockly  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/blockly/readme.md  
@@ -168,6 +168,12 @@ BlocklyDuino
   
 Processing & Arduino  
   https://github.com/kwankunghkg/Robotics/blob/main/Processing/doc/reference.md  
+  
+Python  
+  https://www.w3schools.com/python/default.asp  
+  
+C  
+  https://www.w3schools.com/c/index.php  
   
 ---------------------------------------------  
   
