@@ -64,9 +64,9 @@ HTML DOM Variable Object
 HTML try it  
   https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_var_create  
 HTML type "p"  
-	<p> HTML element represents a paragraph  
+  \<p\> HTML element represents a paragraph  
 HTML type "pre"  
-	<pre> HTML element represents preformatted text  
+  \<pre\> HTML element represents preformatted text  
   
 ---------------------------------------------  
   
