@@ -145,7 +145,7 @@ https://youtu.be/A7Q37jqIdng
   
 ---------------------------------------------  
   
-LEGO GBC  
+## LEGO GBC  
   https://github.com/kwankunghkg/Robotics/blob/main/Mechanics/LEGO/GBC/readme.md  
   
 ---------------------------------------------  
@@ -188,10 +188,10 @@ FIRST Tech Challenge - Game Manual Zero
   
 ---------------------------------------------  
   
-MarkDown  
+### MarkDown  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/markdown/reference.md  
   
-vi vim ex  Java JavaScript  Node.JS Node-RED  
+### vi vim ex  Java JavaScript  Node.JS Node-RED  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/java/reference.md  
 
 ---------------------------------------------  
