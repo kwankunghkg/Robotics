@@ -59,6 +59,8 @@ HTML \<ol\> start Attribute
   https://www.w3schools.com/tags/att_ol_start.asp  
 HTML \<li\> Tag  
   https://www.w3schools.com/tags/tag_li.asp  
+HTML DOM Variable Object  
+  https://www.w3schools.com/jsref/dom_obj_var.asp  
   
 ---------------------------------------------  
   
