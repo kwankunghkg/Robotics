@@ -1,7 +1,7 @@
 step by step - learn robotics  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/readme.md  
   
-last update : 20221109_1613(UTC+8)   
+last update : 20221109_2101(UTC+8)   
   
 prev update : 20221108_1923(UTC+8)  
   
@@ -184,9 +184,11 @@ FIRST Tech Challenge - Game Manual Zero
   
 ---------------------------------------------  
   
-  
+MarkDown  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/markdown/reference.md  
-
+  
+vi vim ex  
+Java vs JavaScript  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/java/reference.md  
 
 ---------------------------------------------  
