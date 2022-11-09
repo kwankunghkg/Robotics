@@ -61,6 +61,12 @@ HTML \<li\> Tag
   https://www.w3schools.com/tags/tag_li.asp  
 HTML DOM Variable Object  
   https://www.w3schools.com/jsref/dom_obj_var.asp  
+HTML try it  
+  https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_var_create  
+HTML type "p"  
+	<p> HTML element represents a paragraph  
+HTML type "pre"  
+	<pre> HTML element represents preformatted text  
   
 ---------------------------------------------  
   
