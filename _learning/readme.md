@@ -152,14 +152,13 @@ LEGO GBC
   
 #### DIY exercise #10 Programming  
   
-reminder from a robotics engineer's teaching video that  
+reminder from a robotics engineer's teaching video that Blockly provides a smoother transition for beginners ...  
   
 1. Scratch (visual)  
 1. Blockly (visual + text)  
 1. Python (text)  
 1. Processing & Arduino (text)  
   
-Blockly provides a smoother transition for beginners ...  
   
 Blockly  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/blockly/readme.md  
