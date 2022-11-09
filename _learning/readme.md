@@ -6,13 +6,13 @@ last update : 20221108_1943(UTC+8)
 prev update : 20221108_1923(UTC+8)  
   
 [diy_count]: 1
-`echo diy_count`
+echo.1 [diy_count]  
   
-diy_count <- diy_count+1
-`echo diy_count`
+[diy_count]: diy_count+1
+echo.2 [diy_count]  
   
-diy_count <- diy_count+1
-`echo diy_count`
+[diy_count]: diy_count+2
+echo.3 [diy_count]  
   
 echo sum  
   
