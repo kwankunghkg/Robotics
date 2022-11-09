@@ -5,20 +5,29 @@ last update : 20221108_1943(UTC+8)
   
 prev update : 20221108_1923(UTC+8)  
   
+MarkDown - create auto numbered list  
+  
 [diy_count]: 1
-echo.1 [diy_count]  
-  
+1. echo.1 [diy_count]
 [diy_count]: diy_count+1
-echo.2 [diy_count]  
-  
+1. echo.2 [diy_count]
 [diy_count]: diy_count+2
-echo.3 [diy_count]  
+1. echo.3 [diy_count]
   
-echo sum  
+MarkDown - Format - summation  
   
 $\sum_{n=1}^{10} n^2$  
   
 $$\sum_{n=1}^{10} n^2$$  
+
+MarkDown - Format - Syntax Highlight  
+  
+```js
+var a = 3;
+while (not (a > 0)) {
+    alert("JavaScript code <b>goes</b> here.");
+}
+```
   
 ---------------------------------------------  
     
