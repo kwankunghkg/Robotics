@@ -39,34 +39,32 @@ Roadmap to becoming a Robotics ELECTRICAL Engineer | How to become a Robotics En
 [diy_count]: 1
 {:start="1"}
 <ol start="1">
-  <li> DIY exercise : Paper Plane </li>
-  <li> DIY exercise : WalkAlong步行 Glider滑翔機 </li>
   
-#### <li> DIY exercise : Paper Plane </li>
+## <li> DIY exercise : Paper Plane </li>
   
 ---------------------------------------------  
   
-#### <li> DIY exercise : WalkAlong步行 Glider滑翔機 </li>
+## <li> DIY exercise : WalkAlong步行 Glider滑翔機 </li>
   
 ---------------------------------------------  
   
-#### <li> DIY exercise : Parasuit  </li>
+## <li> DIY exercise : Parasuit  </li>
   
 ---------------------------------------------  
   
-#### 1. DIY exercise : Rubber Band Dragonfly Helicopter  
+## <li> DIY exercise : Rubber Band Dragonfly Helicopter </li>
   
 ---------------------------------------------  
   
-#### 1. DIY exercise : Rubber Band Plane  
+## <li> DIY exercise : Rubber Band Plane </li>
   
 ---------------------------------------------  
   
-#### 1. DIY exercise : Pop Pop Boat  
+## <li> DIY exercise : Pop Pop Boat </li>
   
 ---------------------------------------------  
   
-#### 1. DIY exercise : diy_count Electric Train 
+## <li> DIY exercise : Electric Train </li>
    
 Very Fast Mechanical Mini Car vs Simplest Electromagnetic Train / AmazingScience /  Dec 22, 2016   
   https://youtu.be/rwt9K9PWMcU  
@@ -80,8 +78,7 @@ Simple Electric Train. Race between AA Batteries. And DIY Simple Electric Train 
   
 ---------------------------------------------  
   
-[diy_count]: diy_count + 1  
-#### DIY exercise # diy_count Electric Bell  
+## <li> DIY exercise : Electric Bell </li>
   
 How to make Electric bell at home very easy / ANGAD SCIENCE /  Sep 25, 2021   
   https://youtu.be/9cZe3WEFtf8  
@@ -110,9 +107,8 @@ Build an Electric Buzzer / ScienceOnline /  Mar 7, 2013
 The discovery of electromagnetism created a wave of innovation - over the past century thousands of patents have been issued for devices that use electromagnetism. This video demonstrates how to construct one of these devices - an electromagnetic buzzer.  
     
 ---------------------------------------------  
-[diy_count]: diy_count + 1  
-
-#### DIY exercise # diy_count Electric Motor  
+  
+## <li> DIY exercise : Electric Motor </li>
   
 Build a Simple Electric Motor / Science Buddies /  Jun 3, 2019   
   https://youtu.be/WI0pGk0MMhg  
@@ -154,7 +150,7 @@ LEGO GBC
   
 ---------------------------------------------  
   
-#### DIY exercise #10 Programming  
+## <li> DIY exercise : Programming </li>
   
 reminder from a robotics engineer's teaching video that Blockly provides a smoother transition for beginners ...  
   
@@ -175,7 +171,7 @@ Processing & Arduino
   
 ---------------------------------------------  
   
-#### FIRST Tech Challenge (FTC)
+## FIRST Tech Challenge (FTC)
 
 FIRST Tech Challenge (FTC), formerly known as FIRST Vex Challenge, is a robotics competition for students in grades 7–12 to compete head to head, by designing, building, and programming a robot to compete in an alliance format against other teams.  
   
