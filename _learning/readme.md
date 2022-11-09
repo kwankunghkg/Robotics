@@ -38,7 +38,7 @@ Roadmap to becoming a Robotics ELECTRICAL Engineer | How to become a Robotics En
   
 ---------------------------------------------  
   
-DIY exercise #1  
+#### DIY exercise #1 Electric Train 
    
 Very Fast Mechanical Mini Car vs Simplest Electromagnetic Train / AmazingScience /  Dec 22, 2016   
   https://youtu.be/rwt9K9PWMcU  
@@ -52,7 +52,7 @@ Simple Electric Train. Race between AA Batteries. And DIY Simple Electric Train 
   
 ---------------------------------------------  
   
-DIY exercise #2  
+#### DIY exercise #2 Electric Bell  
   
 How to make Electric bell at home very easy / ANGAD SCIENCE /  Sep 25, 2021   
   https://youtu.be/9cZe3WEFtf8  
@@ -82,7 +82,7 @@ The discovery of electromagnetism created a wave of innovation - over the past c
     
 ---------------------------------------------  
   
-DIY exercise #3  
+#### DIY exercise #3 Electric Motor  
   
 Build a Simple Electric Motor / Science Buddies /  Jun 3, 2019   
   https://youtu.be/WI0pGk0MMhg  
@@ -103,8 +103,6 @@ Plywood base
 625-2RS bearing  
 N52 magnets 60x10x4mm  
   
-
-  
   
 ---------------------------------------------  
   
@@ -122,19 +120,40 @@ https://youtu.be/A7Q37jqIdng
   
 ---------------------------------------------  
   
-DIY exercise #4  
+#### DIY exercise #4 Paper Plane  
+
+paper plane
+  
+---------------------------------------------  
+  
+#### DIY exercise #5 Parasuit  
+  
+---------------------------------------------  
+  
+#### DIY exercise #6 Pop Pop Boat  
+  
+---------------------------------------------  
+  
+---------------------------------------------  
+  
+#### DIY exercise #10  
   
 reminder from a robotics engineer teaching video that  
+  
 1. Scratch (visual)  
 2. Blockly (visual + text)  
 3. Python (text)  
+  
 provides a smoother transition for beginners ...  
+  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/blockly/readme.md  
   
----------------------------------------------  
+  
   
 ---------------------------------------------  
   
+#### FIRST Tech Challenge (FTC)
+
 FIRST Tech Challenge (FTC), formerly known as FIRST Vex Challenge, is a robotics competition for students in grades 7–12 to compete head to head, by designing, building, and programming a robot to compete in an alliance format against other teams.  
   
 FIRST Lego League Explore,   
