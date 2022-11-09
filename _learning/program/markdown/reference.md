@@ -1,9 +1,15 @@
 
-last update : 20221109_2043(UTC+8)   
+last update : 20221110_0343(UTC+8)   
   
 prev update : 20221109_2043(UTC+8)  
   
 ---------------------------------------------  
+  
+How to write in Markdown  
+  https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN  
+  
+GitHub Flavored Markdown Spec  
+  https://github.github.com/gfm/  
   
 Markdown Cheat Sheet - quick reference to Markdown syntax  
   https://www.markdownguide.org/cheat-sheet/  
@@ -40,23 +46,6 @@ while (not (a > 0)) {
   
 ---------------------------------------------  
   
-Variables in Markdown  
-  https://github.com/bdougie/variables-in-markdown/blob/master/README.md  
-  https://www.brianchildress.co/variables-in-markdown/  
-  https://en.wikipedia.org/wiki/Mustache_(template_system)  
-  
----  
-<!--#
-NOUN=mother
-ATTRIBUTION=Mark Wahlberg
-$-->
-
-"Say hi to your {{NOUN}} for me," {{ATTRIBUTION}} {{nameOfVariableToCapture}}
-  
-{% capture nameOfVariableToCapture %}Hello My Attribution{% endcapture %}
-  
----------------------------------------------  
-    
 MarkDown - numbered list  
   https://stackoverflow.com/questions/18088955/markdown-continue-numbered-list  
   
@@ -93,6 +82,34 @@ HTML type "pre"
        7+2 spaces  
   
         8+2 spaces  
+  
+---------------------------------------------  
+  
+Variable tags create new Liquid variables.  
+  https://shopify.github.io/liquid/tags/variable/  
+  https://shopify.github.io/liquid/  
+	{% capture my_variable %}I am being captured.{% endcapture %}  
+	{{ my_variable }}  
+	{% assign var = 10 %}  
+	{% increment var %}  
+	{% increment var %}  
+	{% increment var %}  
+	{{ var }}  
+  
+Variables in Markdown  
+  https://github.com/bdougie/variables-in-markdown/blob/master/README.md  
+  https://www.brianchildress.co/variables-in-markdown/  
+  https://en.wikipedia.org/wiki/Mustache_(template_system)  
+  
+---  
+<!--#
+NOUN=mother
+ATTRIBUTION=Mark Wahlberg
+$-->
+
+"Say hi to your {{NOUN}} for me," {{ATTRIBUTION}} {{nameOfVariableToCapture}}  
+  
+{% capture nameOfVariableToCapture %}Hello My Attribution{% endcapture %}  
   
 ---------------------------------------------  
   
