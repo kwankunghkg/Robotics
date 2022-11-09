@@ -37,8 +37,9 @@ Roadmap to becoming a Robotics ELECTRICAL Engineer | How to become a Robotics En
   
   
 ---------------------------------------------  
+[diy_count]: 1
   
-#### DIY exercise #1 Electric Train 
+#### DIY exercise #[diy_count] Electric Train 
    
 Very Fast Mechanical Mini Car vs Simplest Electromagnetic Train / AmazingScience /  Dec 22, 2016   
   https://youtu.be/rwt9K9PWMcU  
@@ -51,8 +52,8 @@ Simple Electric Train. Race between AA Batteries. And DIY Simple Electric Train 
   
   
 ---------------------------------------------  
-  
-#### DIY exercise #2 Electric Bell  
+[diy_count]: [diy_count]+1  
+#### DIY exercise #[diy_count] Electric Bell  
   
 How to make Electric bell at home very easy / ANGAD SCIENCE /  Sep 25, 2021   
   https://youtu.be/9cZe3WEFtf8  
@@ -81,8 +82,9 @@ Build an Electric Buzzer / ScienceOnline /  Mar 7, 2013
 The discovery of electromagnetism created a wave of innovation - over the past century thousands of patents have been issued for devices that use electromagnetism. This video demonstrates how to construct one of these devices - an electromagnetic buzzer.  
     
 ---------------------------------------------  
-  
-#### DIY exercise #3 Electric Motor  
+[diy_count]: [diy_count]+1
+
+#### DIY exercise #[diy_count] Electric Motor  
   
 Build a Simple Electric Motor / Science Buddies /  Jun 3, 2019   
   https://youtu.be/WI0pGk0MMhg  
