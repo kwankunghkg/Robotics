@@ -13,6 +13,8 @@ echo [diy_count]
   
 [diy_count]: [diy_count]+1
 echo [diy_count]
+echo sum  
+$\sum_{n=1}^{10} n^2$
   
 ---------------------------------------------  
     
