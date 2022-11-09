@@ -28,13 +28,15 @@ Markdown - Format - Math support
   https://github.blog/2022-05-19-math-support-in-markdown/  
   https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/  
   
-inline :  $\sqrt{3x-1}+(1+x)^2$  
+inline  $\sqrt{3x-1}+(1+x)^2$  
   
-inline :  $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $  
+inline  
   
-inline :  $\sum _{n=1} ^{10} n^2$  
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$  
   
-inline :  $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $  
+  
+inline   
+$$\prod_{n=1}^{10} n^2$$  
   
   
   $$\sum_{n=1}^{10} n^2$$  
