@@ -20,18 +20,16 @@ MarkDown - create auto numbered list
 [diy_count]: diy_count+2
 1. echo.3 [diy_count]
   
-MarkDown - Format - summation  
+Markdown - Format - Math support  
+  https://github.blog/2022-05-19-math-support-in-markdown/  
+  https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/  
   
-$\sum_{n=1}^{10} n^2$  
+inline   $\sum_{n=1}^{10} n^2$  
   
 $$\sum_{n=1}^{10} n^2$$  
   
   **The Cauchy-Schwarz Inequality**  
   $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$  
-  
-Markdown - Format - Math support  
-  https://github.blog/2022-05-19-math-support-in-markdown/  
-  https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/  
   
 MarkDown - Format - Syntax Highlight  
   
