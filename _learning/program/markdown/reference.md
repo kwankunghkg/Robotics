@@ -52,6 +52,7 @@ a_{ij}$$
   
 $$\prod_{n=1}^{10} n^2$$  
   
+$\vec{a}$  $\check{a}$  $\color{red}x$  $\array{ a & b+1 \cr c+1 & d } $  
   
   $$\sum_{n=1}^{10} n^2$$  
   
