@@ -30,12 +30,12 @@ Markdown - Format - Math support
   
 inline  $\sqrt{3x-1}+(1+x)^2$  
   
-inline  
+inline  $\sqrt{\$4}$  
   
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$  
   
   
-inline   
+inline  $\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x$  
 $$\prod_{n=1}^{10} n^2$$  
   
   
