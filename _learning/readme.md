@@ -5,8 +5,11 @@ last update : 20221109_1613(UTC+8)
   
 prev update : 20221108_1923(UTC+8)  
   
+---  
+  
 Markdown Cheat Sheet - quick reference to Markdown syntax  
   https://www.markdownguide.org/cheat-sheet/  
+  https://www.markdownguide.org/extended-syntax/  
   
 MarkDown - create auto numbered list  
   
