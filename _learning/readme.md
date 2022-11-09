@@ -184,5 +184,12 @@ FIRST Tech Challenge - Game Manual Zero
   
 ---------------------------------------------  
   
+  
+  https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/markdown/reference.md  
+
+  https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/java/reference.md  
+
+---------------------------------------------  
+  
 ---------------------------------------------  
 end of file
