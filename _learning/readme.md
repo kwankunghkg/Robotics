@@ -37,32 +37,33 @@ Roadmap to becoming a Robotics ELECTRICAL Engineer | How to become a Robotics En
   
 ---------------------------------------------  
 [diy_count]: 1  
+{:start="1"}
   
-#### DIY exercise # Paper Plane  
-  
----------------------------------------------  
-  
-#### DIY exercise # WalkAlong步行 Glider滑翔機  
+#### 1. DIY exercise : Paper Plane  
   
 ---------------------------------------------  
   
-#### DIY exercise # Parasuit  
+#### 1. DIY exercise : WalkAlong步行 Glider滑翔機  
   
 ---------------------------------------------  
   
-#### DIY exercise # Rubber Band Dragonfly Helicopter  
+#### 1. DIY exercise : Parasuit  
   
 ---------------------------------------------  
   
-#### DIY exercise # Rubber Band Plane  
+#### 1. DIY exercise : Rubber Band Dragonfly Helicopter  
   
 ---------------------------------------------  
   
-#### DIY exercise # Pop Pop Boat  
+#### 1. DIY exercise : Rubber Band Plane  
   
 ---------------------------------------------  
   
-#### DIY exercise # diy_count Electric Train 
+#### 1. DIY exercise : Pop Pop Boat  
+  
+---------------------------------------------  
+  
+#### 1. DIY exercise : diy_count Electric Train 
    
 Very Fast Mechanical Mini Car vs Simplest Electromagnetic Train / AmazingScience /  Dec 22, 2016   
   https://youtu.be/rwt9K9PWMcU  
