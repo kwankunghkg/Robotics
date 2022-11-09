@@ -30,7 +30,7 @@ Markdown - Format - Math support
   
 inline  $\sqrt{3x-1}+(1+x)^2$  
   
-inline  $\sqrt{\$4}$  
+inline  $\sqrt{\$4}$  $\binom{n}{k}$  $\frac{n!}{k!(n-k)!}$
   
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$  
   
