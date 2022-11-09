@@ -63,7 +63,7 @@ HTML type "p"
 HTML type "pre"  
   \<pre\> HTML element represents preformatted text  
   
-What does <!-- --> in html mean ?   Ans : comments  
+What does \<!-- --\> in html mean ?   Ans : comments  
   https://stackoverflow.com/questions/30130324/what-does-in-html-mean  
   https://www.tutorialspoint.com/html/html_comments.htm  
   https://html.spec.whatwg.org/multipage/syntax.html#comments  
