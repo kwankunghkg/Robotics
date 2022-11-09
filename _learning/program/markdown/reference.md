@@ -39,13 +39,19 @@ while (not (a > 0)) {
 ```
   
 ---------------------------------------------  
+  
+Variables in Markdown  
+  https://github.com/bdougie/variables-in-markdown/blob/master/README.md  
+  https://www.brianchildress.co/variables-in-markdown/  
+  https://en.wikipedia.org/wiki/Mustache_(template_system)  
+  
 ---  
 <!--#
 NOUN=mother
 ATTRIBUTION=Mark Wahlberg
 $-->
 
-"Say hi to your {{ NOUN }} for me," {{ ATTRIBUTION }} {{ nameOfVariableToCapture }}
+"Say hi to your {{NOUN}} for me," {{ATTRIBUTION}} {{nameOfVariableToCapture}}
   
 {% capture nameOfVariableToCapture %}Hello My Attribution{% endcapture %}
   
