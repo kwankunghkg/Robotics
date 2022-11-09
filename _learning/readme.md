@@ -1,9 +1,12 @@
 step by step - learn robotics  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/readme.md  
   
-last update : 20221108_1943(UTC+8)   
+last update : 20221109_1613(UTC+8)   
   
 prev update : 20221108_1923(UTC+8)  
+  
+Markdown Cheat Sheet - quick reference to Markdown syntax  
+  https://www.markdownguide.org/cheat-sheet/  
   
 MarkDown - create auto numbered list  
   
@@ -28,6 +31,17 @@ while (not (a > 0)) {
     alert("JavaScript code <b>goes</b> here.");
 }
 ```
+  
+---
+title: New Issue
+labels: bug, enhancement
+---
+<!--#
+NOUN=mother
+ATTRIBUTION=Mark Wahlberg
+$-->
+
+"Say hi to your {{ NOUN }} for me," {{ ATTRIBUTION }}
   
 ---------------------------------------------  
     
