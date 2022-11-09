@@ -36,18 +36,21 @@ Roadmap to becoming a Robotics ELECTRICAL Engineer | How to become a Robotics En
   
   
 ---------------------------------------------  
-[diy_count]: 1  
+[diy_count]: 1
 {:start="1"}
+<ol start="1">
+  <li> DIY exercise : Paper Plane </li>
+  <li> DIY exercise : WalkAlong步行 Glider滑翔機 </li>
   
-#### 1. DIY exercise : Paper Plane  
+#### <li> DIY exercise : Paper Plane </li>
   
 ---------------------------------------------  
   
-#### 1. DIY exercise : WalkAlong步行 Glider滑翔機  
+#### <li> DIY exercise : WalkAlong步行 Glider滑翔機 </li>
   
 ---------------------------------------------  
   
-#### 1. DIY exercise : Parasuit  
+#### <li> DIY exercise : Parasuit  </li>
   
 ---------------------------------------------  
   
@@ -198,3 +201,4 @@ vi vim ex  Java JavaScript  Node.JS Node-RED
   
 ---------------------------------------------  
 end of file
+</ol>
