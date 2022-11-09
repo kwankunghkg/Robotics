@@ -55,9 +55,9 @@ MarkDown number list
   https://stackoverflow.com/questions/18088955/markdown-continue-numbered-list  
   
 HTML ordered list - start  
-HTML <ol> start Attribute  
+HTML \<ol\> start Attribute  
   https://www.w3schools.com/tags/att_ol_start.asp  
-HTML <li> Tag  
+HTML \<li\> Tag  
   https://www.w3schools.com/tags/tag_li.asp  
   
     4 spaces  
