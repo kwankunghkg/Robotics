@@ -60,7 +60,23 @@ HTML \<ol\> start Attribute
 HTML \<li\> Tag  
   https://www.w3schools.com/tags/tag_li.asp  
   
-    4 spaces  
+0+2 spaces  
+  
+ 1+2 spaces  
+  
+  2+2 spaces  
+  
+   3+2 spaces  
+  
+    4+2 spaces  
+  
+     5+2 spaces  
+  
+      6+2 spaces  
+  
+       7+2 spaces  
+  
+        8+2 spaces  
   
 ---------------------------------------------  
   
