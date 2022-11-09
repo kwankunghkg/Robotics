@@ -122,31 +122,26 @@ Electric Motor Build - Make a simple electric motor / The Engineering Mindset / 
   https://youtu.be/NbcJvGk72HY  
 237,820 views  / 2.51M subscribers  
 Parts list  
-0.22mm (31 AWG) enamelled wire  
-22mm copper pipe  
-5mm shaft 200mm long  
-Plywood base  
-625-2RS bearing  
-N52 magnets 60x10x4mm  
-  
-  
+1. 0.22mm (31 AWG) enamelled wire  
+1. 22mm copper pipe  
+1. 5mm shaft 200mm long  
+1. Plywood base  
+1. 625-2RS bearing  
+1. N52 magnets 60x10x4mm  
+    
 ---------------------------------------------  
-  
-  
+    
 How does an Electric Motor work? (DC Motor) / Jared Owen /  Jun 10, 2020   
 https://youtu.be/CWulQ1ZSE3c  
 2.41M subscribers / Jun 10, 2020  / 13,631,758 views   
-  
-  
-AMAZING ELECTRIC MOTOR WITH ALUMINUM CANS AND SIMPLE MATERIALS / Inventus /  Mar 16, 2019   
+    
+AMAZING ELECTRIC MOTOR WITH ALUMINUM CANS AND SIMPLE MATERIALS / Inventus / Mar 16, 2019   
 https://youtu.be/A7Q37jqIdng  
 5,174,810 views  / 3.16M subscribers  
-  
-  
-  
+    
 ---------------------------------------------  
   
-
+  
   
 ---------------------------------------------  
   
@@ -164,12 +159,12 @@ reminder from a robotics engineer's teaching video that
 1. Python (text)  
 1. Processing & Arduino (text)  
   
-provides a smoother transition for beginners ...  
+Blockly provides a smoother transition for beginners ...  
   
 Blockly  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/blockly/readme.md  
   
-BlocklyDuino: Drag and Drop blocks to Blink Arduino Board LED  
+BlocklyDuino  
   https://github.com/kwankunghkg/Robotics/blob/main/Arduino/tools/GUI/BlocklyDuino/README.md  
   
 Processing & Arduino  
@@ -196,8 +191,7 @@ FIRST Tech Challenge - Game Manual Zero
 MarkDown  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/markdown/reference.md  
   
-vi vim ex  
-Java vs JavaScript  
+vi vim ex  Java JavaScript  Node.JS Node-RED  
   https://github.com/kwankunghkg/Robotics/blob/main/_learning/program/java/reference.md  
 
 ---------------------------------------------  
