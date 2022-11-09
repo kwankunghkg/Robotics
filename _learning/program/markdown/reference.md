@@ -36,7 +36,20 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
   
   
 inline  $\int_0^\infty \mathrm{e}^{-x} \mathrm{d}x$  $\int_a^b\lim\limits_{x \to -\infty} f(x)$  
-$$\sum_{\substack{0 \lt i \lt m ; 0 \lt j \le n}} P(i, j)$$   
+  
+$$\sum_{\substack{0 \lt i \lt m ;\\
+0 \lt j \le n}} P(i, j)$$  
+  
+$$\sum_{
+\substack{
+1\lt i\lt 3 \\
+1\le j\lt 5
+}}
+a_{ij}$$  
+
+  $$\sum_{\substack{1\lt i\lt 3 \\ 
+1\le j\lt 5}}a_{ij}$$  
+  
 $$\prod_{n=1}^{10} n^2$$  
   
   
