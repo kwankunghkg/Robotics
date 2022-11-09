@@ -121,12 +121,25 @@ https://youtu.be/A7Q37jqIdng
 ---------------------------------------------  
   
 #### DIY exercise #4 Paper Plane  
-
-paper plane
   
 ---------------------------------------------  
   
-#### DIY exercise #5 Parasuit  
+#### DIY exercise #4 WalkAlong步行 Glider滑翔機  
+  
+---------------------------------------------  
+  
+#### DIY exercise #4 Parasuit  
+  
+---------------------------------------------  
+  
+#### DIY exercise # Rubber Band Dragonfly Helicopter  
+  
+---------------------------------------------  
+  
+#### DIY exercise # Rubber Band Plane  
+  
+---------------------------------------------  
+  
   
 ---------------------------------------------  
   
