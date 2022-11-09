@@ -28,6 +28,14 @@ Markdown - Format - Math support
   https://github.blog/2022-05-19-math-support-in-markdown/  
   https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/  
   
+Markdown Preview Plus (MPP)  
+  https://atom.io/packages/markdown-preview-plus  
+LaTex  
+  https://www.latex-project.org/  
+TeX  
+  https://www.tutorialspoint.com/tex_commands/qquad.htm  
+  
+  
 inline  $\sqrt{3x-1}+(1+x)^2$  
   
 inline  $\sqrt{\$4}$  $\binom{n}{k}$  $\frac{n!}{k!(n-k)!}$
