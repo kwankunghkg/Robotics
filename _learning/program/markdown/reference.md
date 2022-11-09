@@ -35,7 +35,7 @@ inline  $\sqrt{\$4}$
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$  
   
   
-inline  $\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x$  
+inline  $\int_0^\infty \mathrm{e}^{-x} \mathrm{d}x$  
 $$\prod_{n=1}^{10} n^2$$  
   
   
