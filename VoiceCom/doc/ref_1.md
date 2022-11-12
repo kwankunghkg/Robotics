@@ -1,4 +1,8 @@
-
+last update : 20221112_2145(UTC+8)   
+  
+prev update : 20220703_0000(UTC+8)  
+  
+---------------------------------------------  
 
 ----------------------------------------  
 
@@ -137,10 +141,23 @@ GNU/Linux Command-Line Tools Summary
 
 
 ----------------------------------------  
-
-
-***** SCREENLY setup
-
+  
+  
+***** SCREENLY setup  
+  
+Screenly-OSE runs on Raspberry Pi 4 (update : 2022-11-12)  
+  https://github.com/Screenly/screenly-ose  
+  
+procedure :  
+1. download Screenly-OSE image file   
+wget https://github.com/Screenly/screenly-ose/releases/download/v0.18.4/2022-11-04-raspberrypi4-64.zip  
+2. download Rpi-Imager  
+https://github.com/raspberrypi/rpi-imager  
+3. run Rpi-Imager to write Screenly-OSE image file to micro-SD-card  
+4. read "Getting started with Screenly OSE"  
+https://support.screenly.io/hc/en-us/articles/360042164173-Getting-started-with-Screenly-OSE  
+  
+----  
 
 Add "power down system" option via CEC remote control #108
   https://github.com/Screenly/screenly-ose/issues/108
@@ -618,3 +635,7 @@ https://en.wikipedia.org/wiki/Multicast
 
 
 ----------------------------------------  
+---------------------------------------------  
+  
+---------------------------------------------  
+end of file
