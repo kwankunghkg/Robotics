@@ -1,10 +1,10 @@
   
-BLOG_GitHub_VoiceCom_ref1_20221112.txt
+BLOG_GitHub_VoiceCom_ref1_20221112.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/VoiceCom/doc/ref_1.md  
   
-last update : 20221112_2145(UTC+8)     
+last update : 20221112_2145(UTC+8)  
     
-prev update : 20220703_0000(UTC+8)    
+prev update : 20220703_0000(UTC+8)  
     
 ---------------------------------------------    
   
