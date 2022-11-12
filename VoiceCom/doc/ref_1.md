@@ -177,6 +177,9 @@ RPI Screenly OSE improper shutdown
 How to add a physical button to Screenly OSE using Node-RED  
   https://www.screenly.io/blog/2017/04/10/how-to-add-a-physical-button-to-screenly-ose-using-node-red/  
   
+How to Enable SSH on Boot of the Raspberry Pi  
+  https://pimylifeup.com/raspberry-pi-enable-ssh-boot/  
+  
   
 Controlling Raspberry Pi GPIO Pins from Bash Scripts: Traffic Lights  
   https://medium.com/coinmonks/controlling-raspberry-pi-gpio-pins-from-bash-scripts-traffic-lights-7ea0057c6a90  
