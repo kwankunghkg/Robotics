@@ -174,6 +174,9 @@ Screenly How to automatically turn off and on your monitor from your Raspberry P
 RPI Screenly OSE improper shutdown  
   https://www.raspberrypi.org/forums/viewtopic.php?t=172824  
   
+How to add a physical button to Screenly OSE using Node-RED  
+  https://www.screenly.io/blog/2017/04/10/how-to-add-a-physical-button-to-screenly-ose-using-node-red/  
+  
   
 Controlling Raspberry Pi GPIO Pins from Bash Scripts: Traffic Lights  
   https://medium.com/coinmonks/controlling-raspberry-pi-gpio-pins-from-bash-scripts-traffic-lights-7ea0057c6a90  
