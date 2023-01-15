@@ -146,15 +146,19 @@ GNU/Linux Command-Line Tools Summary
   
 ----------------------------------------    
   
-***** SCREENLY setup   
-(update : 2023-01-15)    
+***** SCREENLY setup :  
+  
+Screenly-OSE runs on Raspberry Pi 4 (update : 2023-01-15)  
   
 Screenly OSE renamed to Anthias  
   https://www.screenly.io/blog/2022/12/06/screenly-ose-now-called-anthias/  
   
 GOOD NEWS ... working ... after patiently waiting for 10+mins for first boot up  
   
-download 1 uSDimage 2 etcher ...  
+procedure :    
+1. download 1 uSDcard image 2 etcher  
+2. flash uSDcard  
+3. boot Rpi4 & wait 10+ mins until IP-address appears  
   https://hub.balena.io/organizations/screenly_ose/fleets/screenly-ose-pi4  
   
   
