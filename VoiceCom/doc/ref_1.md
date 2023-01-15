@@ -2,8 +2,8 @@
 BLOG_GitHub_VoiceCom_ref1_20221112.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/VoiceCom/doc/ref_1.md  
   
-last update : 20221112_2145(UTC+8)  
-    
+last update : 20230115_1725(UTC+8)  
+prev update : 20221112_2145(UTC+8)  
 prev update : 20220703_0000(UTC+8)  
     
 ---------------------------------------------    
@@ -145,9 +145,22 @@ GNU/Linux Command-Line Tools Summary
   
   
 ----------------------------------------    
+  
+***** SCREENLY setup   
+(update : 2023-01-15)    
+  
+Screenly OSE renamed to Anthias  
+  https://www.screenly.io/blog/2022/12/06/screenly-ose-now-called-anthias/  
+  
+GOOD NEWS ... working ... after patiently waiting for 10+mins for first boot up  
+  
+download 1 uSDimage 2 etcher ...  
+  https://hub.balena.io/organizations/screenly_ose/fleets/screenly-ose-pi4  
+  
+  
+---  
     
-    
-***** SCREENLY setup    
+SCREENLY setup    
     
 Screenly-OSE runs on Raspberry Pi 4 (update : 2022-11-12)    
   https://github.com/Screenly/screenly-ose    
