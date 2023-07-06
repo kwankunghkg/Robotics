@@ -1,15 +1,17 @@
-  
+    
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230706_1956(UTC+8)  
+last update : 20230706_1959(UTC+8)  
 prev update : 20230706_1551(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
   
 --  
+----  
   
 active learning class / "Engaging Students with Classroom Polling and Quizzes"   
   
 --  
+----  
   
 1 : question  
 2 : 1st poll  
@@ -20,6 +22,7 @@ active learning class / "Engaging Students with Classroom Polling and Quizzes"
 7 : solution  
   
 --  
+----  
   
 HKUST : Personal Response System (PRS)   
   https://itsc.hkust.edu.hk/services/academic-teaching-support/teaching-tools  
@@ -28,6 +31,7 @@ HKUST : Personal Response System (PRS)
   
   
 --  
+----  
   
 Cornell : Bring active learning to the classroom and help students engage with the content   
   https://teaching.cornell.edu/classroom-polling  
@@ -52,12 +56,14 @@ iClicker Student Mobile App
   
   
 --  
+----  
   
 How to Open Source & DIY a low cost system in Secondary Schools ?  
 Rpi Pico W + LCD touch + NiMH/superCap + solar ??  
   
   
 --  
+----  
   
 there is "Industry 4.0" but where is "ClassRoom 3.0" ?  
   
@@ -68,6 +74,7 @@ https://en.wikipedia.org/wiki/Education_3.0
   
   
 --  
+----  
   
 make Games Educational .... benefit all human  
 葉丙成 PaGamO educational game wiki  
@@ -109,6 +116,7 @@ https://youtu.be/3lBr5HcDECY
 	熱血老師們，無論你在學校教的是語文、自然、社會、藝能等科目，甚或是學校行政，都能參考書中的翻轉實做技巧學習，讓你不再孤獨摸索，找回教學的活力。  
   
 --  
+----  
   
 優人物／曾被成績綑綁的資優生 葉丙成翻轉教育解放下一代 / 優人物 /  May 1, 2020  
 https://youtu.be/vuXRPDtHEPI  
@@ -142,6 +150,7 @@ Blog 丙紳隨筆
   http://thinkwritespeak123.blogspot.com/2014/03/blog_27.html  
   
 --  
+----  
   
 ***** 【青春愛讀書】 20210801 - 翻轉教育—教育真的被翻轉了嗎？｜謝哲青｜青春愛讀書 / 大愛電視 Tzu Chi DaAiVideo /  Aug 1, 2021  #教育 #謝哲青 #學習  
 https://youtu.be/jPwXm4X_JPM  
@@ -158,6 +167,7 @@ https://youtu.be/jPwXm4X_JPM
   
   
 --  
+----  
   
 1st AI course in TW school ...  
 熱線追蹤 - 解密108新課綱 翻轉教育 / TTV台視新聞節目 /  Apr 1, 2019  
@@ -170,4 +180,5 @@ https://youtu.be/BZVdkGd5QqE
   
   
 --  
+----  
 End of File.  
