@@ -7,7 +7,7 @@ prev update : 20230706_1025(UTC+8)
   
 ----
   
-active learning class / "Engaging Students with Classroom Polling and Quizzes"   
+active learning class / Engaging Students with Classroom Polling and Quizzes  
   
 ----
   
@@ -29,11 +29,11 @@ HKUST : Personal Response System (PRS)
   
 ----
   
-Cornell : Bring active learning to the classroom and help students engage with the content   
+Cornell : Bring active learning to the classroom and help students engage with the content  
   https://teaching.cornell.edu/classroom-polling  
   
   
-iClicker remote : iClicker is a classroom interactive response system that allows students to participate in polls and answer questions during class. Students can respond with a physical iClicker remote or their mobile device using the Student iClicker app (if enabled).    
+iClicker remote : iClicker is a classroom interactive response system that allows students to participate in polls and answer questions during class. Students can respond with a physical iClicker remote or their mobile device using the Student iClicker app (if enabled).  
   
 Do I need an iClicker remote if I have the app ?  
 Ans : No. You do not need an iClicker base if all of your students are participating using mobile devices or laptops and you are not using the iClicker instructor remote.  
@@ -42,7 +42,7 @@ Ans : No. You do not need an iClicker base if all of your students are participa
 iClicker Student Remotes  
   https://www.iclicker.com/students/apps-and-remotes/remotes  
   
-iClicker 2 Student Remote 2nd Edition / US$48.50   
+iClicker 2 Student Remote 2nd Edition / US$48.5  
   https://www.amazon.com/iClicker2-student-remote-iClicker/dp/1498603041  
   
   
@@ -134,7 +134,7 @@ https://youtu.be/vuXRPDtHEPI
   
   
 Flipped Class Workshop...  
-葉丙成 PPT簡報製作課堂技巧與翻轉教室課堂經營實務  
+## 葉丙成 PPT簡報製作課堂技巧與翻轉教室課堂經營實務  
 1 OCW MOOC Coursera  
 https://youtu.be/rXf7Sm8PVT4  
 2 ***** Art of Taste  
@@ -181,6 +181,24 @@ https://youtu.be/BZVdkGd5QqE
 79.1K subscribers 24,770 views   
 	108年2月，台南二中新學期開學，率先實施全國第一套 AI教材，並且將在108學年新課綱上路時一併推行到各校，成為全國高中職的AI標準教材。因為新課綱因應資訊科技時代來臨，特別將生活科技課以及資訊科技課，獨立出來歸納為「科技領域」，讓課程規畫比以前完整而且廣泛，以此培養學生具備科技素養為目標。  
 	所謂的素養是指學生不再只是背誦知識，而是懂得如何活用與實作，舉個簡單的例子，過去課堂上學習電力原理，但生活情境裡要是碰到電燈泡壞了，試問有幾個人懂得如何更換呢?素養導向的核心精神是期盼知識能被活化運用、真正建立學生具備解決問題的能力。    
+  
+----
+  
+***** 翻轉教育2.0，改變從我開始 / 親子天下 /  Aug 27, 2015  
+https://youtu.be/ZZRR-hyFniI  
+123K subscribers 30,279 views   
+	「翻轉教育」是台灣教育界當紅關鍵字，也是【親子天下】過去一年來努力的主軸。  
+	它鼓勵「每一個」教師在自己的教室做改變，帶給孩子更好的教育。  
+	2014年是教改二十年，也是十二年國教啓動的第一年，更是實驗教育法通過，國中小辦學將更有彈性的關鍵一年。  
+	親子天下在指責「教育失敗」的社會氣氛中，更積極的負起媒體使命，回朔過去教改成敗，並看見教育的正向未來。  
+	面對創意無限、自主學習的孩子，台灣教學風景正默默在改變，熱血教師們開始翻轉學習，要把學習的主權還給學生。  
+	在翻轉教育《創意教師，讓改變看得見》的影片中，親子天下帶領觀眾，走訪台灣北、中、南、東七所致力於翻轉教育的國中小現場。  
+	為了能給孩子更主動、更有效、更開心的學習環境，這些創意教師在各自的領域裡翻轉、經營，並自發性的組成教育團隊，分享、學習與解決彼此遭遇的難題。  
+	而他們的創新與努力，透過這支影片，激勵了更多和他們一樣關心台灣教育、充滿熱情、並致力於改變台灣教育環境的許許多多人。  
+	在台灣，這一股改變教室的風潮正逐漸發揮他的影響力，從傳統、被動的學習模式，成為更積極主動、自發性學習的主人，期待孩子能找到學習的樂趣。   
+	「翻轉教育」官網  
+	  http://flipedu.parenting.com.tw/  
+	更多關於「翻轉教育2.0」  
   
 ----
   
