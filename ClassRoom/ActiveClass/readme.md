@@ -1,8 +1,4 @@
   
-active learning class / Engaging Students with Classroom Polling and Quizzes 
-https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md 
-  
-  
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
 last update : 20230706_1044(UTC+8)  
