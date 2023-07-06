@@ -17,7 +17,7 @@ active learning class / "Engaging Students with Classroom Polling and Quizzes"
 1 : question  
 2 : 1st poll  
 3 : hints  
-4 : few minutes small group discussion  
+4 : small group discussion  
 5 : 2nd poll  
 6 : student presentation  
 7 : solution  
