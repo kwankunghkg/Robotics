@@ -1,12 +1,22 @@
   
+BLOG_GitHub_ActiveClass_20230706.txt  
+  https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
+last update : 20230706_1025(UTC+8)  
+prev update : 20230706_1025(UTC+8)  
+  
+========================================  
+  
 active learning class / "Engaging Students with Classroom Polling and Quizzes"   
   
+========================================  
   
 HKUST : Personal Response System (PRS)   
   https://itsc.hkust.edu.hk/services/academic-teaching-support/teaching-tools  
   https://itsc.hkust.edu.hk/services/academic-teaching-support/teaching-tools/prs  
   https://itsc.hkust.edu.hk/services/academic-teaching-support/teaching-tools/prs/iprs  
   
+  
+========================================  
   
 Cornell : Bring active learning to the classroom and help students engage with the content   
   https://teaching.cornell.edu/classroom-polling  
@@ -30,6 +40,7 @@ iClicker Student Mobile App
 	Participate in iClicker classroom polls and quizzes with your Apple or Android smartphone.  
   
   
+========================================  
   
 How to Open Source & DIY a low cost system in Secondary Schools ?  
 Rpi Pico W + LCD touch + NiMH/superCap + solar ??  
@@ -37,3 +48,6 @@ Rpi Pico W + LCD touch + NiMH/superCap + solar ??
   
   
   
+  
+========================================  
+End of File.
