@@ -1,9 +1,8 @@
   
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230706_1705(UTC+8)  
+last update : 20230706_1945(UTC+8)  
 prev update : 20230706_1551(UTC+8)  
-poev update : 20230706_1044(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
   
 ========================================  
@@ -148,6 +147,33 @@ https://youtu.be/BZVdkGd5QqE
 79.1K subscribers 24,770 views   
 	108年2月，台南二中新學期開學，率先實施全國第一套 AI教材，並且將在108學年新課綱上路時一併推行到各校，成為全國高中職的AI標準教材。因為新課綱因應資訊科技時代來臨，特別將生活科技課以及資訊科技課，獨立出來歸納為「科技領域」，讓課程規畫比以前完整而且廣泛，以此培養學生具備科技素養為目標。  
 	所謂的素養是指學生不再只是背誦知識，而是懂得如何活用與實作，舉個簡單的例子，過去課堂上學習電力原理，但生活情境裡要是碰到電燈泡壞了，試問有幾個人懂得如何更換呢?素養導向的核心精神是期盼知識能被活化運用、真正建立學生具備解決問題的能力。    
+  
+  
+  
+  
+Flip Class Workshop...  
+葉丙成 PPT簡報製作課堂技巧與翻轉教室課堂經營實務  
+1 OCW MOOC Coursera  
+https://youtu.be/rXf7Sm8PVT4  
+2 ***** Art of Taste  
+https://youtu.be/dE21acSp1N0  
+3 ***** Longevity of Active Learner  
+https://youtu.be/D6vGjSRQ5G8  
+4 學生不看怎麼辦 ?  
+https://youtu.be/NvSZgr3OtFI  
+5 hints  
+https://youtu.be/p_09NFT0xTI  
+6 老師價值在哪 ?  
+https://youtu.be/hzganHxFB00  
+7 communities  
+https://youtu.be/WNLPJwCcnV4  
+  / 均一教育平台 Junyi Academy /  Dec 20, 2014  
+130K subscribers 57,613 views  
+  
+葉丙成 Benson  
+  facebook.com/prof.yeh  
+Blog 丙紳隨筆  
+  http://thinkwritespeak123.blogspot.com/2014/03/blog_27.html  
   
   
 ========================================  
