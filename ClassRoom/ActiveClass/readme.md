@@ -1,7 +1,7 @@
   
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230706_1044(UTC+8)  
+last update : 20230706_1059(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
   
 ========================================  
@@ -55,6 +55,13 @@ iClicker Student Mobile App
 How to Open Source & DIY a low cost system in Secondary Schools ?  
 Rpi Pico W + LCD touch + NiMH/superCap + solar ??  
   
+  
+========================================  
+  
+there is "Industry 4.0" but where is "ClassRoom 3.0" ?  
+  
+make Games Educational .... benefit all human  
+葉丙成 PaGamO educational game wiki  
   
   
   
