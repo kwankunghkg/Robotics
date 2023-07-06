@@ -1,8 +1,8 @@
   
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230706_1124(UTC+8)  
-prev update : 20230706_1059(UTC+8)  
+last update : 20230706_1538(UTC+8)  
+prev update : 20230706_1124(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
   
 ========================================  
@@ -60,6 +60,14 @@ Rpi Pico W + LCD touch + NiMH/superCap + solar ??
 ========================================  
   
 there is "Industry 4.0" but where is "ClassRoom 3.0" ?  
+  
+What is a 3.0 classroom ?  
+	With Education 3.0, classes move away from traditional lectures and instead focus on interactive learning, with question and answer sessions, reviews and quizzes, discussions, labs, and other project-based learning.  
+  
+https://en.wikipedia.org/wiki/Education_3.0  
+  
+  
+========================================  
   
 make Games Educational .... benefit all human  
 葉丙成 PaGamO educational game wiki  
