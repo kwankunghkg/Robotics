@@ -1,4 +1,4 @@
-  
+   
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
 last update : 20230706_1959(UTC+8)  
@@ -64,13 +64,14 @@ there is "Industry 4.0" but where is "ClassRoom 3.0" ?
 What is a 3.0 classroom ?  
 	With Education 3.0, classes move away from traditional lectures and instead focus on interactive learning, with question and answer sessions, reviews and quizzes, discussions, labs, and other project-based learning.  
   
-https://en.wikipedia.org/wiki/Education_3.0  
+  https://en.wikipedia.org/wiki/Education_3.0  
   
   
 ----
   
 make Games Educational .... benefit all human  
 葉丙成 PaGamO educational game wiki  
+  https://zh.wikipedia.org/wiki/PaGamO  
   
   
 還課室給學生 讓學生說話  
@@ -137,7 +138,7 @@ https://youtu.be/WNLPJwCcnV4
 130K subscribers 57,613 views  
   
 葉丙成 Benson  
-  facebook.com/prof.yeh  
+  http://facebook.com/prof.yeh  
 Blog 丙紳隨筆  
   http://thinkwritespeak123.blogspot.com/2014/03/blog_27.html  
   
@@ -166,7 +167,11 @@ https://youtu.be/BZVdkGd5QqE
 	108年2月，台南二中新學期開學，率先實施全國第一套 AI教材，並且將在108學年新課綱上路時一併推行到各校，成為全國高中職的AI標準教材。因為新課綱因應資訊科技時代來臨，特別將生活科技課以及資訊科技課，獨立出來歸納為「科技領域」，讓課程規畫比以前完整而且廣泛，以此培養學生具備科技素養為目標。  
 	所謂的素養是指學生不再只是背誦知識，而是懂得如何活用與實作，舉個簡單的例子，過去課堂上學習電力原理，但生活情境裡要是碰到電燈泡壞了，試問有幾個人懂得如何更換呢?素養導向的核心精神是期盼知識能被活化運用、真正建立學生具備解決問題的能力。    
   
+----
   
+how 如何 避免 眼高手低 陷阱  
+1. 落地行 動手造  
+2. 爬出井 見天地  
   
   
 ----
