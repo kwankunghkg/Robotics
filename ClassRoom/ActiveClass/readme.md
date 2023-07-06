@@ -3,7 +3,6 @@ BLOG_GitHub_ActiveClass_20230706.txt
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
 last update : 20230707_0303(UTC+8)  
 prev update : 20230706_1959(UTC+8)  
-prev update : 20230706_1551(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
   
 ----
@@ -74,7 +73,7 @@ make Games Educational .... benefit all human
 葉丙成 PaGamO educational game wiki  
   https://zh.wikipedia.org/wiki/PaGamO  
   
-超越教育！線上學習新革命：葉丙成 (Ping-Cheng Yeh) at TEDxTaipei 2013 / TEDxTaipei /  Nov 27, 2013  
+PaGamO - 超越教育！線上學習新革命：葉丙成 (Ping-Cheng Yeh) at TEDxTaipei 2013 / TEDxTaipei /  Nov 27, 2013  
 https://youtu.be/7htkDYcZHUg  
 246K subscribers 406,316 views   
 	台大電機系副教授、台大MOOC計畫執行長  
@@ -88,6 +87,7 @@ https://youtu.be/7htkDYcZHUg
 	• 他是當代第一個推行「緣源流機率⽂學創作」的⽼師。  
 	對了，他...應該也是第⼀個綁⾺尾見校長的台大電機⽼師...  
   
+----
   
 還課室給學生 讓學生說話  
   
@@ -133,7 +133,7 @@ https://youtu.be/vuXRPDtHEPI
 	當自己終於「排毒」完成，葉丙成以自身經驗，想改變台灣社會對教育的看法，除了在台大推行創新教學外，也推廣、協助全台各級教師進行翻轉教學，希望下一代學子不再背負分數的枷索。    
   
   
-Flip Class Workshop...  
+Flipped Class Workshop...  
 葉丙成 PPT簡報製作課堂技巧與翻轉教室課堂經營實務  
 1 OCW MOOC Coursera  
 https://youtu.be/rXf7Sm8PVT4  
@@ -175,7 +175,7 @@ https://youtu.be/jPwXm4X_JPM
   
 ----
   
-1st AI course in TW school ...  
+1st AI course in TW school...  
 熱線追蹤 - 解密108新課綱 翻轉教育 / TTV台視新聞節目 /  Apr 1, 2019  
 https://youtu.be/BZVdkGd5QqE  
 79.1K subscribers 24,770 views   
