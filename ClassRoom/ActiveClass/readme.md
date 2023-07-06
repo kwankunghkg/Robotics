@@ -5,11 +5,11 @@ last update : 20230706_1945(UTC+8)
 prev update : 20230706_1551(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
   
-========================================  
+----  
   
 active learning class / "Engaging Students with Classroom Polling and Quizzes"   
   
-========================================  
+----  
   
 1 : question  
 2 : 1st poll  
@@ -19,7 +19,7 @@ active learning class / "Engaging Students with Classroom Polling and Quizzes"
 6 : student presentation  
 7 : solution  
   
-========================================  
+----  
   
 HKUST : Personal Response System (PRS)   
   https://itsc.hkust.edu.hk/services/academic-teaching-support/teaching-tools  
@@ -27,7 +27,7 @@ HKUST : Personal Response System (PRS)
   https://itsc.hkust.edu.hk/services/academic-teaching-support/teaching-tools/prs/iprs  
   
   
-========================================  
+----  
   
 Cornell : Bring active learning to the classroom and help students engage with the content   
   https://teaching.cornell.edu/classroom-polling  
@@ -51,13 +51,13 @@ iClicker Student Mobile App
 	Participate in iClicker classroom polls and quizzes with your Apple or Android smartphone.  
   
   
-========================================  
+----  
   
 How to Open Source & DIY a low cost system in Secondary Schools ?  
 Rpi Pico W + LCD touch + NiMH/superCap + solar ??  
   
   
-========================================  
+----  
   
 there is "Industry 4.0" but where is "ClassRoom 3.0" ?  
   
@@ -67,7 +67,7 @@ What is a 3.0 classroom ?
 https://en.wikipedia.org/wiki/Education_3.0  
   
   
-========================================  
+----  
   
 make Games Educational .... benefit all human  
 葉丙成 PaGamO educational game wiki  
@@ -107,48 +107,14 @@ https://youtu.be/3lBr5HcDECY
 	柏格曼和山姆兩位翻轉創始人在新書分享成功翻轉的三C關鍵：Content 內容、Curiosity 好奇、Connection 師生關係。  
 	書中更匯集各領域老師分享他們的翻轉教室經驗，包含化學、體育、生物、社會、英文等各科，無論是錄製教學影片、引導專題活動、規劃小組討論、設計評量講義等實務技巧全盤無私分享，同時也寫下他們翻轉教學的心路歷程。  
 	熱血老師們，無論你在學校教的是語文、自然、社會、藝能等科目，甚或是學校行政，都能參考書中的翻轉實做技巧學習，讓你不再孤獨摸索，找回教學的活力。  
-	熱血推薦  
-	方新舟　財團法人誠致教育基金會董事長  
-	鍾昌宏　台中市光榮國中生物科教師  
-	試讀迴響 (按筆劃排列)  
-	王勝忠  台中市清水國小老師   
-	林淑媛  台北市興雅國中老師   
-	施信源  新北市龍埔國小教師  
-	程瑋翔  臺中市衛道中學數學科老師  
-	簡志祥  新竹市光華國中生物老師  
-	鄭志鵬  台北市龍山國中老師   
   
+----  
   
 優人物／曾被成績綑綁的資優生 葉丙成翻轉教育解放下一代 / 優人物 /  May 1, 2020  
 https://youtu.be/vuXRPDtHEPI  
 30K subscribers 17,755 views   
 	台大電機教授葉丙成從小是資優生，功課上無往不利，但他記得自己在這考第一、得冠軍的過程中，整個黃金歲月被分數制約，喪失對大千世界的好奇心。  
 	當自己終於「排毒」完成，葉丙成以自身經驗，想改變台灣社會對教育的看法，除了在台大推行創新教學外，也推廣、協助全台各級教師進行翻轉教學，希望下一代學子不再背負分數的枷索。    
-  
-  
-***** 【青春愛讀書】 20210801 - 翻轉教育—教育真的被翻轉了嗎？｜謝哲青｜青春愛讀書 / 大愛電視 Tzu Chi DaAiVideo /  Aug 1, 2021  #教育 #謝哲青 #學習  
-https://youtu.be/jPwXm4X_JPM  
-671K subscribers 1,375 views   
-	近年來在臺灣談到教育，絕不會被忽視的詞就是「翻轉教育」，而「翻轉教育」的真義是什麼？  
-	最早的翻轉教育是由「翻轉教室」（Flipped Classroom）而來，2007年美國的兩位高中教師，為了解決學生缺課進度落後的問題，他們將上課內容錄成影片，這件我們現在看起來極為普通的事，卻收到很好的成效，不但補足課程進度，也能利用影片複習，讓課堂時間更有彈性，增加師生間互動和討論。  
-	兩位教師之一的Bergmann認為翻轉教育的初衷是：「如何能夠在每堂課裡面與每一位學生真正的接觸、真正的互動。」  
-	究竟現今的教育出了什麼問題需要被「翻轉」？  
-	疫情期間我們也特別邀請金牌教師王政忠，以及爽文國中的三位同學聊聊他們對遠距教學有什麼想法。  
-	選書　:  
-	👉《成為他自己：全人，給未來世代的教育烏托邦》劉若凡／衛城出版社  
-	👉《老師，你會不會回來》王政忠／時報出版社  
-	👉《娜拉，如果妳在挪威長大》李濠仲／衛城出版社  
-  
-  
-  
-1st AI course in TW school ...  
-熱線追蹤 - 解密108新課綱 翻轉教育 / TTV台視新聞節目 /  Apr 1, 2019  
-https://youtu.be/BZVdkGd5QqE  
-79.1K subscribers 24,770 views   
-	108年2月，台南二中新學期開學，率先實施全國第一套 AI教材，並且將在108學年新課綱上路時一併推行到各校，成為全國高中職的AI標準教材。因為新課綱因應資訊科技時代來臨，特別將生活科技課以及資訊科技課，獨立出來歸納為「科技領域」，讓課程規畫比以前完整而且廣泛，以此培養學生具備科技素養為目標。  
-	所謂的素養是指學生不再只是背誦知識，而是懂得如何活用與實作，舉個簡單的例子，過去課堂上學習電力原理，但生活情境裡要是碰到電燈泡壞了，試問有幾個人懂得如何更換呢?素養導向的核心精神是期盼知識能被活化運用、真正建立學生具備解決問題的能力。    
-  
-  
   
   
 Flip Class Workshop...  
@@ -175,6 +141,33 @@ https://youtu.be/WNLPJwCcnV4
 Blog 丙紳隨筆  
   http://thinkwritespeak123.blogspot.com/2014/03/blog_27.html  
   
+----  
   
-========================================  
+***** 【青春愛讀書】 20210801 - 翻轉教育—教育真的被翻轉了嗎？｜謝哲青｜青春愛讀書 / 大愛電視 Tzu Chi DaAiVideo /  Aug 1, 2021  #教育 #謝哲青 #學習  
+https://youtu.be/jPwXm4X_JPM  
+671K subscribers 1,375 views   
+	近年來在臺灣談到教育，絕不會被忽視的詞就是「翻轉教育」，而「翻轉教育」的真義是什麼？  
+	最早的翻轉教育是由「翻轉教室」（Flipped Classroom）而來，2007年美國的兩位高中教師，為了解決學生缺課進度落後的問題，他們將上課內容錄成影片，這件我們現在看起來極為普通的事，卻收到很好的成效，不但補足課程進度，也能利用影片複習，讓課堂時間更有彈性，增加師生間互動和討論。  
+	兩位教師之一的Bergmann認為翻轉教育的初衷是：「如何能夠在每堂課裡面與每一位學生真正的接觸、真正的互動。」  
+	究竟現今的教育出了什麼問題需要被「翻轉」？  
+	疫情期間我們也特別邀請金牌教師王政忠，以及爽文國中的三位同學聊聊他們對遠距教學有什麼想法。  
+	選書　:  
+	👉《成為他自己：全人，給未來世代的教育烏托邦》劉若凡／衛城出版社  
+	👉《老師，你會不會回來》王政忠／時報出版社  
+	👉《娜拉，如果妳在挪威長大》李濠仲／衛城出版社  
+  
+  
+----  
+  
+1st AI course in TW school ...  
+熱線追蹤 - 解密108新課綱 翻轉教育 / TTV台視新聞節目 /  Apr 1, 2019  
+https://youtu.be/BZVdkGd5QqE  
+79.1K subscribers 24,770 views   
+	108年2月，台南二中新學期開學，率先實施全國第一套 AI教材，並且將在108學年新課綱上路時一併推行到各校，成為全國高中職的AI標準教材。因為新課綱因應資訊科技時代來臨，特別將生活科技課以及資訊科技課，獨立出來歸納為「科技領域」，讓課程規畫比以前完整而且廣泛，以此培養學生具備科技素養為目標。  
+	所謂的素養是指學生不再只是背誦知識，而是懂得如何活用與實作，舉個簡單的例子，過去課堂上學習電力原理，但生活情境裡要是碰到電燈泡壞了，試問有幾個人懂得如何更換呢?素養導向的核心精神是期盼知識能被活化運用、真正建立學生具備解決問題的能力。    
+  
+  
+  
+  
+----  
 End of File.  
