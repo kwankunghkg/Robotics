@@ -1,16 +1,14 @@
-    
+  
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
 last update : 20230706_1959(UTC+8)  
 prev update : 20230706_1551(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
   
---  
 ----  
   
 active learning class / "Engaging Students with Classroom Polling and Quizzes"   
   
---  
 ----  
   
 1 : question  
@@ -21,7 +19,6 @@ active learning class / "Engaging Students with Classroom Polling and Quizzes"
 6 : student presentation  
 7 : solution  
   
---  
 ----  
   
 HKUST : Personal Response System (PRS)   
@@ -30,7 +27,6 @@ HKUST : Personal Response System (PRS)
   https://itsc.hkust.edu.hk/services/academic-teaching-support/teaching-tools/prs/iprs  
   
   
---  
 ----  
   
 Cornell : Bring active learning to the classroom and help students engage with the content   
@@ -55,14 +51,12 @@ iClicker Student Mobile App
 	Participate in iClicker classroom polls and quizzes with your Apple or Android smartphone.  
   
   
---  
 ----  
   
 How to Open Source & DIY a low cost system in Secondary Schools ?  
 Rpi Pico W + LCD touch + NiMH/superCap + solar ??  
   
   
---  
 ----  
   
 there is "Industry 4.0" but where is "ClassRoom 3.0" ?  
@@ -73,7 +67,6 @@ What is a 3.0 classroom ?
 https://en.wikipedia.org/wiki/Education_3.0  
   
   
---  
 ----  
   
 make Games Educational .... benefit all human  
@@ -115,7 +108,6 @@ https://youtu.be/3lBr5HcDECY
 	書中更匯集各領域老師分享他們的翻轉教室經驗，包含化學、體育、生物、社會、英文等各科，無論是錄製教學影片、引導專題活動、規劃小組討論、設計評量講義等實務技巧全盤無私分享，同時也寫下他們翻轉教學的心路歷程。  
 	熱血老師們，無論你在學校教的是語文、自然、社會、藝能等科目，甚或是學校行政，都能參考書中的翻轉實做技巧學習，讓你不再孤獨摸索，找回教學的活力。  
   
---  
 ----  
   
 優人物／曾被成績綑綁的資優生 葉丙成翻轉教育解放下一代 / 優人物 /  May 1, 2020  
@@ -149,7 +141,6 @@ https://youtu.be/WNLPJwCcnV4
 Blog 丙紳隨筆  
   http://thinkwritespeak123.blogspot.com/2014/03/blog_27.html  
   
---  
 ----  
   
 ***** 【青春愛讀書】 20210801 - 翻轉教育—教育真的被翻轉了嗎？｜謝哲青｜青春愛讀書 / 大愛電視 Tzu Chi DaAiVideo /  Aug 1, 2021  #教育 #謝哲青 #學習  
@@ -166,7 +157,6 @@ https://youtu.be/jPwXm4X_JPM
 	👉《娜拉，如果妳在挪威長大》李濠仲／衛城出版社  
   
   
---  
 ----  
   
 1st AI course in TW school ...  
@@ -179,6 +169,5 @@ https://youtu.be/BZVdkGd5QqE
   
   
   
---  
 ----  
 End of File.  
