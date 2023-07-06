@@ -1,7 +1,8 @@
-   
+  
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230706_1959(UTC+8)  
+last update : 20230707_0303(UTC+8)  
+prev update : 20230706_1959(UTC+8)  
 prev update : 20230706_1551(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
   
@@ -72,6 +73,20 @@ What is a 3.0 classroom ?
 make Games Educational .... benefit all human  
 葉丙成 PaGamO educational game wiki  
   https://zh.wikipedia.org/wiki/PaGamO  
+  
+超越教育！線上學習新革命：葉丙成 (Ping-Cheng Yeh) at TEDxTaipei 2013 / TEDxTaipei /  Nov 27, 2013  
+https://youtu.be/7htkDYcZHUg  
+246K subscribers 406,316 views   
+	台大電機系副教授、台大MOOC計畫執行長  
+	葉丙成，號丙紳，現任台大電機系副教授、台大 MOOC 計畫執⾏⻑。  
+	⾃幼觀父葉勝年教授對生徒之關懷，⽽立後受台大電機許博文⽼師「教授稱謂實不如師，多未傳道、解惑故」之啟發，輔以天⽣生雞婆性格，漸步上熱血教師一途。  
+	其為師也，富熱情，常難忍教學一成不變。時於臉書輔導學⼦求學、⼈生之惑，後撰文部落格以惠同惑者，傳閱者眾。庚寅年某⽇見某⽣於課堂度孤，當夜不能寐。翻滾⾄至五更，幡然悟得「by the students, for the students, of the students」之心法。⾃此教學通脫不拘，⼤開大闔，開發各式獨特教學法。教學深具特⾊，多有⼝碑，其簡報與表達課程收徒四十，初選常達數百眾。  
+	摘其教學創舉如下:  
+	• 他是有史第一個在國際舞台 (Coursera) 以華語對萬⼈人講學、互動的老師。  
+	• 他是台灣第一個設計體驗式簡報教學法，讓⼩小學⽣生打大學⽣期末簡報分數的⽼師。  
+	• 他是世界第一個將大規模開放式線上課程 (MOOC) 變成多人競技線上遊戲的老師。  
+	• 他是當代第一個推行「緣源流機率⽂學創作」的⽼師。  
+	對了，他...應該也是第⼀個綁⾺尾見校長的台大電機⽼師...  
   
   
 還課室給學生 讓學生說話  
