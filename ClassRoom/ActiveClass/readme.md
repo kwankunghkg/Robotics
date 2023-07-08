@@ -1,7 +1,8 @@
-  
+    
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230707_0303(UTC+8)  
+last update : 20230708_1053(UTC+8)  
+prev update : 20230707_0403(UTC+8)  
 prev update : 20230706_1959(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
   
@@ -205,6 +206,36 @@ https://youtu.be/ZZRR-hyFniI
 how 如何 避免 眼高手低 陷阱  
 1. 落地行 動手造  
 2. 爬出井 見天地  
+  
+  
+====  
+  
+value of summer job / gap year / internship / ...  
+  
+丙紳開講：如何探索有意義的人生？ / 葉丙成 /  Oct 31, 2013  
+https://youtu.be/SqNK5mgeH-4  
+8.03K subscribers 80,215 views   
+如何幫自己找到適合自己的人生道路？這真是大哉問～  
+  
+@zebulonliang7482  8 years ago  
+雖然我不是台大的學生 但自己就是想了兩三年但想破頭還是不知道自己未來的大學生  後來就變成無所謂的心態 就有點變成想走大家都覺得好的路 覺得只要考上好的研究所或努力考托福 然後未來就會有好的工作和薪水 就會有美好人生 以前自己都覺得除了念書以外的事情 或過去嘗試到討厭的事情 都是浪費時間沒有意義的事情 但看完這段影片之後 收穫真的很多  真的非常感謝老師  
+  
+@eileenlin5086  3 years ago  
+可惜學生時代沒有遇到像葉老師這樣願意跟孩子聊人生的老師，現在身為孩子的媽媽，聽了許多葉老師的演講，希望像葉老師這樣的老師能愈來愈多，開啟未來教育的新氣象。  
+  
+@ylin3894  5 years ago (edited)  
+1.實習 觀察職務: 問人有甚麼工作 辛酸苦辣 有趣樂趣 成就感 辛苦 挑戰的地方 需要甚麼能力 背景    
+2.了解自己:找到自己擅長甚麼 有甚麼天分 沒做過的事就去嘗試 開不開心 在不在行 輕鬆愉快樂     
+3.工作要甚麼能力+自己有甚麼能力     
+4.找到自己是一輩子的探索  
+  
+====  
+  
+台大電機系葉丙成教授留學分享 / 葉丙成 /  Apr 25, 2017  
+https://youtu.be/m4eMSRpKk0I  
+8.03K subscribers 6,579 views   
+葉丙成教授分享出國留學的經驗與看法    
+  
   
   
 ----
