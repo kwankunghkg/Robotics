@@ -234,10 +234,15 @@ https://youtu.be/SqNK5mgeH-4
   
 #教育不一樣 03/12開播！ feat.葉丙成 #shorts  @classicalfm977   
   
-【教育不一樣】#精華節錄 EP66：「大學之煩：一場思維重置之旅」這個課的內容到底在上什麼？  @classicalfm977  
+## 【教育不一樣】#精華節錄 EP66：「大學之煩：一場思維重置之旅」 這個課的內容到底在上什麼？  @classicalfm977  
   https://youtube.com/shorts/bmAIDy3Kl_g?feature=share  
-  https://www.family977.com.tw/index.php?route=choice/program_detail&choice_program_id=283  
+  
+好不容易升上大學，許多人戲稱，可以由你玩四年。面對與過去升學、考試完全不同階段的大學生活，我們該怎麼調整心態呢？   
+本集「教育不一樣」，主題：學習不一樣   
 主持人：藍偉瑩 和 國立臺灣大學創新設計學院 副院長－葉丙成  
+要和你分享：大學之煩  
+主持人：藍偉瑩 和 國立臺灣大學創新設計學院 副院長－葉丙成  
+  https://www.family977.com.tw/index.php?route=choice/program_detail&choice_program_id=283  
   https://www.family977.com.tw/index.php?route=choice/program_detail_song&choice_program_song_id=28812  
   
   
