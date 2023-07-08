@@ -100,3 +100,22 @@ Jumbo Computer Supplies 珍寶電腦 HK$576 [行貨]
 
   
 ----
+  
+jumbo computer  
+  https://shoponjc.com/quote.php  
+Kingston 16GB KCP432NS8/16 DDR4 3200MHz (1x16GB) Ram / 20230708 HK$350  
+Kingston 16GB KCP548US8-16 DDR5-4800MT/s (PC5-38400) DIMM RAM / 20230708 HK$490  
+Kingston 16GB KCP556US8-16 DDR5-5600MT/s (PC5-44800) DIMM RAM / 20230708 HK$520  
+  
+  
+Seagate 4TB BarraCuda ST4000DM004 SATA3 6Gb/s /256MB Cache HDD / 20230708 HK$495  
+Seagate 4TB IronWolf NAS ST4000VN006 SATA3 6Gb/s /256MB Cache HDD / 20230708 HK$607  
+Seagate 4TB IronWolf Pro NAS ST4000NE001 7200rpm SATA3 6Gb/s /128MB Cache HDD HK$899  
+Seagate 4TB ST4000NM000B Enterprise Capacity 3.5 HDD Exos 7E10 SATA3 /256MB Cache (7x24 企業版) HK$998  
+  
+----
+  
+----
+  
+----
+End of File.
