@@ -1,7 +1,7 @@
   
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230708_1248(UTC+8)  
+last update : 20230708_1330(UTC+8)  
 prev update : 20230707_0403(UTC+8)  
 prev update : 20230706_1959(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
@@ -232,7 +232,7 @@ https://youtu.be/SqNK5mgeH-4
   
 ====  
   
-## 【教育不一樣】 EP66：「大學之煩：一場思維重置之旅」  @classicalfm977  
+## 【教育不一樣】 EP66：「大學之煩：一場思維重置之旅」  
   https://youtube.com/shorts/bmAIDy3Kl_g  
   
 好不容易升上大學，許多人戲稱，可以由你玩四年。面對與過去升學、考試完全不同階段的大學生活，我們該怎麼調整心態呢？   
@@ -242,8 +242,8 @@ https://youtu.be/SqNK5mgeH-4
 主持人：藍偉瑩 和 國立臺灣大學創新設計學院 副院長－葉丙成  
   https://www.family977.com.tw/index.php?route=choice/program_detail&choice_program_id=283  
   
-audio PLAY  =>  
 EP.66學習不一樣：大學之煩，一場思維重置之旅 ▸ 國立臺灣大學創新設計學院 副院長－葉丙成(2023-0610)  
+audio PLAY  =>  
   https://www.family977.com.tw/index.php?route=choice/program_detail_song&choice_program_song_id=28812  
   
   
@@ -252,6 +252,12 @@ ds5114 大學之煩：一場思維重置之旅
 授課教師： 葉丙成 、陳毓文 、黃尹男  
   https://dschool.ntu.edu.tw/courses/ds5114/  
 	在進入大學後，有許多事物跟高中以前的人生經驗差距很大。過去慣有的思維、價值觀，在進入大學後開始遭遇衝擊。有許多人在大學生活的許多煩惱，源因於以進大學之前（高中階段）的價值觀來面對大學的生活。在本課程，希望透過有類似生命經驗的專家、前輩們分享生命故事，並引導同學做反思自身慣有的思維在進入大學後的衝突以及改變的可能性。希望能幫助同學重置面對學業、人生主導權、親人關係、感情等事物的價值觀，不再讓自己被過去的價值觀所束縛。進而更有自信面對大學與未來的人生。   
+  
+  
+教育花園 / FM97.7古典音樂台  @classicalfm977  
+  https://www.youtube.com/playlist?list=PLjhokmZAGToyFBewRS2WqY87PTyVqyogx  
+33 videos 466 views Last updated on Oct 11, 2022  
+  
   
   
 ====  
