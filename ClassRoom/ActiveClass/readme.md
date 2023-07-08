@@ -1,7 +1,7 @@
   
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230708_1336(UTC+8)  
+last update : 20230708_1359(UTC+8)  
 prev update : 20230707_0403(UTC+8)  
 prev update : 20230706_1959(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
@@ -204,7 +204,7 @@ https://youtu.be/ZZRR-hyFniI
 ----
   
 how 如何 避免 眼高手低 陷阱  
-1. 落地行 動手造  
+1. 落地行 動手造 基本功  
 2. 爬出井 見天地  
   
   
@@ -254,8 +254,11 @@ ds5114 大學之煩：一場思維重置之旅
 	在進入大學後，有許多事物跟高中以前的人生經驗差距很大。過去慣有的思維、價值觀，在進入大學後開始遭遇衝擊。有許多人在大學生活的許多煩惱，源因於以進大學之前（高中階段）的價值觀來面對大學的生活。在本課程，希望透過有類似生命經驗的專家、前輩們分享生命故事，並引導同學做反思自身慣有的思維在進入大學後的衝突以及改變的可能性。希望能幫助同學重置面對學業、人生主導權、親人關係、感情等事物的價值觀，不再讓自己被過去的價值觀所束縛。進而更有自信面對大學與未來的人生。   
   
   
+====  
+  
 藍偉瑩 FB  
   https://www.facebook.com/teacherlaniris/  
+  
   
 2019 教育花園分享會斜槓教室 藍偉瑩老師推薦影片 / FM97.7古典音樂台 / Sep 16, 2019  
   https://www.youtube.com/watch?v=ZRtKRDDxTvE&list=PLjhokmZAGToyFBewRS2WqY87PTyVqyogx&index=14  
@@ -278,12 +281,13 @@ ds5114 大學之煩：一場思維重置之旅
   
 台大電機系葉丙成教授留學分享 / 葉丙成 /  Apr 25, 2017  
 https://youtu.be/m4eMSRpKk0I  
-8.03K subscribers 6,579 views   
-	葉丙成教授分享出國留學的經驗與看法    
+8.03K subscribers 6,579 views  
+	葉丙成教授分享出國留學的經驗與看法  
+  
   
 ====  
   
-男考上台大卻痛苦！教授心疼揭現實 / 12 Jun 2022    
+男考上台大卻痛苦！教授心疼揭現實 / 12 Jun 2022  
   https://hk.sports.yahoo.com/news/%E7%94%B7%E8%80%83%E4%B8%8A%E5%8F%B0%E5%A4%A7%E5%8D%BB%E7%97%9B%E8%8B%A6-%E6%95%99%E6%8E%88%E5%BF%83%E7%96%BC%E6%8F%AD%E7%8F%BE%E5%AF%A6-040607599.html  
 	日前有位男大生在網路上表達進入台大的打擊，甚至不禁淚喊「台大根本不是給鄉下人讀的」，隨即引發網友討論。對此，台大電機系教授葉丙成也分享看法，認為「大家對部分台大學生的困境，可能並沒有真正的瞭解」，更說出學生們的心聲，而吸引將近1萬人按讚。  
 	《NOWnews今日新聞》曾報導《男喊「台大不是給鄉下人讀的」！淚揭3大打擊：心態爆炸》，一名就讀台大的男網友在Dcard上表示，進入台大後遭遇「英文能力、視野和留學」3大打擊，不禁淚訴「台大根本不是給鄉下人讀的」，而引起網友關注。  
