@@ -1,7 +1,7 @@
   
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230708_1330(UTC+8)  
+last update : 20230708_1336(UTC+8)  
 prev update : 20230707_0403(UTC+8)  
 prev update : 20230706_1959(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
@@ -254,9 +254,23 @@ ds5114 大學之煩：一場思維重置之旅
 	在進入大學後，有許多事物跟高中以前的人生經驗差距很大。過去慣有的思維、價值觀，在進入大學後開始遭遇衝擊。有許多人在大學生活的許多煩惱，源因於以進大學之前（高中階段）的價值觀來面對大學的生活。在本課程，希望透過有類似生命經驗的專家、前輩們分享生命故事，並引導同學做反思自身慣有的思維在進入大學後的衝突以及改變的可能性。希望能幫助同學重置面對學業、人生主導權、親人關係、感情等事物的價值觀，不再讓自己被過去的價值觀所束縛。進而更有自信面對大學與未來的人生。   
   
   
+藍偉瑩  
+  https://www.facebook.com/teacherlaniris/  
+  
+2019 教育花園分享會斜槓教室 藍偉瑩老師推薦影片 / FM97.7古典音樂台 /  Sep 16, 2019  
+https://youtu.be/ZRtKRDDxTvE  
+6.73K subscribers 234 views   
+	你的教室「斜槓」嗎？  
+	【2019教育花園分享會 斜槓教室】，上午有教育噗浪客小噗聚-【海洋的命運，我們一起決定】帶你玩桌遊；下午有老師的老師-藍偉瑩、新竹關埔國小校長陳思玎、苗栗汶水國小校長黃秀英帶你認識【斜槓教室】。  
+	關於108課綱你想知道的事、關於新世代學校要教的事、關於創新教學可以怎麼開始，都在【2019教育花園分享會 斜槓教室】。  
+	詳細內容及活動報名   
+	☛ https://pse.is/LHC5D  
+  
+  
+  
 教育花園 / FM97.7古典音樂台  @classicalfm977  
   https://www.youtube.com/playlist?list=PLjhokmZAGToyFBewRS2WqY87PTyVqyogx  
-33 videos 466 views Last updated on Oct 11, 2022  
+	33 videos 466 views Last updated on Oct 11, 2022  
   
   
   
