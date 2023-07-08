@@ -1,7 +1,7 @@
-    
+  
 BLOG_GitHub_ActiveClass_20230706.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/ClassRoom/ActiveClass/readme.md  
-last update : 20230708_1218(UTC+8)  
+last update : 20230708_1238(UTC+8)  
 prev update : 20230707_0403(UTC+8)  
 prev update : 20230706_1959(UTC+8)  
 prev update : 20230706_1025(UTC+8)  
@@ -229,12 +229,31 @@ https://youtu.be/SqNK5mgeH-4
 3.工作要甚麼能力+自己有甚麼能力     
 4.找到自己是一輩子的探索  
   
+  
+====  
+  
+#教育不一樣 03/12開播！ feat.葉丙成 #shorts  @classicalfm977   
+  
+【教育不一樣】#精華節錄 EP66：「大學之煩：一場思維重置之旅」這個課的內容到底在上什麼？  @classicalfm977  
+  https://youtube.com/shorts/bmAIDy3Kl_g?feature=share  
+  https://www.family977.com.tw/index.php?route=choice/program_detail&choice_program_id=283  
+主持人：藍偉瑩 和 國立臺灣大學創新設計學院 副院長－葉丙成  
+  https://www.family977.com.tw/index.php?route=choice/program_detail_song&choice_program_song_id=28812  
+  
+  
+ds5114 大學之煩：一場思維重置之旅  
+開課學期： 111-1  
+授課教師： 葉丙成 、陳毓文 、黃尹男  
+  https://dschool.ntu.edu.tw/courses/ds5114/  
+	在進入大學後，有許多事物跟高中以前的人生經驗差距很大。過去慣有的思維、價值觀，在進入大學後開始遭遇衝擊。有許多人在大學生活的許多煩惱，源因於以進大學之前（高中階段）的價值觀來面對大學的生活。在本課程，希望透過有類似生命經驗的專家、前輩們分享生命故事，並引導同學做反思自身慣有的思維在進入大學後的衝突以及改變的可能性。希望能幫助同學重置面對學業、人生主導權、親人關係、感情等事物的價值觀，不再讓自己被過去的價值觀所束縛。進而更有自信面對大學與未來的人生。   
+  
+  
 ====  
   
 台大電機系葉丙成教授留學分享 / 葉丙成 /  Apr 25, 2017  
 https://youtu.be/m4eMSRpKk0I  
 8.03K subscribers 6,579 views   
-葉丙成教授分享出國留學的經驗與看法    
+	葉丙成教授分享出國留學的經驗與看法    
   
 ====  
   
@@ -250,7 +269,6 @@ https://youtu.be/m4eMSRpKk0I
 	最後，葉丙成也說道，「我也很希望有那麼一天，當大家遇到某位台大學生，當他鼓起勇氣跟你說他的痛苦跟困境時，請大家不要輕易地就跟他說：『你都已經上台大了，還在痛苦什麼呢？』」（編輯：陳雅雲）  
   
 ====  
-  
   
 後悔讀台大電機！放棄醫學系只因為名校光環？ft.@user-bs2wq8hj6r ｜台大電機｜輔大醫學｜茜珊 / 茜珊chienshannn / Sep 14, 2022  #台大電機 #台大 #醫學系  
 https://youtu.be/HQ11khFLKXM  
