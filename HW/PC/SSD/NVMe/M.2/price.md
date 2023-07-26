@@ -112,9 +112,34 @@ Seagate 4TB BarraCuda ST4000DM004 SATA3 6Gb/s /256MB Cache HDD / 20230708 HK$495
 Seagate 4TB IronWolf NAS ST4000VN006 SATA3 6Gb/s /256MB Cache HDD / 20230708 HK$607  
 Seagate 4TB IronWolf Pro NAS ST4000NE001 7200rpm SATA3 6Gb/s /128MB Cache HDD HK$899  
 Seagate 4TB ST4000NM000B Enterprise Capacity 3.5 HDD Exos 7E10 SATA3 /256MB Cache (7x24 企業版) HK$998  
+
   
 ----
   
+Crucial DDR4 3200 16GB 桌上型記憶體 (CT16G4DFS832A)   
+  https://www.price.com.hk/product.php?p=527462  
+	展昇有限公司 Fine Up Company Limited  
+	2023-07-26 請先查詢 HK$265 [行貨]  
+  
+  
+KLEVV Value Series DDR4 3200 16GB (單條) (V16-KD4AGU8A-32N220A)   
+  https://www.price.com.hk/product.php?p=518711  
+	SE Computer Ltd 九龍旺角奶路臣街8-8A旺角電腦中心110室   
+	2023-07-26 HK$268 [行貨]  
+  
+  
+Kingston DDR4-3200 Rank 1R LONG-DIMM 16GB (單條) (KVR32N22S8/16) (Non-ECC Unbuffered DIMM CL22 1Rx8 1.2V 288-pin 16Gbit)   
+  https://www.price.com.hk/product.php?p=496563&hw=h&did=area-2  
+	Flying Computer 飛揚電腦 九龍深水埗黃金電腦商場地面40B   
+	2023-07-27 HK$320 [行貨]  
+  
+  
+Kingston DDR4-3200 Rank 2R LONG-DIMM 16GB (單條) (KVR32N22D8/16) (Non-ECC Unbuffered DIMM CL22 2Rx8 1.2V 288-pin 8Gbit)   
+  https://www.price.com.hk/product.php?p=454296  
+	Flying Computer 飛揚電腦 九龍深水埗黃金電腦商場地面40B   
+	2023-07-27 請先查詢 HK$320 [行貨]  
+  
+    
 ----
   
 ----
