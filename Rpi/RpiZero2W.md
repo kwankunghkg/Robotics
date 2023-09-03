@@ -2,7 +2,7 @@
 BLOG_GitHub_RpiZero2W_20230903.txt      
       
 Raspberry Pi Zero 2 W    
-      
+  https://github.com/kwankunghkg/Robotics/blob/main/Rpi/RpiZero2W.md    
       
 ----------------------------------------      
       
