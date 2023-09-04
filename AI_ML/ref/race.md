@@ -109,6 +109,22 @@ The Chinese Culture University (CCU; 中國文化大學) is a private Taiwanese 
   
 BBC 2018 The Joy of AI  
   https://docuwiki.net/index.php?title=The_Joy_of_AI  
+	Related Documentaries  
+		IHuman (BBC)  
+		What Makes Us Clever (BBC)  
+		Made by Machine: When AI Met the Archive  
+		In Search Of: Artificial Intelligence  
+		Towards Tomorrow: Robot  
+		The Joy of Winning  
+		The Joy of Stats  
+		The Joy of Logic  
+		The Joy of Data  
+		The Age of Big Data  
+		The Human Face of Big Data  
+		Deluged by Data  
+		The Numbers Game  
+		Surviving Progress  
+  
   
 BBC 2016 The Joy of Data  
   https://docuwiki.net/index.php?title=The_Joy_of_Data  
