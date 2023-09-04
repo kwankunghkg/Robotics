@@ -1,15 +1,14 @@
   
-  
 BLOG_GitHub_AI大競賽_20230904.md  
   
 AI race  
-  
+  https://github.com/kwankunghkg/Robotics/blob/main/AI_ML/ref/race.md  
   
 ----------------------------------------  
   
 updated  
-last : 2023-08-27_19:09(UTC+8)  
-prev : 2023-08-25_07:00(UTC+8)  
+last : 2023-09-04_16:46(UTC+8)  
+prev : 2023-09-04_16:46(UTC+8)  
   
 ----------------------------------------  
   
