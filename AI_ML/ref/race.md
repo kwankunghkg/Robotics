@@ -7,7 +7,8 @@ AI race
 ----------------------------------------  
   
 updated  
-last : 2023-09-04_17:24(UTC+8)  
+last : 2023-09-04_19:46(UTC+8)  
+prev : 2023-09-04_17:24(UTC+8)  
 prev : 2023-09-04_16:46(UTC+8)  
   
 ----------------------------------------  
@@ -67,8 +68,21 @@ https://youtu.be/MOtnlJ9_F0Q
   
 文: 鄧鴻源（台大物理博士/文化大學教授）  
   
+  
+  
+  
 鄧鴻源文章 風傳媒  
   https://www.storm.mg/authors/111893  
+  
+鄧鴻源觀點：對今年諾貝爾物理學獎的省思 2022-10-16  
+  https://www.storm.mg/article/4560516  
+鄧鴻源觀點：名校師生應比他人更知謙虛與同理心 2022-11-20  
+  https://www.storm.mg/article/4620712  
+鄧鴻源觀點：看看新加坡，想想台灣 2023-01-24  
+  https://www.storm.mg/article/4700252
+  
+  
+  
   
 鄧鴻源專欄 新視界電子報  
   https://www.spwindnews.com/archives/category/comment/%E9%84%A7%E9%B4%BB%E6%BA%90%E5%B0%88%E6%AC%84  
@@ -76,6 +90,12 @@ https://youtu.be/MOtnlJ9_F0Q
   
   
   
+The Chinese Culture University (CCU; 中國文化大學) is a private Taiwanese university located in Yangmingshan in Shilin District, Taipei, Taiwan.  
+  https://en.wikipedia.org/wiki/Chinese_Culture_University  
+  
+華表 謗木 神道柱  
+  https://en.wikipedia.org/wiki/Huabiao  
+  
   
   
   
@@ -86,6 +106,21 @@ https://youtu.be/MOtnlJ9_F0Q
   
   
 ----------------------------------------  
+  
+BBC 2018 The Joy of AI  
+  https://docuwiki.net/index.php?title=The_Joy_of_AI  
+  
+BBC 2016 The Joy of Data  
+  https://docuwiki.net/index.php?title=The_Joy_of_Data  
+  
+BBC 2013 The Joy of Logic  
+  https://docuwiki.net/index.php?title=The_Joy_of_Logic  
+  
+BBC 2010 The Joy of Stats  
+  https://docuwiki.net/index.php?title=The_Joy_of_Stats  
+  
+BBC 2018 The Joy of Winning  
+  https://docuwiki.net/index.php?title=The_Joy_of_Winning  
   
   
 ----------------------------------------  
@@ -95,6 +130,14 @@ steps towards AI :
 2. Python  
 3. C  
 4. HDL  
+  
+  
+----------------------------------------  
+  
+  
+  
+----------------------------------------  
+  
   
   
 ----------------------------------------  
