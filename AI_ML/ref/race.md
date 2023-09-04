@@ -65,12 +65,12 @@ https://youtu.be/MOtnlJ9_F0Q
   
 ----------------------------------------  
   
-文: 鄧鴻源（台大物理博士/大學教授）  
+文: 鄧鴻源（台大物理博士/文化大學教授）  
   
 鄧鴻源文章 風傳媒  
   https://www.storm.mg/authors/111893  
   
-鄧鴻源專欄  新視界電子報  
+鄧鴻源專欄 新視界電子報  
   https://www.spwindnews.com/archives/category/comment/%E9%84%A7%E9%B4%BB%E6%BA%90%E5%B0%88%E6%AC%84  
   
   
