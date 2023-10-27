@@ -33,7 +33,7 @@ KrakenSDR : A phase-coherent software defined radio with five RTL-SDRs
   
 KrakenSDR Radio Direction Finding Retune with Autocalibration Test 1 / The Kraken / Mar 19, 2021  
 https://youtu.be/WvTVlVq8PdM  
-1.1K subscribers  17,493 views   	
+1.1K subscribers  17,493 views  
 	KrakenSDR is a 5-tuner coherent software defined radio based on RTL-SDR. It is the successor to the KerberosSDR and will be crowdfunded in 2021.  
 	In this test KrakenSDR is used as a radio direction finder to determine the bearing towards various commercial transmitter towers located around the antenna.  
 	The test shows how the KrakenSDR automatically recalibrates on frequency change. Unlike the KerberosSDR it is no longer necessary to manually disconnect the antennas and then recalibrate during each frequency retune.  
@@ -41,8 +41,6 @@ https://youtu.be/WvTVlVq8PdM
 	  https://github.com/krakenrf  
 	The Android App is closed source but free to use for non-commercial use.  
 	The Arrow Antennas 5-element antenna array will be available for purchase during our crowdfunding campaign at a discount.  
-  
-  
   
   
   
@@ -56,6 +54,14 @@ https://youtu.be/OY16y1Rl86g
 	The DSP software running on the Raspberry Pi is entirely open source and available at https://github.com/krakenrf​  
 	The Android App is closed source but free to use for non-commercial use. https://play.google.com/store/apps/de...  
   
+  
+  
+  
+  
+KrakenSDR - WOW! Amazing Direction Finding Tests : Part 2 / Frugal Radio / Sep 11, 2022  
+https://youtu.be/7dGy9UJIKQE  
+16.1K subscribers  15,670 views  
+	This video shows us putting the newly released KrakenSDR to the test.  We wanted to find the location of a DMR trunked network in order to determine the user.The Kraken amazed us by how quickly it was able to locate the transmitter site in this first test.  We were so impressed, we decided to go out and search for a P25 transmitter site in Test 2.  
   
   
   
@@ -85,14 +91,6 @@ https://youtu.be/dTWmxEo05BE
   
   
   
-KrakenSDR - WOW! Amazing Direction Finding Tests : Part 2 / Frugal Radio / Sep 11, 2022  
-https://youtu.be/7dGy9UJIKQE  
-16.1K subscribers  15,670 views  
-	This video shows us putting the newly released KrakenSDR to the test.  We wanted to find the location of a DMR trunked network in order to determine the user.The Kraken amazed us by how quickly it was able to locate the transmitter site in this first test.  We were so impressed, we decided to go out and search for a P25 transmitter site in Test 2.  
-  
-  
-  
-  
   
 KerberosSDR (previously HydraSDR)   
   
@@ -103,6 +101,8 @@ Direction Finding And Passive Radar With RTL-SDR / Tom Nardi / September 10, 201
 KerberosSDR Direction Finding Test / RTL-SDR Blog / Aug 13, 2018  
 https://youtu.be/HE1BFeteBo0  
 1.32K subscribers  10,660 views  
+  
+  
   
   
 --------------------------------------------------  
