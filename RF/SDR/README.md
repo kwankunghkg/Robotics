@@ -2,7 +2,7 @@
 BLOG_GitHub_SDR_20231027.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/RF/SDR/README.md  
   
-last update : 20231027_2218(UTC+8)  
+last update : 20231027_2221(UTC+8)  
 prev update : 20231027_1223(UTC+8)  
 prev update : 20231027_1050(UTC+8)  
   
@@ -141,15 +141,6 @@ https://youtu.be/HE1BFeteBo0
   
   
   
---------------------------------------------------  
-  
-An Introduction to Direction Finding / Rohde Schwarz / Feb 21, 2020 / Test & Measurement Fundamentals  
-https://youtu.be/N8rZIAHxAH4  
-54.3K subscribers  78,399 views  
-This video explains the basic concepts involved in radio direction finding and describes the technical principles in the most common methodologies such as manual, Doppler, Wattson-Watt, correlative interferometry, time difference of arrival, and hybrid methodologies.  
-Direction Finding Learning Center:  
-  https://www.rohde-schwarz.com/us/campaigns/rsa/gov/direction-finding_252649.html  
-  
   
   
   
@@ -208,10 +199,16 @@ The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio  / Kind
 --------------------------------------------------  
   
   
-Basic Tactical SIGINT: Tracking Aircraft and SDR Scanning / S2 Underground / Aug 26, 2022  
-https://youtu.be/iGdJCENreDY  
-287K subscribers  122,851 views  
-	Edit: Just to be abolutely clear, if you are scanning with SDRSharp, you can set the bandwidth to anything from 12500 Hz to down to 5000 Hz as demonstrated in the video, or even lower for certain types of transmissions. This also changes as you move up and down the band, as all ham bands are subdivided for various types of transmissions. For most people, a bandwidth of 12500 Hz will probably be more effective for standard analog unencrypted mesage traffic. But as always, try it out and experiment for yourself. Remember, this is just a very short introduction to the topic.  
+--------------------------------------------------  
+  
+## Direction Finding / SIGINT  
+  
+An Introduction to Direction Finding / Rohde Schwarz / Feb 21, 2020 / Test & Measurement Fundamentals  
+https://youtu.be/N8rZIAHxAH4  
+54.3K subscribers  78,399 views  
+This video explains the basic concepts involved in radio direction finding and describes the technical principles in the most common methodologies such as manual, Doppler, Wattson-Watt, correlative interferometry, time difference of arrival, and hybrid methodologies.  
+Direction Finding Learning Center:  
+  https://www.rohde-schwarz.com/us/campaigns/rsa/gov/direction-finding_252649.html  
   
   
 Radio Direction Finding: AKA How "They" Can Find You / S2 Underground /  Jan 11, 2021 / Military Doctrine and History  
@@ -219,6 +216,12 @@ https://youtu.be/bWs6shlc9m0
 287K subscribers  99,016 views     
 	In this video we cover how basic Radio Direction Finding and SIGINT collection methods, as well as what you can do to be a little bit more undetectable when communicating.  
   
+  
+  
+Basic Tactical SIGINT: Tracking Aircraft and SDR Scanning / S2 Underground / Aug 26, 2022  
+https://youtu.be/iGdJCENreDY  
+287K subscribers  122,851 views  
+	Edit: Just to be abolutely clear, if you are scanning with SDRSharp, you can set the bandwidth to anything from 12500 Hz to down to 5000 Hz as demonstrated in the video, or even lower for certain types of transmissions. This also changes as you move up and down the band, as all ham bands are subdivided for various types of transmissions. For most people, a bandwidth of 12500 Hz will probably be more effective for standard analog unencrypted mesage traffic. But as always, try it out and experiment for yourself. Remember, this is just a very short introduction to the topic.  
   
   
   
