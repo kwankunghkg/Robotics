@@ -2,18 +2,51 @@
 BLOG_GitHub_SDR_20231027.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/RF/SDR/README.md  
   
-last update : 20231027_2210(UTC+8)  
+last update : 20231027_2218(UTC+8)  
 prev update : 20231027_1223(UTC+8)  
 prev update : 20231027_1050(UTC+8)  
   
 --------------------------------------------------  
   
-Software Refined Radio (SDR)  
+## Software Refined Radio (SDR)  
   
   
 --------------------------------------------------  
   
-KrakenSDR is KerberosSDR++  
+  
+--------------------------------------------------  
+  
+  
+Software Defined Radio - An Introduction / Schuyler St. Leger / Oct 23, 2014  
+https://youtu.be/kWfU1G3Jq4w  
+1K subscribers  115,446 views  
+	An introductory overview of Software Defined Radio (SDR) is given by Schuyler St. Leger at Desert Code Camp at Chandler-Gilbert Community College. The hour-long talk covers what SDR is and how it differs from hardware radio, SDR hardware available today, software tools to use with SDR HW, and live demonstrations of how to use SDR.  
+  https://oct2014.desertcodecamp.com/session/1079  
+  
+  
+GNU Radio  
+  https://en.wikipedia.org/wiki/GNU_Radio  
+  
+  
+  
+----  
+  
+Software Defined Radio / MIT Film & Video Production club /  Streamed live on Jan 11, 2019  
+https://www.youtube.com/live/bI0qXPqufBY  
+3.28K subscribers  76,128 views  
+	Lectures on Radio Technology, History, and Applications - MIT Radio Society IAP 2019  
+	Frank Lind / MIT Haystack Observatory  
+	Dr. Frank D. Lind is a Research Engineer at MIT Haystack Observatory where he works to develop and use radio science instrumentation. At the Observatory he leads many technical efforts involving software radio instrumentation cutting across Geospace, Astronomy, and Space science. These instruments are used to make detailed physical measurements and have been part of many NSF, NASA, and DoD supported investigations. Key instrumentation includes the National Science Foundation’s Millstone Hill Geospace Radar Facility, the RAPID (Radio Array of Portable Interferometric Detectors) system, low cost array radars, software defined radio architectures for radio telescopes, and efforts to develop a space borne electromagnetic vector sensor for the upcoming NASA AERO (Aurora Emissions Radio Observer) and VISTA (Vector Interferometry Space Technology using AERO) cubesat missions. Dr. Lind studied at the University of Washington where he received a Bachelor of Science degree in Physics and a Bachelor of Science degree in Computer Science in 1994. He then joined the UW Geophysics Program and pursued studies leading to the Doctor of Philosophy in Geophysics in 1999. His work there focused on Passive Radar observations of the Aurora Borealis. He is a prior chair of USNC URSI Commission G (United States National Committee of the International Union of Radio Science), a member of the American Geophysical Union (AGU), and a member of the IEEE.  
+	To find out more about Student Cable Video Productions and how you can participate, visit: sctv.mit.edu  
+	MIT Student Cable    
+  
+  
+--------------------------------------------------  
+  
+  
+--------------------------------------------------  
+  
+## KrakenSDR is KerberosSDR++  
   
   
 Open-Source Passive Radar Taken Down For Regulatory Reasons / Arya Voronova / November 19, 2022  
@@ -126,7 +159,7 @@ Direction Finding Learning Center:
   
 --------------------------------------------------  
   
-RTL-SDR  
+## RTL-SDR  
   https://www.rtl-sdr.com/  
 	The RTL-SDR is an ultra cheap software defined radio based on DVB-T TV tuners with RTL2832U chips. The RTL-SDR can be used as a wide band radio scanner. It may interest ham radio enthusiasts, hardware hackers, tinkerers and anyone interested in RF.  
   
@@ -137,15 +170,6 @@ The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio  / Kind
   
   
   
-  
-  
-Software Defined Radio - An Introduction / Schuyler St. Leger / Oct 23, 2014  
-https://youtu.be/kWfU1G3Jq4w  
-1K subscribers  115,446 views  
-	An introductory overview of Software Defined Radio (SDR) is given by Schuyler St. Leger at Desert Code Camp at Chandler-Gilbert Community College. The hour-long talk covers what SDR is and how it differs from hardware radio, SDR hardware available today, software tools to use with SDR HW, and live demonstrations of how to use SDR.  
-  https://oct2014.desertcodecamp.com/session/1079  
-  
-  https://en.wikipedia.org/wiki/GNU_Radio  
   
   
   
@@ -173,18 +197,6 @@ https://youtu.be/kWfU1G3Jq4w
   
   
   
-  
-  
-----  
-  
-Software Defined Radio / MIT Film & Video Production club /  Streamed live on Jan 11, 2019  
-https://www.youtube.com/live/bI0qXPqufBY  
-3.28K subscribers  76,128 views  
-	Lectures on Radio Technology, History, and Applications - MIT Radio Society IAP 2019  
-	Frank Lind / MIT Haystack Observatory  
-	Dr. Frank D. Lind is a Research Engineer at MIT Haystack Observatory where he works to develop and use radio science instrumentation. At the Observatory he leads many technical efforts involving software radio instrumentation cutting across Geospace, Astronomy, and Space science. These instruments are used to make detailed physical measurements and have been part of many NSF, NASA, and DoD supported investigations. Key instrumentation includes the National Science Foundation’s Millstone Hill Geospace Radar Facility, the RAPID (Radio Array of Portable Interferometric Detectors) system, low cost array radars, software defined radio architectures for radio telescopes, and efforts to develop a space borne electromagnetic vector sensor for the upcoming NASA AERO (Aurora Emissions Radio Observer) and VISTA (Vector Interferometry Space Technology using AERO) cubesat missions. Dr. Lind studied at the University of Washington where he received a Bachelor of Science degree in Physics and a Bachelor of Science degree in Computer Science in 1994. He then joined the UW Geophysics Program and pursued studies leading to the Doctor of Philosophy in Geophysics in 1999. His work there focused on Passive Radar observations of the Aurora Borealis. He is a prior chair of USNC URSI Commission G (United States National Committee of the International Union of Radio Science), a member of the American Geophysical Union (AGU), and a member of the IEEE.  
-	To find out more about Student Cable Video Productions and how you can participate, visit: sctv.mit.edu  
-	MIT Student Cable    
   
   
   
