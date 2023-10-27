@@ -1,6 +1,6 @@
   
 BLOG_GitHub_SDR_20231027.txt  
-  https://github.com/kwankunghkg/Self_Learning/blob/main/doc/DLIB/README.md  
+  https://github.com/kwankunghkg/Robotics/blob/main/RF/SDR/README.md  
   
 last update : 20231027_1050(UTC+8)  
 prev update : 20231027_1050(UTC+8)  
