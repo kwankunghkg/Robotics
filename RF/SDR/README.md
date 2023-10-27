@@ -2,7 +2,7 @@
 BLOG_GitHub_SDR_20231027.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/RF/SDR/README.md  
   
-last update : 20231027_2147(UTC+8)  
+last update : 20231027_2210(UTC+8)  
 prev update : 20231027_1223(UTC+8)  
 prev update : 20231027_1050(UTC+8)  
   
@@ -138,6 +138,20 @@ The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio  / Kind
   
   
   
+  
+Software Defined Radio - An Introduction / Schuyler St. Leger / Oct 23, 2014  
+https://youtu.be/kWfU1G3Jq4w  
+1K subscribers  115,446 views  
+	An introductory overview of Software Defined Radio (SDR) is given by Schuyler St. Leger at Desert Code Camp at Chandler-Gilbert Community College. The hour-long talk covers what SDR is and how it differs from hardware radio, SDR hardware available today, software tools to use with SDR HW, and live demonstrations of how to use SDR.  
+  https://oct2014.desertcodecamp.com/session/1079  
+  
+  https://en.wikipedia.org/wiki/GNU_Radio  
+  
+  
+  
+--------------------------------------------------  
+  
+  
 --------------------------------------------------  
   
 2020 / 2021 SDR Guide / Frugal Radio  
@@ -177,6 +191,11 @@ https://www.youtube.com/live/bI0qXPqufBY
   
 ----  
   
+  
+  
+--------------------------------------------------  
+  
+  
 Basic Tactical SIGINT: Tracking Aircraft and SDR Scanning / S2 Underground / Aug 26, 2022  
 https://youtu.be/iGdJCENreDY  
 287K subscribers  122,851 views  
@@ -188,6 +207,18 @@ https://youtu.be/bWs6shlc9m0
 287K subscribers  99,016 views     
 	In this video we cover how basic Radio Direction Finding and SIGINT collection methods, as well as what you can do to be a little bit more undetectable when communicating.  
   
+  
+  
+  
+----  
+  
+  
+  
+----  
+  
+  
+  
+----  
   
   
   
