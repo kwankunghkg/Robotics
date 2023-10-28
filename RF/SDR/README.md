@@ -2,9 +2,9 @@
 BLOG_GitHub_SDR_20231027.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/RF/SDR/README.md  
   
-last update : 20231028_0850(UTC+8)  
+last update : 20231028_1510(UTC+8)  
+prev update : 20231028_0850(UTC+8)  
 prev update : 20231027_2221(UTC+8)  
-prev update : 20231027_1223(UTC+8)  
 prev update : 20231027_1050(UTC+8)  
   
 --------------------------------------------------  
@@ -51,6 +51,10 @@ FM RDS/TMC Transceiver
 convert your Raspberry Pi into a high-powered FM transmitter   
   http://razzpisampler.oreilly.com/ch01.html  
   
+Exploring Software Defined Radio (featuring the Raspberry Pi) eBook  
+  https://community.element14.com/learn/publications/ebooks/w/documents/27950/exploring-software-defined-radio-featuring-the-raspberry-pi-ebook  
+  
+  
   
 --------------------------------------------------  
   
@@ -67,7 +71,16 @@ https://www.youtube.com/live/bI0qXPqufBY
 	MIT Student Cable    
   
   
+Principles of Radar / MIT Film & Video Production club / Streamed live on Jan 18, 2019  Lectures on Radio Technology, History, and Applications - MIT Radio Society IAP 2019  
+https://www.youtube.com/live/d76Uq2FW9QI?si=C0YscvSnD1vmsleU  
+3.28K subscribers / 20,139 views //  
+	Frank Lind / MIT Haystack Observatory  
+  
+  
+  
+  
 --------------------------------------------------  
+  
   
   
 --------------------------------------------------  
@@ -157,7 +170,8 @@ https://youtu.be/dTWmxEo05BE
 	30:04 Can the system take bearings while in motion?  
 	31:27 Did you do any research on the origins of the name?  
 	Vienna Wireless Society is one of the largest and most active Amateur Radio clubs in Northern Virginia.  
-	To learn more, please visit Club's web site: http://viennawireless.net/wp/  
+	To learn more, please visit Club's web site:  
+	  http://viennawireless.net/wp/  
   
   
   
