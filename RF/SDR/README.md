@@ -2,7 +2,8 @@
 BLOG_GitHub_SDR_20231027.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/RF/SDR/README.md  
   
-last update : 20231027_2221(UTC+8)  
+last update : 20231028_0850(UTC+8)  
+prev update : 20231027_2221(UTC+8)  
 prev update : 20231027_1223(UTC+8)  
 prev update : 20231027_1050(UTC+8)  
   
@@ -10,11 +11,10 @@ prev update : 20231027_1050(UTC+8)
   
 ## Software Refined Radio (SDR)  
   
-  
 --------------------------------------------------  
   
-  
---------------------------------------------------  
+IQ vector  
+  https://en.wikipedia.org/wiki/In-phase_and_quadrature_components  
   
   
 Software Defined Radio - An Introduction / Schuyler St. Leger / Oct 23, 2014  
@@ -22,11 +22,37 @@ https://youtu.be/kWfU1G3Jq4w
 1K subscribers  115,446 views  
 	An introductory overview of Software Defined Radio (SDR) is given by Schuyler St. Leger at Desert Code Camp at Chandler-Gilbert Community College. The hour-long talk covers what SDR is and how it differs from hardware radio, SDR hardware available today, software tools to use with SDR HW, and live demonstrations of how to use SDR.  
   https://oct2014.desertcodecamp.com/session/1079  
+Schuyler St. Leger  
+  https://oct2014.desertcodecamp.com/user/7775  
+  https://schuyler.website/  
+  https://github.com/docprofsky  
+  
   
   
 GNU Radio  
   https://en.wikipedia.org/wiki/GNU_Radio  
   
+GrOsmo SDR  
+  https://github.com/osmocom/gr-osmosdr  
+  
+SDR Ninja  
+  http://sdr.ninja/hardware/  
+  
+RadioReference  
+  https://www.radioreference.com/  
+  
+Great Scott Gadgets / Software Defined Radio with HackRF  
+  https://greatscottgadgets.com/sdr/  
+  
+FM RDS/TMC Transceiver  
+  https://github.com/bastibl/gr-rds  
+  https://en.wikipedia.org/wiki/Radio_Data_System  
+  
+convert your Raspberry Pi into a high-powered FM transmitter   
+  http://razzpisampler.oreilly.com/ch01.html  
+  
+  
+--------------------------------------------------  
   
   
 ----  
@@ -64,6 +90,8 @@ KrakenSDR : A phase-coherent software defined radio with five RTL-SDRs
   https://web.archive.org/web/20210914080844/https://www.crowdsupply.com/krakenrf/krakensdr  
   
   
+--------------------------------------------------  
+  
 KrakenSDR Radio Direction Finding Retune with Autocalibration Test 1 / The Kraken / Mar 19, 2021  
 https://youtu.be/WvTVlVq8PdM  
 1.1K subscribers  17,493 views  
@@ -91,7 +119,12 @@ https://youtu.be/OY16y1Rl86g
 	  https://play.google.com/store/apps/de...  
   
   
+--------------------------------------------------  
   
+KrakenSDR Unboxing / Prep & Setup device & antennas : Part 1 / Frugal Radio /  Sep 6, 2022  CANADA  
+https://youtu.be/yCU0prz5As4  
+16.1K subscribers  14,654 views  
+	This is part 1 of a few videos on the KrakenSDR.  Here I explain what is needed, and how to set up the Kraken before going on a Direction Finding mission.  
   
   
 KrakenSDR - WOW! Amazing Direction Finding Tests : Part 2 / Frugal Radio / Sep 11, 2022  
@@ -101,6 +134,7 @@ https://youtu.be/7dGy9UJIKQE
   
   
   
+--------------------------------------------------  
   
 KerberosSDR / Vienna Wireless Society /  Oct 8, 2020  VIENNA  
 https://youtu.be/dTWmxEo05BE  
@@ -127,6 +161,7 @@ https://youtu.be/dTWmxEo05BE
   
   
   
+--------------------------------------------------  
   
 KerberosSDR (previously HydraSDR)   
   
