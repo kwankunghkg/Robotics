@@ -1,6 +1,6 @@
   
 BLOG_GitHub_Repair_Toaster_20231105.txt  
-  https://github.com/kwankunghkg/Robotics/blob/main/RF/SDR/README.md  
+  https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Toaster/Philips/README.md  
   
 last update : 20231105_1728(UTC+8)  
 prev update : 20231105_1728(UTC+8)  
