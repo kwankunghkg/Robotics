@@ -11,6 +11,11 @@ prev update : 20231105_1728(UTC+8)
   
 --------------------------------------------------  
   
+see photos folder  
+  
+  
+--------------------------------------------------  
+  
 Philips Toaster HD2583/90 Unboxing and Review  
   https://youtu.be/NbN-ls-gl2c  
   
