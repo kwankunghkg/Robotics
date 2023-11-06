@@ -80,11 +80,11 @@ transistor collector meaning
   
 transistor emitter meaning  
 transistor emitter majority charge carrier  
+  
+An NPN transistor has electrons as majority charge carriers whereas the PNP transistor has holes as the majority charge carrier.  
 	  
-	An NPN transistor has electrons as majority charge carriers whereas the PNP transistor has holes as the majority charge carrier.  
-	  
-	The NPN transistor is designed to pass electrons from the emitter to the collector (so conventional current flows from collector to emitter). The emitter "emits" electrons into the base, which controls the number of electrons the emitter emits. Most of the electrons emitted are "collected" by the collector, which sends them along to the next part of the circuit.  
-	A PNP works in a same but opposite fashion. The base still controls current flow, but that current flows in the opposite direction -- from emitter to collector. Instead of electrons, the emitter emits "holes" (a conceptual absence of electrons) which are collected by the collector.  
+The NPN transistor is designed to pass electrons from the emitter to the collector (so conventional current flows from collector to emitter). The emitter "emits" electrons into the base, which controls the number of electrons the emitter emits. Most of the electrons emitted are "collected" by the collector, which sends them along to the next part of the circuit.  
+A PNP works in a same but opposite fashion. The base still controls current flow, but that current flows in the opposite direction -- from emitter to collector. Instead of electrons, the emitter emits "holes" (a conceptual absence of electrons) which are collected by the collector.  
   https://learn.sparkfun.com/tutorials/transistors/symbols-pins-and-construction  
   
   
