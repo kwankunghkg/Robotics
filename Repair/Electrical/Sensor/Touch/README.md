@@ -1,6 +1,6 @@
   
 BLOG_GitHub_Repair_Sensor_Touch_20231107.txt  
-  https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Toaster/Philips/README.md  
+  https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Sensor/Touch/README.md  
   
 last update : 20231107_1151(UTC+8)  
 prev update : 20231107_1151(UTC+8)  
