@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Sensor_Touch_20231107.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Sensor/Touch/README.md  
   
-last update : 20231107_1151(UTC+8)  
+last update : 20231107_1210(UTC+8)  
 prev update : 20231107_1151(UTC+8)  
   
 --------------------------------------------------  
@@ -16,13 +16,13 @@ TTP223 Capacitive Touch Switch
   
   
 How to use TP223 touch sensor module / EDISON SCIENCE CORNER /  May 29, 2022  #touchsensor #ttp223 #electronics  
-https://youtu.be/guxfm2ORO6s  
+  https://youtu.be/guxfm2ORO6s  
 11.7K subscribers  2,363 views   
   
   
 TTP223 Capacitive Touch Switches / Simple Electronics /  May 12, 2020  
-https://youtu.be/XBHgJi6smls  
-22.6K subscribers  63,615 views   
+  https://youtu.be/XBHgJi6smls  
+22.6K subscribers  63,615 views  
   
   
 TTP223 Single Channel Touch Detector IC   
@@ -34,6 +34,13 @@ TTP223 datasheet
   
   
   
+--------------------------------------------------  
+  
+demo - 12V DC electric fan  
+  
+Capacitive Touch Sensor Switch Tagalog Tutorial / Pinoy Elektrisyan /  Feb 28, 2023  
+  https://youtu.be/QPmyfnE_zos  
+160K subscribers / 5,180 views  
   
   
   
