@@ -25,6 +25,9 @@ TTP223 Capacitive Touch Switches / Simple Electronics /  May 12, 2020
 22.6K subscribers  63,615 views  
   
   
+  
+--------------------------------------------------  
+  
 TTP223 Single Channel Touch Detector IC   
   https://components101.com/ics/ttp223-single-channel-touch-detector-ic  
   
