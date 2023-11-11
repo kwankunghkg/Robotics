@@ -54,15 +54,17 @@ As a result, please try to put the correct device as root device.
   
 ----------------------------------------  
   
-Boots into black screen with a blinking cursor after auto update  
+#####  Boots into black screen with a blinking cursor after auto update  
   https://forums.developer.nvidia.com/t/boots-into-black-screen-with-a-blinking-cursor-after-auto-update/141256  
   
   
 ----------------------------------------  
   
-Recovering Xavier NX Dev Kit not booting anymore  
+#####  Recovering Xavier NX Dev Kit not booting anymore  
   https://forums.developer.nvidia.com/t/recovering-xavier-nx-dev-kit-not-booting-anymore/200779  
   
+  
+####  SDKM - SDK Manager  
   https://developer.nvidia.com/sdk-manager  
   https://docs.nvidia.com/sdk-manager/index.html  
   
