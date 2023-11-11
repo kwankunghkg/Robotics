@@ -1,5 +1,7 @@
   
 BLOG_GitHub_JetsonXavierNxNotBooting_20231111.txt  
+  https://github.com/kwankunghkg/Robotics/blob/main/Jetson/XavierNX/JetsonXavierNxNotBooting.md  
+  
   
 ----------------------------------------  
   
