@@ -18,7 +18,7 @@ prev : 2023-11-11_21:01(UTC+8)
 Jetson Xavier NX Not Booting  
   https://forums.developer.nvidia.com/t/jetson-xavier-nx-not-booting/141070/27  
   
-//  
+//--  
 WayneWWW / Moderator / Jul 09 '20  
   
 Another workaround if you see the bash (initrd) console in UART after running OTA upgrade.  
@@ -31,10 +31,10 @@ Another workaround if you see the bash (initrd) console in UART after running OT
 4. Reboot the device, and run "dpkg-reconfigure nvidia-l4t-bootloader"  
 5. reboot device.  
   
-//  end  
+//--  end  
   
   
-//  
+//--  
 WayneWWW / Moderator / Jul 09 '20  
   
 Another method that is applicable to all kinds of platform.  
@@ -58,10 +58,10 @@ sed -i "s|^\([ \t]*APPEND \${cbootargs}\) .*|\1 root=/dev/mmcblk0p1 rw rootwait 
 umount /mnt  
 reboot  
   
-//  end  
+//--  end  
   
   
-//  
+//--  
 WayneWWW / Moderator / Jul 14 '20  
   
 Hi,  
@@ -77,7 +77,7 @@ However, in your case, you don’t put rootfs on /dev/mmcblk0p1 but on SSD, whic
   
 As a result, please try to put the correct device as root device.  
   
-//  end  
+//--  end  
   
 ----------------------------------------  
   
