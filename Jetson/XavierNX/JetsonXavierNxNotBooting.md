@@ -35,6 +35,30 @@ Another workaround if you see the bash (initrd) console in UART after running OT
   
   
 //  
+WayneWWW / Moderator / Jul 09 '20  
+  
+Another method that is applicable to all kinds of platform.  
+  
+1.Mount the APP partition  
+mount /dev/mmcblk0p1 /mnt  
+2. Add the boot args  
+For T210 (Jetson Nano/ TX1)  
+sed -i "s|^\([ \t]*APPEND \${cbootargs}\) .*|\1 root=/dev/mmcblk0p1 rw rootwait rootfstype=ext4 console=ttyS0,115200n8 console=tty0 fbcon=map:0 net.ifnames=0 sdhci_tegra.en_boot_part_access=1|" /mnt/boot/extlinux/extlinux.conf  
+  
+For T186 serise (TX2/TX2i/TX2-4GB)  
+sed -i "s|^\([ \t]*APPEND \${cbootargs}\) .*|\1 root=/dev/mmcblk0p1 rw rootwait rootfstype=ext4 console=ttyS0,115200n8 console=tty0 fbcon=map:0 net.ifnames=0 isolcpus=1-2|" /mnt/boot/extlinux/extlinux.conf  
+  
+For T194 series (NX/AGX Xavier)  
+sed -i "s|^\([ \t]*APPEND \${cbootargs}\) .*|\1 root=/dev/mmcblk0p1 rw rootwait rootfstype=ext4 console=ttyTCU0,115200n8 console=tty0 fbcon=map:0 net.ifnames=0|" /mnt/boot/extlinux/extlinux.conf  
+  
+3. Unmount APP partition and reboot  
+umount /mnt  
+reboot  
+  
+//  end  
+  
+  
+//  
 WayneWWW / Moderator / Jul 14 '20  
   
 Hi,  
