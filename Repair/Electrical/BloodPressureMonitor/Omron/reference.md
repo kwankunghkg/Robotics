@@ -58,13 +58,13 @@ TMP89FW20VUG LQFP64 0.50 pitch
 PP02  
   
   
+#### ***** MICRO-SWITCH bad contact *****  
+  
+  
 Omron Automatic Blood Pressure Machine Repair / Electric Point /  Feb 8, 2018  
 https://youtu.be/8rqGP5Wwxhk  
   308K subscribers / 207,325 views  //   
-.  
   
-  
-#### MICRO-SWITCH bad contact  
   
 Omron automatic blood pressure monitor repairing / Life and Living /  Sep 6, 2021  
 https://youtu.be/pn5Ki2qHdC4  
@@ -75,7 +75,7 @@ How to replace on-off switch of Omron automatic blood pressure monitor.
 OMRON model HEM 7120 BLOOD PRESSURE CHECKING machine repair karna seekhe... / MKS Find Solution /  Dec 10, 2022  
 https://youtu.be/MJvvvhVmJPc  
 1.61K subscribers / 5,411 views  //   
-.  
+  
   
   
 --------------------------------------------------  
