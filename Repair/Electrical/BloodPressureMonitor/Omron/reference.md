@@ -103,7 +103,7 @@ https://youtu.be/jJIKszvgf4I
 In this video, we are going to repair this digital blood pressure monitor. The problem is that when we press this start button the machine does not turn on and the display also shows nothing. when we open the machine and check its components we find that push button switch and one capacitor is faulty. after changing these parts machine starts working again.    
   
   
-#### ** mobile phone charging battery **  
+#### ** mobile phone charging battery as power source **  
   
 Run blood Pressure Monitor with Mobile Charger NO Battery Required / Sure Tecnik /  May 31, 2020  #bloodpressure #drmorepen  
 https://youtu.be/5nxT_STttUk  
