@@ -1,6 +1,6 @@
   
 BLOG_GitHub_Repair_BloodPressureMonitor_20231205.txt  
-  https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Sensor/Touch/README.md  
+  https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/BloodPressureMonitor/Omron/reference.md  
   
 last update : 20231205_2035(UTC+8)  
 prev update : 20231205_2035(UTC+8)  
@@ -29,9 +29,9 @@ T5CX3 TOSHIBA QFP80
 TMP89FW24VFG / LQFP80 0.50 pitch  
   https://toshiba.semicon-storage.com/info/TMP89FW24VDFG_datasheet_en_20190520.pdf?did=65396&prodName=TMP89FW24VDFG  
   
-	TMP89FW24V/20V are a single-chip 8-bit high-speed and high-functionality microcomputer incorporating 126976 bytes of Flash Memory.
-	1.2 Pin Assignment  
-		TMP89FW24VFG (LQFP80-P-1212-0.50F)  
+  TMP89FW24V/20V are a single-chip 8-bit high-speed and high-functionality microcomputer incorporating 126976 bytes of Flash Memory.
+  1.2 Pin Assignment  
+  TMP89FW24VFG (LQFP80-P-1212-0.50F)  
   
   
   
