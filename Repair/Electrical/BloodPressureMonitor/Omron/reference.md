@@ -2,7 +2,8 @@
 BLOG_GitHub_Repair_BloodPressureMonitor_20231205.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/BloodPressureMonitor/Omron/reference.md  
   
-last update : 20231206_0451(UTC+8)  
+last update : 20231206_0526(UTC+8)  
+prev update : 20231206_0451(UTC+8)  
 prev update : 20231205_2035(UTC+8)  
   
 --------------------------------------------------  
@@ -80,6 +81,26 @@ How to replace on-off switch of Omron automatic blood pressure monitor.
 OMRON model HEM 7120 BLOOD PRESSURE CHECKING machine repair karna seekhe... / MKS Find Solution /  Dec 10, 2022  
 https://youtu.be/MJvvvhVmJPc  
 1.61K subscribers / 5,411 views  //   
+  
+  
+OMRON BLOOD PRESSURE MONITOR NO POWER REPAIR / HOHSING Sri lanka / Dec 2, 2023  
+https://youtu.be/eXpFPEfQC4Y  
+182 subscribers / 16 views  //   
+  
+  
+How To Solve Blood pressure Machine Problem|Repair Blood pressure Machine Pressure leaking Fault|| / Mine-Crafts Gadgets /  Jul 22, 2023 / JHANG SADAR  
+https://youtu.be/cKe7O778nTk  
+51 subscribers / 691 views  //   
+  
+  
+  
+#### ***** Capacitor Failure *****  
+  
+how to repair electronic blood pressure/ B P machine / DIY Repairs /  Jul 13, 2020  
+https://youtu.be/jJIKszvgf4I  
+8.7K subscribers / 18,982 views  //   
+हिंदी उपशीर्षक के साथ  
+In this video, we are going to repair this digital blood pressure monitor. The problem is that when we press this start button the machine does not turn on and the display also shows nothing. when we open the machine and check its components we find that push button switch and one capacitor is faulty. after changing these parts machine starts working again.    
   
   
   
