@@ -64,7 +64,7 @@ https://youtu.be/8rqGP5Wwxhk
 .  
   
   
-MICRO-SWITCH bad contact  
+#### MICRO-SWITCH bad contact  
   
 Omron automatic blood pressure monitor repairing / Life and Living /  Sep 6, 2021  
 https://youtu.be/pn5Ki2qHdC4  
