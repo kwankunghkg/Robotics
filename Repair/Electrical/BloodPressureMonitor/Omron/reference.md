@@ -103,6 +103,14 @@ https://youtu.be/jJIKszvgf4I
 In this video, we are going to repair this digital blood pressure monitor. The problem is that when we press this start button the machine does not turn on and the display also shows nothing. when we open the machine and check its components we find that push button switch and one capacitor is faulty. after changing these parts machine starts working again.    
   
   
+#### ** mobile phone charging battery **  
+  
+Run blood Pressure Monitor with Mobile Charger NO Battery Required / Sure Tecnik /  May 31, 2020  #bloodpressure #drmorepen  
+https://youtu.be/5nxT_STttUk  
+1.07K subscribers / 70,459 views  //   
+Easy Steps to Run blood Pressure Monitor with Mobile Charger only you will not need battery to put in your small gadgets again and again if you learn the basics of this video. NO Battery Required in this video we are going to show you how to run your blood pressure monitor or any other small device without battery. we will run these small devices with the help of mobile charger only.  
+  
+  
   
 --------------------------------------------------  
   
