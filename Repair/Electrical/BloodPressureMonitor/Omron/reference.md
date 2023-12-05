@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_BloodPressureMonitor_20231205.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/BloodPressureMonitor/Omron/reference.md  
   
-last update : 20231206_0526(UTC+8)  
+last update : 20231206_0655(UTC+8)  
 prev update : 20231206_0451(UTC+8)  
 prev update : 20231205_2035(UTC+8)  
   
@@ -15,7 +15,7 @@ prev update : 20231205_2035(UTC+8)
 Omron JPN1 / omron blood pressure monitor jpn1  
   
 user manual 
-https://images-eu.ssl-images-amazon.com/images/I/A1vey762sTS.pdf  
+  https://images-eu.ssl-images-amazon.com/images/I/A1vey762sTS.pdf  
   
 Teardown of Omron BP652 Blood Pressure Monitor  
   https://malichao.wordpress.com/2016/01/04/teardown-of-omron-bp652-blood-pressure-monitor/  
@@ -63,50 +63,87 @@ Omron PP02  air pressure sensor
   
   
 Omron Automatic Blood Pressure Machine Repair / Electric Point /  Feb 8, 2018  
-https://youtu.be/8rqGP5Wwxhk  
+  https://youtu.be/8rqGP5Wwxhk  
   308K subscribers / 207,325 views  //   
   
   
 How to repair Blood pressure machine does not start / I.F.L /  Dec 20, 2019  
-https://youtu.be/9tgnDzb_38I  
+  https://youtu.be/9tgnDzb_38I  
 5.66K subscribers / 53,797 views  //   
   
   
 Omron automatic blood pressure monitor repairing / Life and Living /  Sep 6, 2021  
-https://youtu.be/pn5Ki2qHdC4  
+  https://youtu.be/pn5Ki2qHdC4  
 326 subscribers / 18,719 views  //   
 How to replace on-off switch of Omron automatic blood pressure monitor.  
   
   
 OMRON model HEM 7120 BLOOD PRESSURE CHECKING machine repair karna seekhe... / MKS Find Solution /  Dec 10, 2022  
-https://youtu.be/MJvvvhVmJPc  
+  https://youtu.be/MJvvvhVmJPc  
 1.61K subscribers / 5,411 views  //   
   
   
 OMRON BLOOD PRESSURE MONITOR NO POWER REPAIR / HOHSING Sri lanka / Dec 2, 2023  
-https://youtu.be/eXpFPEfQC4Y  
+  https://youtu.be/eXpFPEfQC4Y  
 182 subscribers / 16 views  //   
   
   
 How To Solve Blood pressure Machine Problem|Repair Blood pressure Machine Pressure leaking Fault|| / Mine-Crafts Gadgets /  Jul 22, 2023 / JHANG SADAR  
-https://youtu.be/cKe7O778nTk  
+  https://youtu.be/cKe7O778nTk  
 51 subscribers / 691 views  //   
   
   
+Repair blood pressure/ BP monitoring machine electronics / technical viewpoint /  Aug 23, 2021  
+  https://youtu.be/YwxVT7Fy7BU  
+3.25K subscribers / 837 views  //   
   
-#### ***** Capacitor Failure *****  
+  
+.  
+  
+  
+  
+#### ***** CAPACITOR Failure *****  
   
 how to repair electronic blood pressure/ B P machine / DIY Repairs /  Jul 13, 2020  
-https://youtu.be/jJIKszvgf4I  
+  https://youtu.be/jJIKszvgf4I  
 8.7K subscribers / 18,982 views  //   
 हिंदी उपशीर्षक के साथ  
 In this video, we are going to repair this digital blood pressure monitor. The problem is that when we press this start button the machine does not turn on and the display also shows nothing. when we open the machine and check its components we find that push button switch and one capacitor is faulty. after changing these parts machine starts working again.    
   
   
+  
+.  
+  
+OMRON SEM-1 BP machine repair karna seekhe.. #machine #repair #bloodpressure #findthesolution / MKS Find Solution /  Apr 11, 2023  
+  https://youtu.be/2WIhIJUHSOM  
+1.61K subscribers / 1,261 views  //  
+  
+.  
+  
+  
+  
+  
+Kode E1 tensi meter omron / YLaW / Jan 24, 2023  
+  https://youtu.be/aWqrkkBKlKA  
+439 subscribers / 3,111 views  //  
+  
+.  
+  
+CITIZEN Repair - CH650 Wrist Blood Pressure Monitor / Island Gate - IGT - CITIZEN Healthcare Products /  Aug 9, 2016  
+  https://youtu.be/DRdgrSxAu_U  
+704 subscribers / 28,848 views  //  
+CITIZEN Repair course - BPM CH650  
+  
+.  
+  
+  
+  
+  
+  
 #### ** mobile phone charging battery as power source **  
   
 Run blood Pressure Monitor with Mobile Charger NO Battery Required / Sure Tecnik /  May 31, 2020  #bloodpressure #drmorepen  
-https://youtu.be/5nxT_STttUk  
+  https://youtu.be/5nxT_STttUk  
 1.07K subscribers / 70,459 views  //   
 Easy Steps to Run blood Pressure Monitor with Mobile Charger only you will not need battery to put in your small gadgets again and again if you learn the basics of this video. NO Battery Required in this video we are going to show you how to run your blood pressure monitor or any other small device without battery. we will run these small devices with the help of mobile charger only.  
   
@@ -114,7 +151,12 @@ Easy Steps to Run blood Pressure Monitor with Mobile Charger only you will not n
   
 --------------------------------------------------  
   
+Back to Basics: What are Y-Capacitors?  
+  https://www.vicorpower.com/resource-library/articles/back-to-basics-what-are-y-capacitors  
   
+  
+SMD Capacitor Size Charts / MLCCs and tantalum capacitors  
+  https://resources.pcb.cadence.com/blog/2023-smd-capacitor-size-charts  
   
   
 ----  
