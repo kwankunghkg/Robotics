@@ -55,7 +55,7 @@ TMP89FW20VUG LQFP64 0.50 pitch
   
   
   
-PP02  
+Omron PP02  air pressure sensor  
   
   
 #### ***** MICRO-SWITCH bad contact *****  
@@ -64,6 +64,11 @@ PP02
 Omron Automatic Blood Pressure Machine Repair / Electric Point /  Feb 8, 2018  
 https://youtu.be/8rqGP5Wwxhk  
   308K subscribers / 207,325 views  //   
+  
+  
+How to repair Blood pressure machine does not start / I.F.L /  Dec 20, 2019  
+https://youtu.be/9tgnDzb_38I  
+5.66K subscribers / 53,797 views  //   
   
   
 Omron automatic blood pressure monitor repairing / Life and Living /  Sep 6, 2021  
