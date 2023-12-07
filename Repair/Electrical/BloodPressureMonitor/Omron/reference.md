@@ -2,13 +2,21 @@
 BLOG_GitHub_Repair_BloodPressureMonitor_20231205.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/BloodPressureMonitor/Omron/reference.md  
   
-last update : 20231206_0655(UTC+8)  
+last update : 20231208_0200(UTC+8)  
+prev update : 20231206_0655(UTC+8)  
 prev update : 20231206_0451(UTC+8)  
 prev update : 20231205_2035(UTC+8)  
   
 --------------------------------------------------  
   
 ## Repair - Blood Pressure Monitor  
+  
+--------------------------------------------------  
+  
+Repair Log - Blood Pressure Monitor - Omron Sphygmomanometer - 1 - waveform - 20231207  
+  https://youtu.be/xPy3zzJAMbs  
+  
+  
   
 --------------------------------------------------  
   
@@ -151,12 +159,12 @@ Easy Steps to Run blood Pressure Monitor with Mobile Charger only you will not n
   
 --------------------------------------------------  
   
+SMD Capacitor Size Charts / MLCCs and tantalum capacitors  
+  https://resources.pcb.cadence.com/blog/2023-smd-capacitor-size-charts  
+  
 Back to Basics: What are Y-Capacitors?  
   https://www.vicorpower.com/resource-library/articles/back-to-basics-what-are-y-capacitors  
   
-  
-SMD Capacitor Size Charts / MLCCs and tantalum capacitors  
-  https://resources.pcb.cadence.com/blog/2023-smd-capacitor-size-charts  
   
   
 ----  
