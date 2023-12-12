@@ -1,12 +1,13 @@
 
 BLOG_GitHub_SebastianThrun_20231213.txt  
-    
+  https://github.com/kwankunghkg/Robotics/blob/main/_learning/SebastianThrun.md  
   
-last update : 20231213_0658(UTC+8)  
+last update : 20231213_0721(UTC+8)  
 prev update : 20231213_0658(UTC+8)  
   
 ----------------------------------------  
   
+## Sebastian Thrun, a.k.a. God Father of Self-driving Cars  
   https://en.wikipedia.org/wiki/Sebastian_Thrun  
   
 ----------------------------------------  
@@ -15,7 +16,6 @@ Sebastian Thrun, Founder of Udacity | The Brave Ones / CNBC International TV /  
   https://youtu.be/DtO3pcNnEuA  
   356K subscribers / 183,360 views  //   
 	The Brave Ones – In collaboration with Credit Suisse: Meet Sebastian Thrun. A true innovator, this tech wizard used to head up Google X and hold a tenured teaching position at Stanford University. However, he walked away from it all and is now on a mission to change the way the world learns.  
-	Looking for more The Brave Ones content? Listen to our podcast where we find out more about what makes the likes of Bernard Arnault, Tina Brown and Hugh Evans brave: https://cnb.cx/2PksEwJ  
   
   
 ----------------------------------------  
@@ -79,7 +79,7 @@ Kitty Hawk CEO Sebastian Thrun's Big Bet on Artificial Intelligence / Bloomberg 
 The evolution of ChatGPT will fuel the future of higher education, says Udacity's Sebastian Thrun / CNBC Television /  Feb 28, 2023  #CNBC #CNBCTV  
   https://youtu.be/sNYXWJrPEaA  
   2.58M subscribers / 1,662 views  //   
-	Sebastian Thrun, chairman and co-founder of Udacity, and Sal Khan, CEO of the Khan Academy, join 'The Exchange' to discuss the influence of AI technology on the software engineering landscape, disrupting higher education with mentorship programs and an emerging blended model of high school and college education. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi   
+	Sebastian Thrun, chairman and co-founder of Udacity, and Sal Khan, CEO of the Khan Academy, join 'The Exchange' to discuss the influence of AI technology on the software engineering landscape, disrupting higher education with mentorship programs and an emerging blended model of high school and college education.  
   
   
   
