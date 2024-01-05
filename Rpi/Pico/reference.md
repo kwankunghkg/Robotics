@@ -348,15 +348,15 @@ https://youtu.be/DPTvFr9p-vc
 Pi Pico / Lutz  
 9 videos 680 views Last updated on Sep 8, 2023  
   https://www.youtube.com/playlist?list=PL5T4u1JurxwDRv1drh4fd2gZRr3lWVdeW  
-	Step-by-Step Pi Pico W: WIFI, gpio Control and Webserver  
-	Display Data: Full LCD Control (20x4 or 16x2) with microPyhton  
-	The pi pico and a button will save your LIFE  
-	Read the analog world: Use ADC's on Pi Pico  
-	FLEXIBLE Data Input: Transmit any value from HTML to pi pico in MicroPyhton  
-	Error detection: Watchdog Tutorial with MicroPython Example!  
-	Real time clock sync over WiFi - Pi Pico w - in 6 Minutes  
-	Creating a WiFi App for Pi Pico W  
-	I give Chat GPT 3 Embedded coding Tasks, can it pass?  
+	1 Step-by-Step Pi Pico W: WIFI, gpio Control and Webserver  
+	2 Display Data: Full LCD Control (20x4 or 16x2) with microPyhton  
+	3 The pi pico and a button will save your LIFE  
+	4 Read the analog world: Use ADC's on Pi Pico  
+	5 FLEXIBLE Data Input: Transmit any value from HTML to pi pico in MicroPyhton  
+	6 Error detection: Watchdog Tutorial with MicroPython Example!  
+	7 Real time clock sync over WiFi - Pi Pico w - in 6 Minutes  
+	8 Creating a WiFi App for Pi Pico W  
+	9 I give Chat GPT 3 Embedded coding Tasks, can it pass?  
   
   
   
