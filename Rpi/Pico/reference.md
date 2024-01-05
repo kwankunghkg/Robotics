@@ -2,7 +2,7 @@
 BLOG_GitHub_RpiPico_reference_20220705.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Rpi/Pico/reference.md  
   
-last update : 20240106_0246(UTC+8)  
+last update : 20240106_0257(UTC+8)  
 prev update : 20221023_1713(UTC+8)  
 prev update : 20220918_1600(UTC+8)  
 prev update : 20220705_0608(UTC+8)  
@@ -345,6 +345,23 @@ https://youtu.be/DPTvFr9p-vc
   
 ----  
   
+Pi Pico / Lutz  
+9 videos 680 views Last updated on Sep 8, 2023  
+  https://www.youtube.com/playlist?list=PL5T4u1JurxwDRv1drh4fd2gZRr3lWVdeW  
+	Step-by-Step Pi Pico W: WIFI, gpio Control and Webserver  
+	Display Data: Full LCD Control (20x4 or 16x2) with microPyhton  
+	The pi pico and a button will save your LIFE  
+	Read the analog world: Use ADC's on Pi Pico  
+	FLEXIBLE Data Input: Transmit any value from HTML to pi pico in MicroPyhton  
+	Error detection: Watchdog Tutorial with MicroPython Example!  
+	Real time clock sync over WiFi - Pi Pico w - in 6 Minutes  
+	Creating a WiFi App for Pi Pico W  
+	I give Chat GPT 3 Embedded coding Tasks, can it pass?  
+  
+  
+  
+----  
+  
 Using Raspberry Pi Pico W with Telegram Bot  
   https://www.cytrontech.vn/tutorial/using-raspberry-pi-pico-w-with-telegram-bot  
   
@@ -430,7 +447,7 @@ https://youtu.be/bvUDoVqfDv0
   
 ----  
   
-How to make a Bluetooth remote using a Raspberry Pi Pico W and MicroPython / Kevin McAleer /  Premiered Jul 3, 2023  #Pico​ #MicroPython​ #Robotics  
+How to make a Bluetooth remote using a Raspberry Pi Pico W and MicroPython / Kevin McAleer / Jul 3, 2023 / #Pico​ #MicroPython​ #Robotics  
 https://youtu.be/-0wCtKz1l78  
 24.1K subscribers / 12,782 views  //   
 	00:00 Introduction  
@@ -483,30 +500,33 @@ https://youtu.be/OytL_ssA8Xc
   
 Pico Tutorials / Learn Embedded Systems / 18 videos Last updated on Mar 21, 2022  
 https://www.youtube.com/playlist?list=PLEB5F4gTNK68IlRIJtcJ_2cW4dSdmreTw  
-1 First Look at the Raspberry Pi Pico: Physical Overview  
-2 How to Set Up Visual Studio Code to Program the Pi Pico (Windows)  
-3 How to Set Up a Project in Visual Studio Code for the Pi Pico - Blink LED  
-4 Soldering Header Pins to your Raspberry Pi Pico  
-5 Getting Started with USB Serial Output on the Raspberry Pi Pico  
-6 Getting Started with Multicore Programming on the Raspberry Pi Pico  
-7 How to Use the Temperature Sensor on the Raspberry Pi Pico in C  
-8 Beginners Guide to I2C on the Raspberry Pi Pico (BNO055 IMU Example)  
-9 USB Serial Input on the Raspberry Pi Pico  
-10 Beginners Guide to SPI on the Raspberry Pi Pico (BMP280 Example)  
-11 How to Debug the Raspberry Pi Pico Using Another Pico! - Picoprobe and VSCode Tutorial  
-12 Programming the Raspberry Pi Pico in the Arduino IDE!  
-13 It's Official! Arduino IDE Support for the Raspberry Pi Pico - How to Install  
-14 How To Use FreeRTOS on the Raspberry Pi Pico (RP2040) Part 1: VSCode Setup and Blinky Test!  
-https://learnembeddedsystems.co.uk/freertos-on-rp2040-boards-pi-pico-etc-using-vscode  
-15 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 2: Tasks and Queues  
-https://learnembeddedsystems.co.uk/freertos-part-2-tasks-and-queues-tutorial  
-16 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 3: Scheduling and Task Priorities  
-https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-3-source-code  
-17 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 4: Mutex  
-https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-4-source-code  
-18 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 5: Semaphores  
-https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-5-semaphores  
+	1 First Look at the Raspberry Pi Pico: Physical Overview  
+	2 How to Set Up Visual Studio Code to Program the Pi Pico (Windows)  
+	3 How to Set Up a Project in Visual Studio Code for the Pi Pico - Blink LED  
+	4 Soldering Header Pins to your Raspberry Pi Pico  
+	5 Getting Started with USB Serial Output on the Raspberry Pi Pico  
+	6 Getting Started with Multicore Programming on the Raspberry Pi Pico  
+	7 How to Use the Temperature Sensor on the Raspberry Pi Pico in C  
+	8 Beginners Guide to I2C on the Raspberry Pi Pico (BNO055 IMU Example)  
+	9 USB Serial Input on the Raspberry Pi Pico  
+	10 Beginners Guide to SPI on the Raspberry Pi Pico (BMP280 Example)  
+	11 How to Debug the Raspberry Pi Pico Using Another Pico! - Picoprobe and VSCode Tutorial  
+	12 Programming the Raspberry Pi Pico in the Arduino IDE!  
+	13 It's Official! Arduino IDE Support for the Raspberry Pi Pico - How to Install  
+	14 How To Use FreeRTOS on the Raspberry Pi Pico (RP2040) Part 1: VSCode Setup and Blinky Test!  
+	https://learnembeddedsystems.co.uk/freertos-on-rp2040-boards-pi-pico-etc-using-vscode  
+	15 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 2: Tasks and Queues  
+	https://learnembeddedsystems.co.uk/freertos-part-2-tasks-and-queues-tutorial  
+	16 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 3: Scheduling and Task Priorities  
+	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-3-source-code  
+	17 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 4: Mutex  
+	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-4-source-code  
+	18 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 5: Semaphores  
+	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-5-semaphores  
   
+  
+  
+----  
   
 A Raspberry Pi Pico conducts this lo-fi orchestra / Ashley Whittaker / 19th Oct 2022  
 https://www.raspberrypi.com/news/a-raspberry-pi-pico-conducts-this-lo-fi-orchestra/  
@@ -514,6 +534,14 @@ https://www.raspberrypi.com/news/a-raspberry-pi-pico-conducts-this-lo-fi-orchest
   
   
 ----  
+  
+Set up a Raspberry Pi Pico W or Pico to use CircuitPython / John Gallaugher /  Jan 30, 2023  Circuit Python Tutorials  
+https://youtu.be/ND5UhTQlfWw  
+6.06K subscribers / 4,815 views  //   
+	Start here to learn CircuitPython on a Raspberry Pi Pico or Pico W. We'll add CircuitPython to the Pico board, copy over the lib (library) files that we need to complete a series of assignments using a variety of sensors, motors, neopixels, and input devices. And we'll download the free Mu IDE so we can create, edit, and save CircuitPython programs.  
+	This playlist is used in Prof. Gallaugher's Physical Computing course. All teachers, students, and other independent learners are welcome to use this content. If you find it helpful, PLEASE let me know! You are also most welcome to share with others and use this material in your own courses. For more info, including parts lists, suggestions for faculty, and more, see:  
+	  https://gallaugher.com/physical-computing/  
+  
   
   
   
