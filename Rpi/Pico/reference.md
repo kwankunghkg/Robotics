@@ -544,12 +544,13 @@ https://youtu.be/bg-cZ4sA_bc
 How To Set Up MQTT With Raspberry Pi Pico W | Guide For Beginners / Core Electronics / Mar 21, 2023  
 https://youtu.be/ybCMXqsQyDw  
 107K subscribers  23,474 views  
-	🔗 The full guide : https://core-electronics.com.au/guide...  
+	🔗 The full guide :  
+	  https://core-electronics.com.au/guides/getting-started-with-mqtt-on-raspberry-pi-pico-w-connect-to-the-internet-of-things/  
 	In this guide, we'll get a Raspberry Pi Pico W to send and receive data to the cloud using the MQTT protocol. By the end of this video, we'll be controlling real hardware over the cloud using a web-based dashboard ( Adafruit IO ).  
-	If you need help setting up WiFi on the Pico W head here:  
-	https://core-electronics.com.au/guide...  
-	If you're new to Raspberry Pi Pico and Thonny give this a read:  
-	https://core-electronics.com.au/guide...    
+	If you need help setting up WiFi on the Pico W head here :  
+	  https://core-electronics.com.au/guides/raspberry-pi-pico/raspberry-pi-pico-w-connect-to-the-internet/  
+	If you're new to Raspberry Pi Pico and Thonny give this a read :  
+	  https://core-electronics.com.au/guides/raspberry-pi-pico/how-to-setup-a-raspberry-pi-pico-and-code-with-thonny/  
   
   
   
