@@ -2,7 +2,7 @@
 BLOG_GitHub_RpiPico_reference_20220705.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Rpi/Pico/reference.md  
   
-last update : 20240106_0257(UTC+8)  
+last update : 20240106_0338(UTC+8)  
 prev update : 20221023_1713(UTC+8)  
 prev update : 20220918_1600(UTC+8)  
 prev update : 20220705_0608(UTC+8)  
@@ -289,6 +289,111 @@ Total: € 36.12 = HKD 280.47
   
   
   
+----  
+  
+Set up a Raspberry Pi Pico W or Pico to use CircuitPython / John Gallaugher /  Jan 30, 2023  Circuit Python Tutorials  
+https://youtu.be/ND5UhTQlfWw  
+6.06K subscribers / 4,815 views  //   
+	Start here to learn CircuitPython on a Raspberry Pi Pico or Pico W. We'll add CircuitPython to the Pico board, copy over the lib (library) files that we need to complete a series of assignments using a variety of sensors, motors, neopixels, and input devices. And we'll download the free Mu IDE so we can create, edit, and save CircuitPython programs.  
+	This playlist is used in Prof. Gallaugher's Physical Computing course. All teachers, students, and other independent learners are welcome to use this content. If you find it helpful, PLEASE let me know! You are also most welcome to share with others and use this material in your own courses. For more info, including parts lists, suggestions for faculty, and more, see:  
+	  https://gallaugher.com/physical-computing/  
+  
+  
+  
+  
+----  
+    
+Circuit Python Tutorials / John Gallaugher    
+83 videos 45,764 views Last updated on Jul 18, 2023  
+  https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2  
+    
+1  CircuitPython School - Intro  
+2  Setup a CircuitPlayground Bluefruit  
+3  A first CircuitPython program in Mu: Print, Detecting Errors, Saving Backups & More!  
+4  Light it Up! Import libraries, Light NeoPixels, Class, Object, while True loops, and more  
+5  Getting Flashy, Debug w/print, & better coding with variables  
+6  SOS Solution + Bring on da func, an intro to functions  
+7  REPL, sequences, tuples, indexing, and lighting up individual lights  
+8  Getting Loopy with For Loops and Ranges  
+9  Paint the Rainbow with Lists  
+10 Random numbers, while loops for non-repeating randoms + ornament  
+11 Working with a NeoPixel LED Light Strip  
+12 CircuitPython Troubleshooting - Help Understand and Fix Common Problems w/Installation, Boards, & Mu  
+13 Using the adafruit_led_animations library  
+14 Simple Box Plan for LaserCutting an Enclosure Using MakerCase & Adobe Illustrator  
+15 What If, pushing buttons & working with conditionals  
+16 Better Buttons with Debouncing, Fixing Buttons that Report Multiple Presses  
+17 CircuitPython School - Distance Sensing with the Adafruit VL53L1X Time of Flight sensor  
+18 CircuitPython School - Distance Reacting Lamp / Luminaria  
+19 CircuitPython School - Make Some Noise, playing wav files  
+20 Format WAV files to play in CircuitPython  
+21 CircuitPython School - You're Electric! Capacitive Touch  
+22 CircuitPython School - You've Got the Beat, Drum Machine  
+23 CircuitPython School - Plotting Orientation Using the Accelerometer  
+24 CircuitPython School - Shakes & Double Taps with the LIS3DH Accelerometer  
+25 CircuitPython School - Light Sensor  
+26 Accelerometer Review LIS3DH & Quiz 1 Answer  
+27 Week 5 in Class Physical Computing CircuitPython Quiz - Wing Woman / Wing Man Alarm  
+28 CircuitPython School - Motoring with Servo Motors  
+29 CircuitPython School - Give Potentiometers a Whirl  
+30 CircuitPython School - Typing and keyboard control using the HID library  
+31 CircuitPython School - Controlling the Mouse with HID Libraries  
+32 Bluefruit School - Intro  
+33 Connect LED Strand to CPB and Add Circuit Python Code - Bluefruit School  
+34 Bluefruit School Code Walk Through  
+35 Bluetooth Remote Control in CircuitPython (CircuitPython & Bluefruit School)  
+36 Choosing a Board for CircuitPython A Few Important Considerations  
+37 Set up a Raspberry Pi Pico W or Pico to use CircuitPython  
+38 Installing CircuitPython on Multiple Boards, help(board) in REPL, Pinouts, & Blink Across Boards  
+39 Pico, Pico W & Beyond: Intro to Pins, CircuitPython Pin Map Script, Breadboards, Safety, & NeoPixels  
+40 NeoPixel LED Strip on the Raspberry Pi Pico & Pico W using CircuitPython  
+41 Better Breadboard Wiring Using Rails (shown on a Raspberry Pi Pico)  
+42 Getting Pushy by adding a Button to the Raspberry Pi Pico (CircuitPython)  
+43 Help My Pico Button Doesn't Work! Fix multiple press reporting w/Blocking & Debouncing, + colorwheel  
+44 Raspberry Pi Pico & STEMMA QT / Qwiic + Using a Temperature Sensor & Formatting Numbers  
+45 Sensing Touch w/the Raspberry Pi Pico & the Adafruit MPR121 12-pad STEMMA QT Breakout Board  
+46 Feel the noise on a Raspberry Pi Pico - learn to play .wav and .mp3 files in CircuitPython  
+47 Spin Up a Raspberry Pi Pico Using a Potentiometer  
+48 Raspberry Pi Pico Proximity Sensing in CircuitPython with the APDS9960 multi sensor  
+49 PhysComp Exam Solution - Lost in Space  
+50 There's a Jedi in my Raspberry Pi Pico! Sensing gestures with the Adafruit APDS9960  
+51 Playing Musical Notes on a Raspberry Pi Pico with PWM Audio Using CircuitPython  
+52 Pico Piano! Playing Tones with PWM Audio Using CircuitPython  
+53 Build a Raspberry Pi Pico DJ Board with CircuitPython audiomixer  
+54 Expand Your Raspberry Pi Pico's Memory by Adding a microSD Card Reader! Plus SPI & Module Creation.  
+55 Servo Motoring with the Raspberry Pi Pico and CircuitPython  
+56 An Intro to Ohm's Law for Makers (covers resistor choice for LEDs used with a Raspberry Pi Pico)  
+57 Blink an LED Using a Raspberry Pi Pico & CircuitPython. Plus bonus info on LED bulbs & resistors.  
+58 Using a Magnetic Switch (called a Door or Reed Switch) with a Raspberry Pi Pico & Circuit Python  
+59 Connect your Raspberry Pi Pico W to Your WiFi Network Using CircuitPython  
+60 Update Time on a Raspberry Pi Pico w/CIrcuitPython: Parse JSON, format dates/times, & schedule jobs  
+61 Build the Raspberry Pi Pico W Medication Reminder Box Using CircuitPython  
+62 Control a Pico W from a Web Dashboard - Turn NeoPixels on/off using CircuitPython & Adafruit IO  
+63 Make a Pico W Change NeoPixel Colors, Play Sounds, & Move a Servo from a Web Page in CircuitPython.  
+64 Build a Raspberry Pico W Web-Conontrolled Robot in CircuitPython (rolls + talks/plays sounds)  
+65 CircuitPython School - Installing CircuitPython on a Raspberry Pi  
+66 CircuitPython School - Playing Sound (wav or mp3) with PyGame on a Raspberry Pi  
+67 CircuitPython School - The Right Way to Add Buttons to a Raspberry Pi, Pinouts, and Cheer Machine  
+68 Raspberry Pi School - Using STEMMA QT on a Raspberry Pi  
+69 CircuitPython School - Use Capacitive Touch to Build a Raspberry Pi based Drum Machine  
+70 CPB and Bluetooth with Bluefruit  
+71 CPB Bonus Identifying Devices in Bluefruit App  
+72 MakerSnack - Buddy the Elf  
+73 CPB Halloween Head Demo Using Circuit Playground Bluefruit + MonsterMask  
+74 CircuitPython School - Use the Mil Mascaras App to Control a Mosquitto MQTT Client on a Raspberry Pi  
+75 Assistive Technology Projects - Boston College Physical Computing Course - Fall 2021  
+76 Boston College Physical Computing - Raspberry Pi CircuitPython MQTT iOS app robotics Day  
+77 Physical Computing Final Solutions Video Fall 2022  
+78 Boston College Student Physical Computing Showcase Fall 2022  
+79 BOTH SwiftUI & CircuitPython Videos Will Be Posted Here!  
+80 Assistive Tech Projects - Spring 2023 - Boston College Physical Computing with Prof Gallaugher  
+81 Disco Button Funk up any room with MQTT, CircuitPython, and a Raspberry Pi Pico W  
+82 Disco Button Part 2 MQTT Subscriber for NeoPixel animation, Song Play, and Relay Switch on off  
+83 Physical Computing - Apple Distinguished Educator Showcase Dallas 2023 - Prof. John Gallaugher  
+    
+  
+  
+  
 ----------------------------------------  
   
 Pico Tutorials / Learn Embedded Systems / 18 videos Last updated on Mar 21, 2022  
@@ -540,13 +645,9 @@ https://www.raspberrypi.com/news/a-raspberry-pi-pico-conducts-this-lo-fi-orchest
   
 ----  
   
-Set up a Raspberry Pi Pico W or Pico to use CircuitPython / John Gallaugher /  Jan 30, 2023  Circuit Python Tutorials  
-https://youtu.be/ND5UhTQlfWw  
-6.06K subscribers / 4,815 views  //   
-	Start here to learn CircuitPython on a Raspberry Pi Pico or Pico W. We'll add CircuitPython to the Pico board, copy over the lib (library) files that we need to complete a series of assignments using a variety of sensors, motors, neopixels, and input devices. And we'll download the free Mu IDE so we can create, edit, and save CircuitPython programs.  
-	This playlist is used in Prof. Gallaugher's Physical Computing course. All teachers, students, and other independent learners are welcome to use this content. If you find it helpful, PLEASE let me know! You are also most welcome to share with others and use this material in your own courses. For more info, including parts lists, suggestions for faculty, and more, see:  
-	  https://gallaugher.com/physical-computing/  
   
+  
+----  
   
   
   
