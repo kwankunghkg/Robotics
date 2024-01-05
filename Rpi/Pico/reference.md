@@ -2,7 +2,7 @@
 BLOG_GitHub_RpiPico_reference_20220705.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Rpi/Pico/reference.md  
   
-last update : 20240106_0157(UTC+8)  
+last update : 20240106_0220(UTC+8)  
 prev update : 20221023_1713(UTC+8)  
 prev update : 20220918_1600(UTC+8)  
 prev update : 20220705_0608(UTC+8)  
@@ -271,7 +271,17 @@ https://youtu.be/fItvY5JIvo8
 	  https://github.com/LutzEmbeddedTec/Pico_w_RTC  
   
   
-  
+Display Data: Full LCD Control (20x4 or 16x2) with microPyhton / Lutz /  Aug 5, 2022  Pi Pico  
+https://youtu.be/DPTvFr9p-vc  
+1.1K subscribers / 2,218 views  //   
+	#LCD #raspberrypi  #raspberrypipico   
+	00:00 Intro  
+	00:30 Connect Pcio and why to use levelshifter (5V vs 3.3V)  
+	07:30 Copy files to raspberry pi pico   
+	08:07 scan for I2C address  
+	09:10 LCD programm write_line and custom charaters  
+	In this Video i explain how to use a LCD at raspberry Pi Pico with micropyhton. I explain the command write_line and show how to create custom characters.  
+	  https://github.com/LutzEmbeddedTec/RPI-PICO-I2C-LCD  
   
   
   
