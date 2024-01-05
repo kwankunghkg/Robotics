@@ -287,6 +287,40 @@ Total: € 36.12 = HKD 280.47
   
 ----------------------------------------  
   
+  
+  
+----------------------------------------  
+  
+Pico Tutorials / Learn Embedded Systems / 18 videos Last updated on Mar 21, 2022  
+https://www.youtube.com/playlist?list=PLEB5F4gTNK68IlRIJtcJ_2cW4dSdmreTw  
+	1 First Look at the Raspberry Pi Pico: Physical Overview  
+	2 How to Set Up Visual Studio Code to Program the Pi Pico (Windows)  
+	3 How to Set Up a Project in Visual Studio Code for the Pi Pico - Blink LED  
+	4 Soldering Header Pins to your Raspberry Pi Pico  
+	5 Getting Started with USB Serial Output on the Raspberry Pi Pico  
+	6 Getting Started with Multicore Programming on the Raspberry Pi Pico  
+	7 How to Use the Temperature Sensor on the Raspberry Pi Pico in C  
+	8 Beginners Guide to I2C on the Raspberry Pi Pico (BNO055 IMU Example)  
+	9 USB Serial Input on the Raspberry Pi Pico  
+	10 Beginners Guide to SPI on the Raspberry Pi Pico (BMP280 Example)  
+	11 How to Debug the Raspberry Pi Pico Using Another Pico! - Picoprobe and VSCode Tutorial  
+	12 Programming the Raspberry Pi Pico in the Arduino IDE!  
+	13 It's Official! Arduino IDE Support for the Raspberry Pi Pico - How to Install  
+	14 How To Use FreeRTOS on the Raspberry Pi Pico (RP2040) Part 1: VSCode Setup and Blinky Test!  
+	https://learnembeddedsystems.co.uk/freertos-on-rp2040-boards-pi-pico-etc-using-vscode  
+	15 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 2: Tasks and Queues  
+	https://learnembeddedsystems.co.uk/freertos-part-2-tasks-and-queues-tutorial  
+	16 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 3: Scheduling and Task Priorities  
+	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-3-source-code  
+	17 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 4: Mutex  
+	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-4-source-code  
+	18 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 5: Semaphores  
+	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-5-semaphores  
+  
+  
+  
+----  
+  
 Raspberry Pi Pico RP2040 Programming in MicroPython, Complete Course for Beginners with Examples / Electronic Clinic /  Mar 3, 2022  Raspberry Pi Pico Projects  
 https://youtu.be/rAGw-08IOSw  
 73K subscribers / 52,711 views  //   
@@ -494,35 +528,6 @@ https://youtu.be/OytL_ssA8Xc
   
   
   
-  
-  
-----------------------------------------  
-  
-Pico Tutorials / Learn Embedded Systems / 18 videos Last updated on Mar 21, 2022  
-https://www.youtube.com/playlist?list=PLEB5F4gTNK68IlRIJtcJ_2cW4dSdmreTw  
-	1 First Look at the Raspberry Pi Pico: Physical Overview  
-	2 How to Set Up Visual Studio Code to Program the Pi Pico (Windows)  
-	3 How to Set Up a Project in Visual Studio Code for the Pi Pico - Blink LED  
-	4 Soldering Header Pins to your Raspberry Pi Pico  
-	5 Getting Started with USB Serial Output on the Raspberry Pi Pico  
-	6 Getting Started with Multicore Programming on the Raspberry Pi Pico  
-	7 How to Use the Temperature Sensor on the Raspberry Pi Pico in C  
-	8 Beginners Guide to I2C on the Raspberry Pi Pico (BNO055 IMU Example)  
-	9 USB Serial Input on the Raspberry Pi Pico  
-	10 Beginners Guide to SPI on the Raspberry Pi Pico (BMP280 Example)  
-	11 How to Debug the Raspberry Pi Pico Using Another Pico! - Picoprobe and VSCode Tutorial  
-	12 Programming the Raspberry Pi Pico in the Arduino IDE!  
-	13 It's Official! Arduino IDE Support for the Raspberry Pi Pico - How to Install  
-	14 How To Use FreeRTOS on the Raspberry Pi Pico (RP2040) Part 1: VSCode Setup and Blinky Test!  
-	https://learnembeddedsystems.co.uk/freertos-on-rp2040-boards-pi-pico-etc-using-vscode  
-	15 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 2: Tasks and Queues  
-	https://learnembeddedsystems.co.uk/freertos-part-2-tasks-and-queues-tutorial  
-	16 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 3: Scheduling and Task Priorities  
-	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-3-source-code  
-	17 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 4: Mutex  
-	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-4-source-code  
-	18 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 5: Semaphores  
-	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-5-semaphores  
   
   
   
