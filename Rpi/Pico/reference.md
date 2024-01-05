@@ -2,7 +2,7 @@
 BLOG_GitHub_RpiPico_reference_20220705.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Rpi/Pico/reference.md  
   
-last update : 20240106_0338(UTC+8)  
+last update : 20240106_0403(UTC+8)  
 prev update : 20221023_1713(UTC+8)  
 prev update : 20220918_1600(UTC+8)  
 prev update : 20220705_0608(UTC+8)  
@@ -287,6 +287,43 @@ Total: € 36.12 = HKD 280.47
   
 ----------------------------------------  
   
+Raspberry Pi Pico W Getting Started Tutorial || Wireless Wi-Fi Connectivity to RP2040 Board / How To Electronics / Nov 7, 2022  
+https://youtu.be/vgjvAVe_EUg  
+63.9K subscribers / 37,891 views  //  
+  
+  
+----  
+  
+Raspberry Pi Pico RP2040 Programming in MicroPython, Complete Course for Beginners with Examples / Electronic Clinic /  Mar 3, 2022  Raspberry Pi Pico Projects  
+https://youtu.be/rAGw-08IOSw  
+73K subscribers / 52,711 views  //   
+  
+  
+  
+----  
+  
+Creating a Wireless Network with Raspberry Pi Pico W: AP Mode Walkthrough (Part 1) / Shilleh /  Jul 15, 2023 / IoT  
+https://youtu.be/cZNoXXIEPbg  
+1.47K subscribers / 7,463 views  //  
+	Learn how to create your own WiFi network using the Raspberry Pi Pico W in AP Mode. Connect and send information to up to five devices with WiFi without the Internet! This can be used to host web servers that devices can access as long as the network is running, and can later be used to send information between Pico W's without access to the global Internet!  
+  Link to Blog Post :  
+    https://shillehtek.com/blogs/news/creating-a-wireless-network-with-raspberry-pi-pico-w-ap-mode-walkthrough-part-1  
+  Link to Code :  
+    https://github.com/shillehbean/youtube-channel/blob/main/ap_mode_part1.py  
+  
+  
+Creating a Wireless Network with Raspberry Pi Pico W: AP Mode Walkthrough (Part 2 - Static IP) / Shilleh /  Oct 22, 2023 / IoT  
+https://youtu.be/78sViOl9ZuM  
+1.47K subscribers / 992 views  //  
+	This is a quick followup to part 1 of this video where I show how to make the IP address static in AP mode. This can have use cases in server predictability, making accessing and managing your server easier.   
+  
+  
+How to Upload Data to AWS DynamoDB from the Raspberry Pi Pico W / Shilleh / Jan 2, 2024  
+https://youtu.be/bg-cZ4sA_bc  
+1.47K subscribers / 146 views  //  
+	Learn how to send data to AWS DynamoDB using MQTT with the Raspberry Pi Pico W. We will walk through the MicroPython code and the AWS configuration needed to send data to DynamboDB by using AWS IoT Core coupled with an AWS Lambda function to help us process our sensor data from the MPU6050 accelerometer on our Raspberry Pi Pico W. I will also show you how to view AWS logs in Cloud Watch and set IAM rules. If you are a beginner,  this video is great for you, as I break down this process step-by-step and teach you many important concepts in software development.   
+  
+  
   
   
 ----  
@@ -300,6 +337,11 @@ https://youtu.be/ND5UhTQlfWw
 Physical Computing Teaching & Learning Resources    
 	  https://gallaugher.com/physical-computing/  
   
+  
+Connect your Raspberry Pi Pico W to Your WiFi Network Using CircuitPython / John Gallaugher /  Mar 8, 2023 / Circuit Python Tutorials  
+https://youtu.be/l5A7Q4Z06Tc  
+6.06K subscribers / 3,891 views  //  
+	We'll learn to set up a Pico's settings.toml file, then write CircuitPython code so our Pico can log into our local network using the network password. We'll also access the worldtimeapi.org's time API to return information on time in a given time zone. We'll also see how JSON shows up in a browser without JSON-formatting extensions, and show how you can find browser formatting extensions for Chrome and Safari. This lesson sets us up for future lessons where we'll assemble time from the returned data and set the Pico's real time clock. We'll also use what we've learned here to get weather data in a future lesson.   
   
   
 ----  
@@ -423,13 +465,6 @@ https://www.youtube.com/playlist?list=PLEB5F4gTNK68IlRIJtcJ_2cW4dSdmreTw
 	18 FreeRTOS on the Raspberry Pi Pico (RP2040) Part 5: Semaphores  
 	https://learnembeddedsystems.co.uk/freertos-on-the-rp2040-part-5-semaphores  
   
-  
-  
-----  
-  
-Raspberry Pi Pico RP2040 Programming in MicroPython, Complete Course for Beginners with Examples / Electronic Clinic /  Mar 3, 2022  Raspberry Pi Pico Projects  
-https://youtu.be/rAGw-08IOSw  
-73K subscribers / 52,711 views  //   
   
   
 ----  
