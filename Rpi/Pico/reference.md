@@ -296,8 +296,9 @@ https://youtu.be/ND5UhTQlfWw
 6.06K subscribers / 4,815 views  //   
 	Start here to learn CircuitPython on a Raspberry Pi Pico or Pico W. We'll add CircuitPython to the Pico board, copy over the lib (library) files that we need to complete a series of assignments using a variety of sensors, motors, neopixels, and input devices. And we'll download the free Mu IDE so we can create, edit, and save CircuitPython programs.  
 	This playlist is used in Prof. Gallaugher's Physical Computing course. All teachers, students, and other independent learners are welcome to use this content. If you find it helpful, PLEASE let me know! You are also most welcome to share with others and use this material in your own courses. For more info, including parts lists, suggestions for faculty, and more, see:  
-	  https://gallaugher.com/physical-computing/  
   
+Physical Computing Teaching & Learning Resources    
+	  https://gallaugher.com/physical-computing/  
   
   
   
