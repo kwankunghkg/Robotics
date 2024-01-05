@@ -2,14 +2,14 @@
 BLOG_GitHub_RpiPico_reference_20220705.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Rpi/Pico/reference.md  
   
-last update : 20240106_0220(UTC+8)  
+last update : 20240106_0240(UTC+8)  
 prev update : 20221023_1713(UTC+8)  
 prev update : 20220918_1600(UTC+8)  
 prev update : 20220705_0608(UTC+8)  
   
 ----------------------------------------  
   
-## Rpi Pico & PicoW  INTRO  
+## Rpi Pico & PicoW - INTRO  
   
 ----------------------------------------  
   
@@ -231,7 +231,7 @@ Total: € 36.12 = HKD 280.47
   
 ----------------------------------------  
   
-## Rpi Pico & PicoW  DEMO  
+## Rpi Pico & PicoW - DEMO  
   
 ----------------------------------------  
   
@@ -306,6 +306,20 @@ https://youtu.be/hHQu4O9OnVo
 Raspberry Pi Pico W Telegram Bot CircuitPython 8.0.0-beta.2 Internet of Things IoT / Idrisz my /  Oct 15, 2022  
 https://youtu.be/Qfp911u12iU  
 887 subscribers / 2,146 views  //   
+  
+  
+Hosting And Accessing Websites from the Raspberry Pi Pico W / Print 'N Play /  Jul 7, 2022  Raspberry Pi Pico Power!  
+https://youtu.be/CA2Pb9zGp4Q  
+7.67K subscribers / 26,801 views  //   
+	@raspberrypi just released the new Wifi enabled version of the Raspberry Pi Pico! This tutorial will show you how to access websites from the Pico, and even host your own!  
+	Pico W Micropython Firmware :  
+	  https://micropython.org/download/RPI_PICO_W/  
+	Webhost:  
+	  https://github.com/printnplay/Pico-MicroPython/blob/main/Webhost%20Example%20Pico.py  
+	Webhost with SSD1306 Display :  
+	  https://github.com/printnplay/Pico-MicroPython/blob/main/WebHost%20with%20ssd1306%20Example%20Pico.py  
+	Note : You must add the SSD1306.py library to your Pico for the above example. You can find it here.  
+	  https://github.com/makerportal/rpi-pico-ssd1306  
   
   
   
