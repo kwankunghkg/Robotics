@@ -2,7 +2,7 @@
 BLOG_GitHub_RpiPico_reference_20220705.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Rpi/Pico/reference.md  
   
-last update : 20240106_0403(UTC+8)  
+last update : 20240106_0438(UTC+8)  
 prev update : 20221023_1713(UTC+8)  
 prev update : 20220918_1600(UTC+8)  
 prev update : 20220705_0608(UTC+8)  
@@ -300,31 +300,6 @@ https://youtu.be/rAGw-08IOSw
   
   
   
-----  
-  
-Creating a Wireless Network with Raspberry Pi Pico W: AP Mode Walkthrough (Part 1) / Shilleh /  Jul 15, 2023 / IoT  
-https://youtu.be/cZNoXXIEPbg  
-1.47K subscribers / 7,463 views  //  
-	Learn how to create your own WiFi network using the Raspberry Pi Pico W in AP Mode. Connect and send information to up to five devices with WiFi without the Internet! This can be used to host web servers that devices can access as long as the network is running, and can later be used to send information between Pico W's without access to the global Internet!  
-  Link to Blog Post :  
-    https://shillehtek.com/blogs/news/creating-a-wireless-network-with-raspberry-pi-pico-w-ap-mode-walkthrough-part-1  
-  Link to Code :  
-    https://github.com/shillehbean/youtube-channel/blob/main/ap_mode_part1.py  
-  
-  
-Creating a Wireless Network with Raspberry Pi Pico W: AP Mode Walkthrough (Part 2 - Static IP) / Shilleh /  Oct 22, 2023 / IoT  
-https://youtu.be/78sViOl9ZuM  
-1.47K subscribers / 992 views  //  
-	This is a quick followup to part 1 of this video where I show how to make the IP address static in AP mode. This can have use cases in server predictability, making accessing and managing your server easier.   
-  
-  
-How to Upload Data to AWS DynamoDB from the Raspberry Pi Pico W / Shilleh / Jan 2, 2024  
-https://youtu.be/bg-cZ4sA_bc  
-1.47K subscribers / 146 views  //  
-	Learn how to send data to AWS DynamoDB using MQTT with the Raspberry Pi Pico W. We will walk through the MicroPython code and the AWS configuration needed to send data to DynamboDB by using AWS IoT Core coupled with an AWS Lambda function to help us process our sensor data from the MPU6050 accelerometer on our Raspberry Pi Pico W. I will also show you how to view AWS logs in Cloud Watch and set IAM rules. If you are a beginner,  this video is great for you, as I break down this process step-by-step and teach you many important concepts in software development.   
-  
-  
-  
   
 ----  
   
@@ -536,6 +511,55 @@ Pi Pico / Lutz
   
   
 ----  
+  
+----  
+  
+Creating a Wireless Network with Raspberry Pi Pico W: AP Mode Walkthrough (Part 1) / Shilleh /  Jul 15, 2023 / IoT  
+https://youtu.be/cZNoXXIEPbg  
+1.47K subscribers / 7,463 views  //  
+	Learn how to create your own WiFi network using the Raspberry Pi Pico W in AP Mode. Connect and send information to up to five devices with WiFi without the Internet! This can be used to host web servers that devices can access as long as the network is running, and can later be used to send information between Pico W's without access to the global Internet!  
+  Link to Blog Post :  
+    https://shillehtek.com/blogs/news/creating-a-wireless-network-with-raspberry-pi-pico-w-ap-mode-walkthrough-part-1  
+  Link to Code :  
+    https://github.com/shillehbean/youtube-channel/blob/main/ap_mode_part1.py  
+  
+  
+Creating a Wireless Network with Raspberry Pi Pico W: AP Mode Walkthrough (Part 2 - Static IP) / Shilleh /  Oct 22, 2023 / IoT  
+https://youtu.be/78sViOl9ZuM  
+1.47K subscribers / 992 views  //  
+	This is a quick followup to part 1 of this video where I show how to make the IP address static in AP mode. This can have use cases in server predictability, making accessing and managing your server easier.   
+  
+  
+  
+----  
+  
+How to Upload Data to AWS DynamoDB from the Raspberry Pi Pico W / Shilleh / Jan 2, 2024  
+https://youtu.be/bg-cZ4sA_bc  
+1.47K subscribers / 146 views  //  
+	Learn how to send data to AWS DynamoDB using MQTT with the Raspberry Pi Pico W. We will walk through the MicroPython code and the AWS configuration needed to send data to DynamboDB by using AWS IoT Core coupled with an AWS Lambda function to help us process our sensor data from the MPU6050 accelerometer on our Raspberry Pi Pico W. I will also show you how to view AWS logs in Cloud Watch and set IAM rules. If you are a beginner,  this video is great for you, as I break down this process step-by-step and teach you many important concepts in software development.   
+  
+  
+----  
+  
+How To Set Up MQTT With Raspberry Pi Pico W | Guide For Beginners / Core Electronics / Mar 21, 2023  
+https://youtu.be/ybCMXqsQyDw  
+107K subscribers  23,474 views  
+	🔗 The full guide : https://core-electronics.com.au/guide...  
+	In this guide, we'll get a Raspberry Pi Pico W to send and receive data to the cloud using the MQTT protocol. By the end of this video, we'll be controlling real hardware over the cloud using a web-based dashboard ( Adafruit IO ).  
+	If you need help setting up WiFi on the Pico W head here:  
+	https://core-electronics.com.au/guide...  
+	If you're new to Raspberry Pi Pico and Thonny give this a read:  
+	https://core-electronics.com.au/guide...    
+  
+  
+  
+  
+  
+----  
+  
+  
+----  
+  
   
 Using Raspberry Pi Pico W with Telegram Bot  
   https://www.cytrontech.vn/tutorial/using-raspberry-pi-pico-w-with-telegram-bot  
