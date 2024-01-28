@@ -1,8 +1,8 @@
 BLOG_GitHub_WSPR_APRS_RTL-SDR_20240128.txt  
-    
+  https://github.com/kwankunghkg/Robotics/blob/main/RF/WSPR_APRS_RTL-SDR/ref.md  
   
-last update : 20240128_0953(UTC+8)  
-prev update : 20240128_0953(UTC+8)  
+last update : 20240128_0943(UTC+8)  
+prev update : 20240128_0943(UTC+8)  
   
 --------------------------------------------------  
   
