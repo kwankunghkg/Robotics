@@ -1,7 +1,7 @@
 BLOG_GitHub_WSPR_APRS_RTL-SDR_20240128.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/RF/WSPR_APRS_RTL-SDR/ref.md  
   
-last update : 20240128_0943(UTC+8)  
+last update : 20240130_1925(UTC+8)  
 prev update : 20240128_0943(UTC+8)  
   
 --------------------------------------------------  
@@ -15,9 +15,9 @@ prev update : 20240128_0943(UTC+8)
   
 ----  
   
-A Tutorial on Receiving WSPR with an RTL-SDR V3  
+A Tutorial on Receiving WSPR with an RTL-SDR V3 / January 27, 2017  
   https://www.rtl-sdr.com/a-tutorial-on-receiving-wspr-with-an-rtl-sdr-v3/  
-27 Jan 2017 — The RTL-SDR is an ultra cheap software defined radio based on DVB-T TV tuners with RTL2832U chips. The RTL-SDR can be used as a wide band radio ...  
+	The RTL-SDR is an ultra cheap software defined radio based on DVB-T TV tuners with RTL2832U chips. The RTL-SDR can be used as a wide band radio ...  
   
 RTL-SDR (RTL2832U) and software defined radio news and projects. Also featuring Airspy, HackRF, FCD, SDRplay and more.  
   
@@ -40,6 +40,27 @@ https://youtu.be/ezRv_bFqzFo
 	  https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/  
 	the used wsprd program:  
 	  https://github.com/Guenael/rtlsdr-wsprd  
+  
+  
+----  
+  
+Receiving WSPR with a Direct Sampling Modified RTL-SDR / June 11, 2016  
+  https://www.rtl-sdr.com/receiving-wspr-with-a-direct-sampling-modified-rtl-sdr/
+  
+QRPi – A Raspberry Pi QRP TX Shield Design  
+  https://rfsparkling.com/qrpi/  
+  
+RF transmitter for Raspberry Pi  
+  https://github.com/F5OEO/rpitx  
+	rpitx is a general radio frequency transmitter for Raspberry Pi which doesn't require any other hardware unless filter to avoid intererence. It can handle frequencies from 5 KHz up to 1500 MHz.  
+  
+  
+  
+----  
+  
+Raspberry Pi WSPR transmitter using NTP based frequency calibration  
+  https://github.com/JamesP6000/WsprryPi  
+  
   
   
 ----  
@@ -111,12 +132,8 @@ WSPR (pronounced "whisper") is an acronym for Weak Signal Propagation Reporter.
   https://www.sigidwiki.com/wiki/WSPR  
   
   
-wspr tracker map  
+WSPR tracker map  
   https://www.wsprnet.org/drupal/wsprnet/map  
-  
-  
-Raspberry Pi WSPR transmitter using NTP based frequency calibration  
-  https://github.com/JamesP6000/WsprryPi  
   
   
   
@@ -146,6 +163,8 @@ LightAPRS-W 2.0 is an affordable, smallest, lightest, powerful and open source A
   
   
 ----  
+  
+  
   
   
   
