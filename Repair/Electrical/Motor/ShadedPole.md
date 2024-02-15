@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_MotorShadedPole_20240215.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Motor/ShadedPole.md  
   
-last update : 20240215_1918(UTC+8)  
+last update : 20240215_1925(UTC+8)  
 prev update : 20240215_1918(UTC+8)  
   
 --------------------------------------------------  
@@ -16,6 +16,8 @@ shaded pole motor
 Basic principles of Shaded Pole Motor  
   https://www.johnsonelectric.com/en/resources-for-engineers/shaded-pole-motors/shaded-pole-motors-basics  
   
+  
+==>>  need to specify correct rotational direction <<==  
   
   
 ----  
