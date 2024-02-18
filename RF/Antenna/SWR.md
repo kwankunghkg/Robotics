@@ -15,6 +15,9 @@ prev update : 20240218_1728(UTC+8)
   
 --------------------------------------------------  
   
+  https://en.wikipedia.org/wiki/Antenna_(radio)  
+  
+  
 why antenna length is lambda / 4  
   https://www.quora.com/Why-is-the-height-of-an-antenna-always-taken-to-be-lambda-divided-by-4  
 	It is 1/4 wave because the field is strongest at 1/4 of the wave in a sinusoidal signal. The peaks occur at 1/4 and 3/4, in opposite polarity. So the 1/4 is the optimal length for peak signal.  
