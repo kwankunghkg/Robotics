@@ -1,8 +1,8 @@
   
 BLOG_GitHub_RF_AntennaSWR_20240218.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/RF/Antenna/SWR.md  
-  
-last update : 20240218_1728(UTC+8)  
+    
+last update : 20240218_1740(UTC+8)  
 prev update : 20240218_1728(UTC+8)  
   
 --------------------------------------------------  
@@ -89,7 +89,8 @@ https://youtu.be/qSea5FjcTDE
 	The video describes how to connect the SWR meter into the feeder and then how to use it making sure that no undue interference is caused.    
 	The video also describes the various points where SWR meters can be sued and their advantages and disadvantages. It also describes how to use the SWR meter when an ATU is present.  
 	Another interesting points is the feeder loss and know how this affects the SWR readings. High feeder loss can make an antenna with a high SWR look much better, so it gives guidance on this. The video also gives a few useful bonus tips on how to use the SWR meter as well.  
-	More information can be found here: https://www.electronics-notes.com/art...  
+	More information can be found here: 
+	  https://www.electronics-notes.com/articles/antennas-propagation/vswr-return-loss/how-to-use-vswr-meter.php  
   
   
   
