@@ -2,7 +2,8 @@
 BLOG_GitHub_RF_AntennaSWR_20240218.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/RF/Antenna/SWR.md  
     
-last update : 20240219_1109(UTC+8)  
+last update : 20240219_1216(UTC+8)  
+prev update : 20240219_1109(UTC+8)  
 prev update : 20240219_1059(UTC+8)  
 prev update : 20240218_1728(UTC+8)  
   
@@ -19,6 +20,8 @@ prev update : 20240218_1728(UTC+8)
   https://en.wikipedia.org/wiki/Antenna_(radio)  
   https://en.wikipedia.org/wiki/Transmission_line  
   https://en.wikipedia.org/wiki/Waveguide  
+  https://en.wikipedia.org/wiki/Coaxial_cable  
+  
   
   
 why antenna length is lambda / 4  
