@@ -2,7 +2,7 @@
 BLOG_GitHub_RF_AntennaSWR_20240218.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/RF/Antenna/SWR.md  
     
-last update : 20240218_1740(UTC+8)  
+last update : 20240219_1059(UTC+8)  
 prev update : 20240218_1728(UTC+8)  
   
 --------------------------------------------------  
@@ -36,6 +36,8 @@ A too simple answer
 ----  
   
 SWR - Standing Wave Ratio  
+  https://en.wikipedia.org/wiki/Standing_wave_ratio  
+  
   https://www.wearecb.com/what-is-swr.html  
   
   
