@@ -13,17 +13,18 @@ prev update : 20240218_1728(UTC+8)
   
 --------------------------------------------------  
   
-### Antenna Length  
-  
---------------------------------------------------  
-  
   https://en.wikipedia.org/wiki/Antenna_(radio)  
   https://en.wikipedia.org/wiki/Transmission_line  
   https://en.wikipedia.org/wiki/Waveguide  
   https://en.wikipedia.org/wiki/Coaxial_cable  
   
   
+  
 --------------------------------------------------  
+  
+### Antenna Length  
+  
+----  
   
 why antenna length is lambda / 4  
   https://www.quora.com/Why-is-the-height-of-an-antenna-always-taken-to-be-lambda-divided-by-4  
