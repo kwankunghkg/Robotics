@@ -23,6 +23,7 @@ prev update : 20240218_1728(UTC+8)
   https://en.wikipedia.org/wiki/Coaxial_cable  
   
   
+--------------------------------------------------  
   
 why antenna length is lambda / 4  
   https://www.quora.com/Why-is-the-height-of-an-antenna-always-taken-to-be-lambda-divided-by-4  
@@ -35,7 +36,7 @@ A too simple answer
   
   
   
-----  
+--------------------------------------------------  
   
 ### Antenna SWR  
   
