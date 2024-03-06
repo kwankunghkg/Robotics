@@ -116,6 +116,34 @@ https://i-item.jd.com/10089427383420.html
 ----  
   
   
+Single Phase AC Motors / ISCA University /  Aug 3, 2020 / Motor Controls and Systems  
+  https://youtu.be/NlFfzrMBNKI  
+6.36K subscribers / 38,739 views  //  
+	Single Phase AC Motors  
+	In this video, we dive into single-phase AC motors over the motor and control series. We briefly cover AC motors, such as the split-phase motor, shaded pole motor, split-phase capacitor motor, and universal motor.  
+  
+  
+----  
+  
+Slip ring Induction Motor, How it works? / Lesics / Sep 18, 2018 / Electrical Machines  
+  https://youtu.be/JPn5Ou-N0b0  
+  6.61M subscribers / 2,164,560 views  //  
+	Induction motors have been ruling the industrial world for many decades. In the induction motors used in lift and hoists, you will see a type of rotor called a slip ring rotor, whereas in most of the other applications you will see a simpler, squirrel cage type of rotor. Why are there two different designs of rotor construction for induction motors? We will explore this in the video.  
+  
+  
+  
+  
+----  
+  
+  
+  
+----  
+  
+  
+  
+----  
+  
+  
   
 ----  
   
