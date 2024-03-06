@@ -2,7 +2,8 @@
 BLOG_GitHub_Repair_MotorShadedPole_20240215.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Motor/ShadedPole.md  
   
-last update : 20240215_1925(UTC+8)  
+last update : 20240306_2246(UTC+8)  
+prev update : 20240215_1925(UTC+8)  
 prev update : 20240215_1918(UTC+8)  
   
 --------------------------------------------------  
@@ -12,9 +13,35 @@ prev update : 20240215_1918(UTC+8)
 --------------------------------------------------  
   
 shaded pole motor   
+  https://en.wikipedia.org/wiki/Shaded-pole_motor  
   
 Basic principles of Shaded Pole Motor  
   https://www.johnsonelectric.com/en/resources-for-engineers/shaded-pole-motors/shaded-pole-motors-basics  
+  
+  
+Shaded pole motor operation. / Basic Electrical Learning / Aug 15, 2021  
+  https://youtu.be/oTdnLflkdVY  
+3.92K subscribers / 11,545 views  //  
+  
+  
+Shaded pole motor | Simulation + Explanation / Adhithya / Jun 1, 2022  
+  https://youtu.be/7TWkr1r-wnw  
+38 subscribers / 2,942 views  //  
+.   
+  
+  
+Shaded Pole Motor / Roddy Mc Namee / Apr 17, 2013  
+  https://youtu.be/MyEnwJ1Lazg  
+10.8K subscribers / 101,219 views  //  
+	A brief description of how the shaded pole motor works.  
+  
+  
+How does the shaded pole motor work / grayfurnaceman / Apr 21, 2012 / Electric motors and transformers  
+  https://youtu.be/wHhhj8IHq5c  
+156K subscribers / 138,492 views  //  
+	An explanation of how shaded pole motors operate.  Brushless induction motor basics.  Troubleshoot of the motor is included.  How to reverse this motor.  
+	This video is part of the heating and cooling series of training videos made to accompany my websites: www.graycoolingman.com and www.grayfurnaceman.com to pass on what I have learned in many years of service and repair. If you have suggestions or comments they are welcome.   
+	If you are a homeowner looking to repair your own appliance, understand that the voltages can be lethal, the fuels are highly flammable and high pressures are used.  Know your limits.   
   
   
 ==>>  need to specify correct rotational direction <<==  
@@ -42,13 +69,13 @@ yj58-12罩极异步电动机暖风机热风机电机电暖风风扇取暖器小�
 ----  
   
 yj58-12罩极异步电动机暖风机热风机电机电暖风风扇取暖器小马达 YJ5812螺纹轴 17mm顺时针 / ￥26.90 降价通知  
- https://i-item.jd.com/10075484607969.html  
+https://i-item.jd.com/10075484607969.html  
   
   
 ----  
   
 220V罩极异步电动机交流马达换气扇暖风机电机J58-12 YJ5812电机 / ¥26 约HKD $28.36  
- https://www.taobao.com/list/item/587925732195.htm  
+https://www.taobao.com/list/item/587925732195.htm  
   
   
   
@@ -56,7 +83,7 @@ yj58-12罩极异步电动机暖风机热风机电机电暖风风扇取暖器小�
 ----  
   
 定制YJ58-12/16/20罩极异步电机线圈220v热风暖风机灭蚊灯排风换气扇 5812顺时针旋转10瓦螺纹杆 /  派森金属加工专营店 / ￥18.80 降价通知  
- https://i-item.jd.com/10089427383420.html  
+https://i-item.jd.com/10089427383420.html  
 	此款YJ58-12电机为220伏交流电机，若要求不严可以做为58-16和58-20的替代品，它们的区别在于硅钢层厚度不同，功率和转速上有些差别。其他都差不多。轴心螺杆直径为4mm,可以用M4螺母固定。多用于暖风机，电子灭蚊器等产品的维修或者自己DIY。因受库房等环境因素影响，可能电机有些许灰尘或绣迹这属于正常现象。轴上的横销可以取下来的。10瓦的转速2000转/分的样子，15瓦的2400转/分的样子，电机，经久耐用，欢迎选购。  
   
 ----  
