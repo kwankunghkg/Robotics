@@ -2,7 +2,8 @@
 BLOG_GitHub_Repair_MotorShadedPole_20240215.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Motor/ShadedPole.md  
   
-last update : 20240306_2312(UTC+8)  
+last update : 20240306_2341(UTC+8)  
+prev update : 20240306_1046(UTC+8)  
 prev update : 20240215_1925(UTC+8)  
 prev update : 20240215_1918(UTC+8)  
   
@@ -123,6 +124,16 @@ Single Phase AC Motors / ISCA University /  Aug 3, 2020 / Motor Controls and Sys
 	In this video, we dive into single-phase AC motors over the motor and control series. We briefly cover AC motors, such as the split-phase motor, shaded pole motor, split-phase capacitor motor, and universal motor.  
   
   
+----  
+  
+  
+Introduction To Motors Series (for Beginners) / Jeremy Fielding  
+5 videos 240,276 views Last updated on Dec 18, 2018  
+  https://www.youtube.com/playlist?list=PL4njCTv7IRbw82wJBDt3empXSMzYa7sUB  
+  
+  
+  
+  
   
 How Motors Work For Beginners: (Episode 4) Single Phase Induction and Shaded Pole Motors: 035 / Jeremy Fielding / Jul 22, 2017 / Introduction To Motors Series (for Beginners)  
   https://youtu.be/2XYdTogWcIA  
@@ -134,6 +145,24 @@ How Motors Work For Beginners (Episode 1): The DC Motor: 032 / Jeremy Fielding /
   https://youtu.be/onjFFoOC_yk  
 921K subscribers / 2,542,873 views  //  
 	I explain how the DC motor works in a simply and patient way. I use several experiments that you can copy at home. Then I show a Treadmill DC motor cut open and working so we can see the moving parts!   
+  
+  
+How Motors Work for Beginners (Episode 2): The Generator and Universal Motor: 033 / Jeremy Fielding /  Jul 6, 2017 / Introduction To Motors Series (for Beginners)  
+  https://youtu.be/uf2mI9pYcPg  
+921K subscribers / 526,733 views  //  
+	How the DC generator, and Universal Motor Works... a continuation of the "How motors Work" series.   
+  
+  
+How Motors Work for Beginners (Episode 3); Three Phase Induction Motors: 034 / Jeremy Fielding / Jul 12, 2017 / Introduction To Motors Series (for Beginners)  
+  https://youtu.be/TumJjfcVVuo  
+921K subscribers / 664,912 views  //  
+	I explain three phase power, three phase motors, and compare three phase with single phase motors... a continuation of the "How motors Work for beginners" series.   
+  
+  
+How Motors Work (Episode 5) Question and Answer Session: 040 / Jeremy Fielding / Aug 21, 2017 / Introduction To Motors Series (for Beginners)  
+  https://youtu.be/mrHXz7mw2K8  
+921K subscribers / 69,220 views  //  
+	Answering common Questions about how motors work from my Beginner Series.  
   
   
   
