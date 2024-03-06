@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_MotorShadedPole_20240215.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Motor/ShadedPole.md  
   
-last update : 20240306_2246(UTC+8)  
+last update : 20240306_2312(UTC+8)  
 prev update : 20240215_1925(UTC+8)  
 prev update : 20240215_1918(UTC+8)  
   
@@ -121,6 +121,15 @@ Single Phase AC Motors / ISCA University /  Aug 3, 2020 / Motor Controls and Sys
 6.36K subscribers / 38,739 views  //  
 	Single Phase AC Motors  
 	In this video, we dive into single-phase AC motors over the motor and control series. We briefly cover AC motors, such as the split-phase motor, shaded pole motor, split-phase capacitor motor, and universal motor.  
+  
+  
+  
+How Motors Work For Beginners: (Episode 4) Single Phase Induction and Shaded Pole Motors: 035 / Jeremy Fielding /  Jul 22, 2017 / Introduction To Motors Series (for Beginners)  
+  https://youtu.be/2XYdTogWcIA  
+921K subscribers / 725,308 views  //  
+I explain how single phase motors work, the unique function of the shaded pole motor work, what the starter winding does, and capacitors for these motors.  
+  
+  
   
   
 ----  
