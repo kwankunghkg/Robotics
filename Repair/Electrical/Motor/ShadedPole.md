@@ -124,11 +124,16 @@ Single Phase AC Motors / ISCA University /  Aug 3, 2020 / Motor Controls and Sys
   
   
   
-How Motors Work For Beginners: (Episode 4) Single Phase Induction and Shaded Pole Motors: 035 / Jeremy Fielding /  Jul 22, 2017 / Introduction To Motors Series (for Beginners)  
+How Motors Work For Beginners: (Episode 4) Single Phase Induction and Shaded Pole Motors: 035 / Jeremy Fielding / Jul 22, 2017 / Introduction To Motors Series (for Beginners)  
   https://youtu.be/2XYdTogWcIA  
 921K subscribers / 725,308 views  //  
-I explain how single phase motors work, the unique function of the shaded pole motor work, what the starter winding does, and capacitors for these motors.  
+	I explain how single phase motors work, the unique function of the shaded pole motor work, what the starter winding does, and capacitors for these motors.  
   
+  
+How Motors Work For Beginners (Episode 1): The DC Motor: 032 / Jeremy Fielding / Jun 27, 2017 / Engineering Principles Every Maker Should Know  
+  https://youtu.be/onjFFoOC_yk  
+921K subscribers / 2,542,873 views  //  
+	I explain how the DC motor works in a simply and patient way. I use several experiments that you can copy at home. Then I show a Treadmill DC motor cut open and working so we can see the moving parts!   
   
   
   
