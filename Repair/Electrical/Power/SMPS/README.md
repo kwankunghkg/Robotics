@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Power_SMPS_20240312.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Power/SMPS/README.md  
   
-last update : 20240312_0316(UTC+8)  
+last update : 20240312_0352(UTC+8)  
 prev update : 20240312_0316(UTC+8)  
   
 --------------------------------------------------  
