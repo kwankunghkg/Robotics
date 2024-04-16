@@ -8,8 +8,11 @@
 LiquidCrystal_I2C lcd(0x27,16,2);  // set the LCD address to 0x27 for a 16 chars and 2 line display NXP PCF8574T
 // LiquidCrystal_I2C lcd(0x3F,16,2);  // set the LCD address to 0x3F for a 16 chars and 2 line display NXP PCF8574AT (MH)
 
-int analogInPin = A0;   // potentiometer connected to analog pin 3
+int PWMoutPin1  =  5;   // 3, 5, 6, 9, 10, 11 / 490 Hz (pins 5 and 6: 980 Hz) 
+int PWMoutPin2  = 11;   // 3, 5, 6, 9, 10, 11 / 490 Hz (pins 5 and 6: 980 Hz) 
+int analogInPin = A0;   // potentiometer connected to analog pin 
 int pot = 0;            // variable to store the analog read value
+int pwm = 0;            // variable 
 char display_string[16] = ""; //  Buffer for 16 character width
   
 void setup()
@@ -28,7 +31,10 @@ void loop()
 {
   pot = analogRead(analogInPin);  // read the input pin
   Serial.println(pot);
-  analogWrite(LED_BUILTIN, pot / 4); // analogRead values go from 0 to 1023, analogWrite values from 0 to 255
+  pwm = (pot / 4);
+  analogWrite(LED_BUILTIN, pwm); // analogRead values go from 0 to 1023, analogWrite values from 0 to 255
+  analogWrite(PWMoutPin1,  pwm); // analogRead values go from 0 to 1023, analogWrite values from 0 to 255
+  analogWrite(PWMoutPin2,  pwm); // analogRead values go from 0 to 1023, analogWrite values from 0 to 255
 
   // set the cursor to column 0, line 0
   // (note: line 1 is the second row, since counting begins with 0):
