@@ -10,7 +10,7 @@ LiquidCrystal_I2C lcd(0x27,16,2);  // set the LCD address to 0x27 for a 16 chars
 
 int analogInPin = A0;   // potentiometer connected to analog pin 3
 int pot = 0;            // variable to store the analog read value
-char display_string[16] = ""; //  Buffer for 40 character width
+char display_string[16] = ""; //  Buffer for 16 character width
   
 void setup()
 {
