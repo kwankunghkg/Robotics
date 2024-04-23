@@ -1,0 +1,284 @@
+  
+BLOG_GitHub_Repair_ElectricFan_Ionizer_Mist_20240423.txt  
+  https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Fan/Ionizer_Mist.md  
+  
+last update : 20240423_1233(UTC+8)  
+prev update : 20240423_1233(UTC+8)  
+  
+--------------------------------------------------  
+  
+## Repair - ElectricFan - Ionizer & Mist  
+  
+--------------------------------------------------  
+  
+  
+----------------------------------------  
+  
+Cellini (Italy) AC/DC Rechargeable UltraSonic Mist Fan with Ionizer  
+  
+  
+----  
+  
+  
+Rechargeable Mist Fan With Ionizer - SF-3218 / SF-3218A / SF-3218B / Sun Fat (Holding) Co. Ltd.    
+  https://www.sunfat.com.hk/en/products/product/95?back=%2Fen%2Fproducts%2Fcategory%2F9%2F    
+	 Battery Type : Rechargeable & Replaceable Sealed Lead Acid Battery 12V/7.7Ah(SF-3218/SF-3218B)  
+  
+新佳冷风机电风扇家用负离子加湿遥控定时静音移动充电制冷空调扇 / SUNCA新佳电器直销店 20240325 / ¥499 券后¥479 券后约 HKD 520    
+  https://item.taobao.com/item.htm?id=679306317427  
+  
+  
+  
+  
+----  
+  
+775电机 795电机 895电机    
+  
+775电机和795电机都是一种常见的直流无刷电机，它们的主要区别在于尺寸和性能。 尺寸：775电机直径为7.75英寸，长度为7.5英寸，而795电机直径为7.95英寸，长度为9.5英寸。 因此，795电机比775电机更长，但直径更大。 性能：由于795电机比775电机更长，因此它通常具有更高的扭矩和功率。  
+  
+  
+尺寸 ...  
+   
+550/555/775/795/895直流滚珠电机大功率马达12-24V电钻锯切割磨 / 尚尚模型商城  
+  https://item.taobao.com/item.htm?id=578189122409  
+  
+775 motor 12V 0.9A-3.3A 8000rpm    
+  
+795电机775马达895微型直流电动机电动工具高速大扭力功率12v24v / 巴贝克旗舰店 / ¥17.38 折后¥15.58 券后约 HKD 16.89  
+  https://detail.tmall.com/item.htm?id=610185717471  
+  
+  
+775 motor high torque low RPM 12V 3150rpm    
+  
+775电机大扭力大功率发电机双滚珠轴承直流12-48V高速马达 / 立华电子 湖南怀化 / 优惠促销¥11.8 约 HKD 12.79  
+  https://item.taobao.com/item.htm?id=754000094235  
+  
+  
+  
+----  
+  
+MCU / PADAUK Tech PMC234-S24 / 4KB 208Byte OTP 2.2V~5.5V RISC SOP-24-300mil Microcontroller Units (MCUs/MPUs/SOCs) ROHS    
+  https://www.lcsc.com/product-detail/PADAUK_PADAUK-Tech-PMC234-S24_C317600.html  
+datasheet / 12-bit ADC Enhanced Field Programmable Processor Array (FPPA TM ) 8-bit Controller  
+  https://www.lcsc.com/datasheet/lcsc_datasheet_1811060907_PADAUK-Tech-PMC234-S24_C317600.pdf  
+  
+  
+7-Segment LED Display, Key Matrix Input / Renesas Electronics  
+  https://www.renesas.com/us/en/document/apn/7-segment-led-display-key-matrix-input  
+	This document describes a program for 7-segment LED display (dynamic lighting) and key matrix and input.  
+  
+arduino mcu scan key 7 segment display  
+  
+Interfacing 4x4 keypad with 4 digit 7 segment   
+  https://forum.arduino.cc/t/interfacing-4x4-keypad-with-4-digit-7-segment/561412  
+  
+7-Segment LED Display 2 digits pinout  
+  
+  
+  
+U1 PMC234-S24 MCU  
++++++ ----------------------------------------  
+P1 7seg_2.Q(BJT.base)  
+P2 LED.timer.Q + 7seg.Q  
+P3 Button Power ON					BUTTON.ON/OFF  
+P4 7seg_a + LED.fast + 				BUTTON speed  
+P5 7seg_b + LED.mid	+				BUTTON.timer   
+P6 7seg_c + LED.low +				Button Swing  
+P7 GND  
+P8 7seg_e + Button Ionizer			BUTTON.Ionizer   
+P9 7seg_d + LED.cool + 				BUTTON cool  
+P10 7seg_f + LED.timer  
+P11 7seg_g   
+P12 7seg_dot  
+  
+P13 Remote IR 						Input  
+P14 Water (R11)						I  
+P15 Speed.Q					Q(BJT.base)  
+P16 Swing.Q					Q  
+P17 Mist Cool.Q				Q  
+P18 VDD +5V  
+P19 Ionizer.Q				Q  
+P20 pull.GND  
+P21 Temp Detect						I  
+P22 buzzer.Q				Q  
+P23 BATTERY_AC_SOIC8pin2			I  
+P24 7seg_1.Q  
++++++ ----------------------------------------  
+  
+LED.Swing 					Swing.Q  
+LED.Ionizer					Ionizer.Q  
+  
+----------------------------------------  
+  
+  
+SOT-89 7550-1 High Driver Regulator LDO  IC  
+  
+power regulator 7550-1  pinout  
+Pin1 / Pin2 / Pin3 / TAB -> PIN1：GND / PIN 2：Vin / PIN 3：Vout / TAB:Vin  
+  
+HOLTEK HT75XX-1 100mA Low Power LDO  
+  http://www.e-ele.net/DataSheet/HT75XX-1.pdf  
+  
+HT7550-1 0.1A 5V Low Dropout Voltage Regulator IC LDO SOT-89   
+  https://www.ebay.com/itm/201414989833  
+HT7550A-1 SOT-89 HT7550 7550-1 High Driver Regulator LDO Chip IC  
+  https://www.ebay.com/itm/303537299909  
+  
+  
+----  
+  
+78L08 Regulator LDO  IC SOT-89  
+  https://www.mouser.hk/datasheet/2/294/NJRCS03960_1-2522232.pdf  
+TI UA78L Series Positive-Voltage Linear Regulators  
+  https://www.ti.com/lit/ds/symlink/ua78l.pdf  
+78L08 pinout  
+Pin1 / Pin2 / Pin3 / PIN1：Vout / PIN 2：GND / PIN 3：Vin   
+    
+  
+----  
+  
+  
+Microchip LP2951-02YM, Voltage Regulator 100mA 8-Pin, SOIC  
+  
+  
+  
+  
+  
+----  
+  
+SOT-223    
+  https://en.wikipedia.org/wiki/Small-outline_transistor  
+    
+  
+----  
+  
+ON semi / NCV4269A / 5.0 V, 3.3 V Micropower 150 mA LDO Linear Regulator with DELAY, Adjustable RESET, and Sense Output /   
+  https://docs.rs-online.com/3068/0900766b812e6541.pdf  
+  
+onsemi, LM2594DADJR2G Switching Regulator, 1-Channel 500mA Adjustable 8-Pin, SOIC  
+LM2594 0.5 A, Step-Down Switching Regulator  
+  https://docs.rs-online.com/17cf/0900766b814f37a9.pdf  
+  
+  
+  
+  
+  
+  
+----  
+  
+ultrasonic moisture mist generator / 通用型加湿器雾化片换能片16/20/25mm压电陶瓷片超声波振荡器配件 / 力拓家电配件销售 / ¥6.8 约 HKD 7.38   
+  https://item.taobao.com/item.htm?id=666800750112  
+  
+  
+----  
+  
+rice cooker temperature sensor / 电饭煲锅底传感器底部温控探头电饭锅磁钢保险丝熔断器配件 / 力拓家电配件销售 / ¥6.8起 约 HKD 7.38起  
+  https://item.taobao.com/item.htm?id=687793381519  
+  
+  
+----  
+  
+20240325 /  
+20240325 /  
+20240325 /  
+20240325 /  
+  
+大功率万能空调扇维修板通用冷风扇主板电路板控制板万能板遥控器 / 全球通电子科技 20240325 / ¥12起 约 HKD 13.03起  
+  https://item.taobao.com/item.htm?id=624466773302  
+  
+  
+万能空调扇维修板通用冷风扇主板电路板控制板能板遥控器一整套 / 力拓家电配件销售 20240325 / ¥15 约 HKD 16.29  
+  https://item.taobao.com/item.htm?id=642324017718  
+  
+  
+***** electric fan controller air-con controller / 电制冷风扇万能板 主板维修板通用空调扇万能改装板电脑板配件 / 力拓家电配件销售 / ¥19 约 HKD 20.63  
+  https://item.taobao.com/item.htm?id=701704744445  
+  
+  
+  
+原装配件美的IH智能电压力锅MY-HT5077P触摸板控制板 显示板灯板 / 美 九 苏等家电配件中心 20240325 / ¥43 约 HKD 46.7  
+  https://item.taobao.com/item.htm?id=717003950603  
+  
+  
+原装美的电压力锅线路板MY-QS50A9显示板 触摸板 控制板 灯板配件 / 美 九 苏等家电配件中心 20240325 / ¥25 约 HKD 27.15  
+  https://item.taobao.com/item.htm?id=716657970093  
+  
+  
+kitchen oilly air sucking suction 抽油煙機 / Cooker hood / Kitchen Range Hoods / 抽吸油烟机开关板电路主板配件电脑板控制板触摸感应电源板线路板 / 鑫丰厨电配件 20240325 / ¥21.9起 约 HKD 23.78起  
+  https://item.taobao.com/item.htm?id=640404306463  
+	品名：烟机电源主板    
+	颜色分类：  
+		米白色,乳白色,白,银色,浅灰色,灰色,深灰色,黑色,浅紫色,紫红色,桔红色,荧光黄,蓝色,玫红色,藕色,卡其色,姜黄色,明黄色,杏色,柠檬黄,墨绿色,翠绿色,紫色,紫罗兰,深紫色,栗色,浅棕色,深棕色,驼色,褐色,巧克力色,深卡其布色,粉红色,香槟色,金色,黄色,咖啡色,浅黄色,白色,红色,绿色,军绿色,孔雀蓝,宝蓝色,浅蓝色,湖蓝色,藏青色,粉,天蓝色,西瓜红,酒红色,深蓝色,桔色,透明,青色,荧光绿,浅绿色,  
+		1号：TD-DY06-1.1 天道 5针,  
+		2号：TD-DY06-1.1 天道 6针,  
+		3号：TD-DY02 天道 3针,  
+		4号：TD-DY04B 天道 3针,  
+		5号：XS-GH-GPB01冠安 5针,  
+		6号：XS-GH-GPB0 冠安 6针,  
+		7号：XH-GP-GPA07冠安 3针,  
+		8号：WMDY01 无铭 3针,  
+		9号：WM无铭 三速除油,  
+		10号：美知MZ 58# 双抽单速/2速,  
+		11号：美知MZ 97# 双抽单速清洗,  
+		18号：美知MZ 88# 7针 三速除油,  
+		14号：美知147# 三速除油 CR,  
+		22号：美知MZ 3针 CM,  
+		23号：美知MZ 3针 CL,  
+		12号：PY-P06 品研 6针,  
+		13号：PY-P03Z品研 3针,  
+		15号：PY-P03Z-EMC品研3针,  
+		16号：PY-P08R-V03 品研四速除油,  
+		17号：PY-P13品研 三速除油,  
+		19号：ANSUN 双电机单速 /2速,  
+		20号：ANSUN 双抽单速清洗 /3速,  
+		21号：WM无铭双双直流,  
+		24号：2M/2S 5针,  
+		35号：誉腾YT 3针,  
+		36号：誉腾YT 三速除油语音,  
+		37号：誉腾YT 三速除油大板,  
+		38号：誉腾YT 双双直流升降,  
+		33号：特力Teli T100,  
+		32号：特力R100 7针,  
+		34号：特力i S100 无升降,  
+		25号：双梵SF A15X,  
+		26号：浩熙HX 小智款,  
+		27号：浩熙HX四速除油烟感,  
+		28号：优点YD 双双直流升降,  
+		29号：优点YD低频 3针,  
+		30号：优点YD 低频 3针,  
+		31号：优点YD 三速除油,  
+		39号：邦超BC 三速除油,  
+		40号：邦超BC 三速除油语音,  
+		41号：邦超BC四速除油烟感,  
+		42号：邦超BC9速除油烟感,  
+		43号：邦超BC四速除油,  
+		44号：邦超BC光波除油款,  
+		45号：SHARD 萨尔德三速除油,  
+		46号：SHARD 萨尔德三速除油,  
+		47号：SHARD 萨尔德四速除油,  
+		48号：SHARD 萨尔德双双直流升降  
+  
+  
+kettle water boiler power ring / 适用半球电热水壸配件烧水壶上下温控器开关耦合器通用型包邮 / 力拓家电配件销售 / ¥4.4 约 HKD 4.78  
+  https://item.taobao.com/item.htm?id=694514706774  
+  
+  
+  
+----  
+  
+  
+  
+----  
+  
+  
+  
+----  
+  
+  
+  
+----  
+  
+  
+  
+----  
+End of File.  
