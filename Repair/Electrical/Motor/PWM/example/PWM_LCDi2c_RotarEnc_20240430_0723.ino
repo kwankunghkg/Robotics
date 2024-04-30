@@ -1,5 +1,3 @@
-//Compatible with the Arduino IDE 1.0
-//Library version:1.1
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
@@ -83,16 +81,18 @@ void setup() {
   Serial.begin(115200);            // open the serial port 
   //Serial.begin(9600);            // lower bit rate more serious problem in interrupt/timer 
 #endif  
-  delay(1000);
+  //delay(1000);
 #ifdef LCD_I2C_ENABLE
   lcd.init();                      // initialize the lcd
   lcd.backlight();
-  delay(1000);
+  //delay(1000);
+  lcd.begin(16, 2);
+  //delay(1000);
   lcd.clear();                     // 
   // Print a message to the LCD.
   lcd.print("Hello, world!");
-#endif
   delay(1000);
+#endif
 
   //pinMode(LED_BUILTIN, OUTPUT);  // sets the pin as output
   pinMode(pwmOut, OUTPUT);
@@ -135,11 +135,15 @@ void loop()
   interruptTime = millis();            // testing
 
 #ifdef TEST_ENABLE  
-  if ( lastLoopTime - millis() > 100) { // testing
-    pot+=virtualPosition; // self test 
-    if (pot >= 1024) pot=0;
-    if (pot <     0) pot=1023;
-    lastLoopTime  = millis();           
+  if (pressed == true) {
+    pot = analogRead(analogInPin);  // read the input pin
+  } else {
+    if ( lastLoopTime - millis() > 100) { // testing
+      pot+=virtualPosition; // self test 
+      if (pot >= 1024) pot=0;
+      if (pot <     0) pot=1023;
+      lastLoopTime  = millis();           
+    }
   }
 #else
   pot = analogRead(analogInPin);  // read the input pin
