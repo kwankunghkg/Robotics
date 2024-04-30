@@ -83,15 +83,16 @@ void setup() {
   Serial.begin(115200);            // open the serial port 
   //Serial.begin(9600);            // lower bit rate more serious problem in interrupt/timer 
 #endif  
-  delay(100);
+  delay(1000);
 #ifdef LCD_I2C_ENABLE
   lcd.init();                      // initialize the lcd
-  // Print a message to the LCD.
   lcd.backlight();
+  delay(1000);
   lcd.clear();                     // 
-  // lcd.print("Hello, world!");
+  // Print a message to the LCD.
+  lcd.print("Hello, world!");
 #endif
-  delay(100);
+  delay(1000);
 
   //pinMode(LED_BUILTIN, OUTPUT);  // sets the pin as output
   pinMode(pwmOut, OUTPUT);
@@ -134,7 +135,7 @@ void loop()
   interruptTime = millis();            // testing
 
 #ifdef TEST_ENABLE  
-  if ( lastLoopTime - millis() > 10) { // testing
+  if ( lastLoopTime - millis() > 100) { // testing
     pot+=virtualPosition; // self test 
     if (pot >= 1024) pot=0;
     if (pot <     0) pot=1023;
@@ -182,6 +183,13 @@ void loop()
   lcd.print(" K:");
   sprintf(display_string,"%d      ", virtualPosition);
   lcd.print( display_string );
+  lcd.setCursor(15, 0); // (column, line)
+  if (pressed == true) {
+    lcd.print("P");
+  } else {
+    lcd.print(" ");
+  }
+
   // set the cursor to column 0, line 1
   lcd.setCursor(0, 1);
   lcd.print("VR/PWM ");
