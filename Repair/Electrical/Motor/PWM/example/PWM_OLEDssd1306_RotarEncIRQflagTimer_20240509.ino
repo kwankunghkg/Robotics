@@ -1,4 +1,4 @@
-//#define TEST_ENABLE  
+#define TEST_ENABLE  
 #define SERIAL_MONITOR_OFF
 #define PWM32k_ENABLE  
 #define TIMER1_ENABLE  
@@ -23,19 +23,20 @@
 //   timer0 = Pins 5, 6
 //   timer1 = Pins 9, 10
 //   timer2 = Pins 11, 3
-const int PWMoutPin0  =  5; // 3, 5, 6, 9, 10, 11 / 490 Hz (pins 5 and 6: 980 Hz) 
-const int PWMoutPin1  = 10; // 3, 5, 6, 9, 10, 11 / 490 Hz (pins 5 and 6: 980 Hz) 
-const int PWMoutPin2  = 11; // 3, 5, 6, 9, 10, 11 / 490 Hz (pins 5 and 6: 980 Hz) 
-const int pwmOut      =  3; // Atmega328p OC2B=D3
-const int ROT_ENC_CLK =  2; // 2; // rotary encoder CLocK 
-const int ROT_ENC_DT  =  8; // 3; // rotary encoder DirecTion 
-const int ROT_ENC_SW  =  4; // 9; // 4; // rotary encoder SWitch 
-const int LED_intr    = 12; // 
-
-const int DEBOUNCE_MS    =  5; // 5;
+#define PWMoutPin0       5 // 3, 5, 6, 9, 10, 11 / 490 Hz (pins 5 and 6: 980 Hz) 
+#define PWMoutPin1      10 // 3, 5, 6, 9, 10, 11 / 490 Hz (pins 5 and 6: 980 Hz) 
+#define PWMoutPin2      11 // 3, 5, 6, 9, 10, 11 / 490 Hz (pins 5 and 6: 980 Hz) 
+#define pwmOut           3 // Atmega328p OC2B=D3
+#define ROT_ENC_CLK      2 // 2; // rotary encoder CLocK 
+#define ROT_ENC_DT       8 // 3; // rotary encoder DirecTion 
+#define ROT_ENC_SW       4 // 9; // 4; // rotary encoder SWitch 
+#define LED_intr        A1 // 12
+#define LED_BUILTIN_A   A0 // 13
+#define DEBOUNCE_MS      5 // 5;
 
 #define TIMER1_ENABLE
-const int TIMER1_PRELOAD = (65535 - 10000);  // period ~6ms
+//const int TIMER1_PRELOAD = (65535 - 10000);  // period ~6ms
+const int TIMER1_PRELOAD = (65535 - 2000);  // period ~6ms // ProMini 8MHz
 
 #define VR5     A6 // VR
 int analogInPin = VR5; // A0; // potentiometer connected to analog pin 
@@ -148,7 +149,7 @@ void rotarEncISR ()  {
 void rotarEncUpdate() {
   //LED_intr_on();
   //LED_on();
-  LED_toggle();
+  //LED_toggle(); 
   interruptTime = millis();
 
   if ( EncSampled == false ) {
@@ -187,17 +188,17 @@ void rotarEncUpdate() {
 
 void LED_toggle() {
   LED_state = !LED_state;
-  digitalWrite(LED_BUILTIN, LED_state);
+  digitalWrite(LED_BUILTIN_A, LED_state);
 }
 
 void LED_on() {
   LED_state = true;
-  digitalWrite(LED_BUILTIN, LED_state);
+  digitalWrite(LED_BUILTIN_A, LED_state);
 }
 
 void LED_off() {
   LED_state = false;
-  digitalWrite(LED_BUILTIN, LED_state);
+  digitalWrite(LED_BUILTIN_A, LED_state);
 }
 
 void LED_intr_toggle() {
@@ -253,7 +254,7 @@ void setup() {
   delay(1000);
 #endif  
 
-  pinMode(LED_BUILTIN, OUTPUT);  // sets the pin as output
+  pinMode(LED_BUILTIN_A, OUTPUT);  // sets the pin as output
   pinMode(LED_intr,    OUTPUT);  // sets the pin as output
   pinMode(pwmOut,      OUTPUT);
   pinMode(PWMoutPin0,  OUTPUT);
@@ -302,7 +303,6 @@ void setup() {
 
 void loop()
 {
-  //LED_toggle();                         // monitor loop period 
 /*
   if (rotarEncTriggered == true) {
     rotarEncUpdate();
@@ -484,5 +484,3 @@ void loop()
 #endif
   }
 }
-
-
