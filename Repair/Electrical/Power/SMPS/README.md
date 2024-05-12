@@ -2,7 +2,8 @@
 BLOG_GitHub_Repair_Power_SMPS_20240312.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Power/SMPS/README.md  
   
-last update : 20240312_0352(UTC+8)  
+last update : 20240512_1120(UTC+8)  
+prev update : 20240312_0352(UTC+8)  
 prev update : 20240312_0316(UTC+8)  
   
 --------------------------------------------------  
@@ -87,9 +88,7 @@ Safety Capacitors First: Class-X and Class-Y Capacitors
   
   
 class Y1 safety capacitor  
-  
 	Y1 class capacitors are rated up to 500VAC, with a peak test voltage of 8kV. Y2 capacitors have 150 to 300VAC ratings and a peak test voltage of 5kV. Y3 capacitors are rated to 250VAC with no peak test voltage specified.  
-	  
 	The difference between Y1 and Y2 capacitors is the maximum isolation voltage of the component. Y2 capacitors can be used for barriers with up to 1500VAC test voltage, Y1 rated capacitors can be used for barriers up to 3000VAC test voltage.  
   
   
@@ -133,10 +132,11 @@ https://youtu.be/Q0jM05sxy28
   
 japan voltage reason  
   
-	Japan is connected to a 100-volt current and uses two frequencies. Those are 50 Hz in Kansai and in the east of the country, and 60 Hz in Kanto and in the north. It originates from the fact that eastern Japan imported German power generators during the Meiji period while the west imported them from the USA.  
+  Japan is connected to a 100-volt current and uses two frequencies. Those are 50 Hz in Kansai and in the east of the country, and 60 Hz in Kanto and in the north. It originates from the fact that eastern Japan imported German power generators during the Meiji period while the west imported them from the USA.  
   
   https://en.wikipedia.org/wiki/Electricity_sector_in_Japan  
-	This originates from the first purchases of generators from AEG for Tokyo in 1895 and from General Electric for Osaka in 1896. This frequency difference partitions Japan's national grid, so that power can only be moved between the two parts of the grid using frequency converters, or HVDC transmission lines.  
+  
+  This originates from the first purchases of generators from AEG for Tokyo in 1895 and from General Electric for Osaka in 1896. This frequency difference partitions Japan's national grid, so that power can only be moved between the two parts of the grid using frequency converters, or HVDC transmission lines.  
   
   
   
@@ -180,13 +180,6 @@ Varistor Testing
   
   
 “Scientists study the world as it is; engineers create the world that has never been.” - Theodore von Karman  
-  
-  
-  
-.  
-  
-  
-  
   
   
   
@@ -244,9 +237,6 @@ LNK364PN datasheet (PDF)
   
 ----------------------------------------  
   
-  
-----------------------------------------  
-  
 SMPS / 220V AC input / 12V 2A 5V 2A DC output  
   
 TO-220 2N60C datasheet pdf  
@@ -269,18 +259,80 @@ MULTICOMP PRO MPSA44 Bipolar (BJT) Single Transistor, NPN, 400 V, 300 mA, 625 mW
   
   
   
+  
 ----------------------------------------  
   
-SMPS / 220V AC input / 5V DC output  
+***** ***** How mobile charger SMPS flyback circuits work, FBX Learning, circuit diagram explanation of charger / FBX Learning / Jan 2, 2021  
+  https://youtu.be/X7EBdaMPIxg  
+2.35K subscribers / 88,665 views  //  
+	How mobile charger SMPS flyback circuits work, FBX Learning, circuit diagram explanation of charger.  
+	This link shows many of our electronic products and wireless automation solutions https://www.forbixindia.com/electronics/  
   
   
-220v circuit 13001(NPN) c94(PNP) S9015(PNP) 
+  
+***** ***** How does a mobile charger work? SMPS with Opto-Coupler. / Explorer /  Sep 20, 2020  Circuit-Animation  
+  https://youtu.be/2N_T7VFymFg  
+145K subscribers / 2,648,643 views  //   
+	This is an animated video on the working of a mobile/smartphone/cellphone charger that converts 220 Volts AC to 5 Volts DC with the help of an optocoupler using Switch Mode Power Supply(SMPS).  
+	Both the transistors, S8050 and 13001, are NPN Bipolar Junction Transistors.  
+	The numbers on SMD Resistors are their values in ohm (Ω), not their codes.  
+	Correction- In the video the fusible resistor is 2.6Ω and not 260kΩ.  
+	Circuit Diagram -  https://drive.google.com/file/d/1TWNf6OfTSGOfDitfw5u4qp9Hvs_lkU74/view  
+	#Circuitaniamtion #3D_Animations  
+  
+  
+
+***** ***** Let’s learn how Cell Phone Charger circuit work / January 8, 2024 / by Apichet Garaipoom  
+  https://www.eleccircuit.com/cell-phone-charger-circuit-work/  
+  
+  
+
+Simple Li-ion Battery Charger Circuit with Automatic Cut-Off / January 11, 2024 / by Apichet Garaipoom  
+  https://www.eleccircuit.com/simple-li-ion-battery-charger-ne555-tl431/  
+  
+  
+TL431稳压管 0.5%精度 大芯片TO-92封装 赛宝(10只/包) / ¥1 约 HKD 1.09  
+  https://item.taobao.com/item.htm?id=5751697401  
+贴片 S431 TL431 电压基准芯片 SOT-23 封装 (10个/包) / ¥2 约 HKD 2.17  
+  https://item.taobao.com/item.htm?id=5754419099  
+  
+  
+  
+
+Gel cell battery charger circuit / February 14, 2024 / by Apichet Garaipoom	 
+  https://www.eleccircuit.com/gel-cell-battery-charger-circuit/  
+  
+  
+  
+  
+  
+----------------------------------------  
+  
+SMPS / 220V AC input / 5V-5.5V 400-500mA DC output  
+  
+  
+220V circuit 13001(NPN) C94(PNP) S9015(PNP) 
 power supply circuit 13001(NPN) MPSA94(PNP) 
+
+1N4007 / 1.0A RECTIFIER / VR(RMS)=700V I=1A / Package: DO-41
+  https://www.diodes.com/assets/Datasheets/ds28002.pdf
+for new design  
+  https://www.diodes.com/assets/Datasheets/1N4006G-1N4007G_LS.pdf
+
+1N5819 / 1.0A SCHOTTKY BARRIER RECTIFIER / VR=40V I=1A / Package: DO-41
+  https://www.diodes.com/assets/Datasheets/1N5817-1N5819.pdf
+
   
-MJE13001-P NPN SILICON POWER TRANSISTOR  
+MJE13001-P NPN SILICON POWER TRANSISTOR / 600V 0.2A / pin1:Base 2:Collector 3:Emitter | pin1:E 2:C 3:B  
 www.unisonic.com.tw  Unisonic Technologies Co., Ltd QW-R201-088,A  
+  https://www.unisonic.com.tw/uploadfiles/836/part_no_pdf/MJE13001.pdf  
 	* Collector-base voltage: V (BR)CBO =600V  
 	* Collector current: I C=0.2A  
+  
+三极管 13001 TO-92 赛宝(10个/包) / 赛宝电子 广东深圳 / ¥0.58 约 HKD 0.63  
+  https://item.taobao.com/item.htm?id=10768382235  
+  
+  
   
   
   
@@ -434,7 +486,7 @@ DC-DC Boost Converters / ElectroBUFF
   https://www.youtube.com/playlist?list=PLoR9wyeLoQOSjK6AVbreKK2AGjvH6pC5T  
   
   
-How a Switching Power Supply Works and How to Make One / ElectroBUFF /  Jan 31, 2020  DC-DC Boost Converters  
+How a Switching Power Supply Works and How to Make One / ElectroBUFF / Jan 31, 2020 / DC-DC Boost Converters  
 https://youtu.be/ldz6DXbNho8  
 27.4K subscribers / 98,115 views  // 
 	Circuit Link:  
@@ -472,7 +524,7 @@ https://youtu.be/gk_wClKk5Iw
 	how smps work  
   
   
-+++++ +++++ +++++ +++++ +++++ 
++++++ +++++ +++++ +++++ +++++  
   
 ***** ***** {528} How To Repair SMPS || SMPS Repair Step By Step || Switch Mode Power Supply / Haseeb Electronics /  Jan 2, 2022  HASEEB ELECTRONICS  
 https://youtu.be/OwmN-N8kgHw  
@@ -544,7 +596,7 @@ https://youtu.be/ia7UOY2LBZg
 	01:40 how to troubleshoot lcd tv power supply circuit  
   
   
-+++++ +++++ +++++ +++++ +++++ 
++++++ +++++ +++++ +++++ +++++  
   
 #711 Basics: Power Supply (part 1 of 5) / IMSAI Guy /  Feb 20, 2021  
 https://youtu.be/ndDZVUKL30E  
@@ -577,7 +629,7 @@ https://youtu.be/Epn7RmmcoTQ
   
   
   
-+++++ +++++ +++++ +++++ +++++ 
++++++ +++++ +++++ +++++ +++++  
   
 Howto repair switch mode power supplies #6: Basics of Linear Regulators and voltage references / Donkey Learning IT /  Jul 25, 2017  Switch mode Power Supply repair basics  
 https://youtu.be/MkwuofJZm_I  
@@ -817,6 +869,60 @@ https://youtu.be/kb1yx4oIKT8
   
   
 --------------------------------------------------  
+  
+***** *** Why Does An ATX Power Supply Have Two Main Smoothing Capacitors? How ATX PSU Works Tutorial / Learn Electronics Repair / Feb 6, 2023 / Power Supply Repairs  
+https://youtu.be/YCQhGE176Bg  
+  147K subscribers / 69,712 views  //   
+	Have you ever wondered why an ATX Power Supply has two main smoothing capacitors after the bridge rectifier?  Did you ever think they could just fit one larger capacitor instead?  Well now you can find out how this circuit works, no maths, no waffle, no fluff just the facts you need to know to understand and fix this stuff!   
+  
+@kwankunghkg  1 second ago  
+Excellent explanation of LLC resonator circuit for higher efficiency. Thank you very much.   
+  
+  
++++++ +++++ +++++ +++++ +++++  
+  
+  
+Series and Parallel Capacitors  
+  https://www.allaboutcircuits.com/textbook/direct-current/chpt-13/series-and-parallel-capacitors/  
+  
+  
++++++ +++++ +++++ +++++ +++++  
+  
+  
+***** ***** All You Need To Know About ATX PSU To Fix Stuff! The Complete ATX Power Supply Repair Guide Tutorial / Learn Electronics Repair / Apr 25, 2022 / Power Supply Repairs  
+https://youtu.be/GjZtZNssroE  
+  147K subscribers / 227,104 views  //   
+	LER #232 How to Repair ATX PSU,  Theory, Circuit Designs and Practical Fault Diagnosis  
+	0:00:00  Chapter 1. INTRO  
+	0:03:00  Chapter 2. SAFETY FIRST  
+	0:10:55  Chapter 3. HOW TO SAFELY DISCHARGE HIGH VOLTAGE CAPACITORS  
+	0:16:31 Chapter 4. COMMON ATX DESIGNS – TYPE 1  
+	0:31:50 Chapter 5. HOT GROUND AND SAFETY GROUND  
+	0:40:57 Chapter 6. COMMON FAULTS  
+	0:45:09 Chapter 7. COMMON ATX DESIGNS – TYPE 2  
+	1:08:23 Chapter 8. UNDERSTANDING AND DIAGNOSING 5V STANDBY   
+	1:12:58 Chapter 9. COMMON ATX DESIGNS – TYPE 3  
+	1:29:17 Chapter 10. COMMON ATX DESIGNS – TYPE 4  
+	1:33:07 Chapter 11. PRACTICAL REPAIR EXAMPLE  
+	2:12:19 Chapter 12.EPILOGUE  
+  
+  
+----  
+  
+Dead Micro ATX MATX Power Supply - No Power - Can We Fix It? / Learn Electronics Repair / Jan 2, 2023 / Power Supply Repairs  
+https://youtu.be/lMcFQJyPo8s  
+  147K subscribers / 21,656 views  //   
+	I was trying to fix an All in One PC and the PSU was completely dead.  So I replaced it with a new one and now I have the old one.  So what is the best thing to do with it?  Send it to the landfill or try to fix it instead?  
+  
+  
+  
+  
+----  
+  
+Switch Mode Power Supply Troubleshooting And Repair - Yaesu FT-1000MP / Mr Carlson's Lab /  Aug 28, 2023  Time Domain Reflectometer or TDR  
+https://youtu.be/Hyx6MZZwc8c  
+  382K subscribers / 226,670 views  //   
+	See the entire troubleshooting and repair procedure for a switching power supply. This supply has multiple failure points due to "Another Tech." Let's find all the bad parts, and bring this Yaesu FT-1000MP back to life!  
   
   
   
