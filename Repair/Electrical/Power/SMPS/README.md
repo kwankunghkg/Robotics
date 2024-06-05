@@ -2,8 +2,8 @@
 BLOG_GitHub_Repair_Power_SMPS_20240312.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Power/SMPS/README.md  
   
-last update : 20240512_1120(UTC+8)  
-prev update : 20240312_0352(UTC+8)  
+last update : 20240605_0958(UTC+8)  
+prev update : 20240512_1129(UTC+8)  
 prev update : 20240312_0316(UTC+8)  
   
 --------------------------------------------------  
@@ -661,6 +661,36 @@ https://youtu.be/YiK_fD_WggE
 	The first stage of a linear power supply is a transformer to step the mains/grid voltage down to a reasonable level.  
   
   
+  
+  
+  
+***** *** Let's fix this 𝗗𝗘𝗔𝗗 ATX power supply! / Tony359 / Apr 19, 2024  
+https://youtu.be/n86eU5rsJds  
+21.7K subscribers / 46,186 views  //   
+	On the bench a dead - and old - ATX power supply I've decided to fix. Is it worth my time?  
+	00:00 intro  
+	01:52 Overview  
+	04:00 Diagnostic  
+	05:45 Oscilloscope testing  
+	08:05 Actual troubleshooting  
+	06:45 Testing the outcome  
+	18:19 Components replacement  
+	19:47 Testing again  
+	21:30 Fixing the fan  
+	23:53 Load test  
+	25:10 Outro  
+  
+DjMarik78  
+  https://www.youtube.com/@DjMarik78  
+  
+@powerpc6037  2 weeks ago (edited)  
+I've repaired many power supplies years ago and I found it's usually the capacitors too that fail, especially the capacitors which stabilize the DC power for the switching circuit. These are usually capacitors in the 4.7uF to 100uF range and are mostly located closeby the heat sink of the MOSFETs that do the switching. The high temperature and proximity of the heat sinks dries out those electrolytic capacitors and they start losing their capacity up to a point where they cannot hold the voltage stable anymore and the entire power supply dies and starts to whistle.  
+  
+@tony359  2 weeks ago  
+Indeed, swapping the caps will revive a good chunk of those PSUs :)  
+  
+@Ragnar8504  2 weeks ago  
+Another common fault in older PSUs (80s, early 90s) is a small (single-digit µF) electrolytic on the primary side. I haven't had that in computer PSUs yet but in several VCR power supplies (Sony and Grundig). If that cap dies the PSU does nothing at all. I suspect it might be part of the passive oscillator circuit for the main power supply and if that doesn't oscillate it obviously keeps the whole unit from working. There's usually only one or two of those caps so I just replaced them all. Really interesting to understand how this circuit works now!   
   
   
   
