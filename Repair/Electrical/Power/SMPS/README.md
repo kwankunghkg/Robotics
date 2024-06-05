@@ -642,6 +642,8 @@ https://youtu.be/MkwuofJZm_I
   
   
   
++++++ +++++ +++++ +++++ +++++  
+  
 SMPS repair series #10: Temperature compensated Zener diode in linear regulators / Donkey Learning IT /  Jan 13, 2019  Switch mode Power Supply repair basics  
 https://youtu.be/yD5QOu9GgIg  
 37.6K subscribers / 35,320 views  // 
@@ -654,6 +656,7 @@ https://youtu.be/yD5QOu9GgIg
   
   
   
++++++ +++++ +++++ +++++ +++++  
   
 Building a Linear Power Supply, Part 1 The Transformer / Vocademy - Electronics Technology /  May 27, 2023  Building a Linear Power Supply - Solid-state Devices and Analog Circuits Day 1  
 https://youtu.be/YiK_fD_WggE  
@@ -663,6 +666,7 @@ https://youtu.be/YiK_fD_WggE
   
   
   
++++++ +++++ +++++ +++++ +++++  
   
 ***** *** Let's fix this 𝗗𝗘𝗔𝗗 ATX power supply! / Tony359 / Apr 19, 2024  
 https://youtu.be/n86eU5rsJds  
@@ -698,7 +702,7 @@ Another common fault in older PSUs (80s, early 90s) is a small (single-digit µF
   
 ----------------------------------------  
   
-Single Transistor Mobile Phone Charger 
+Single Transistor Mobile Phone Charger  
   https://www.electrothinks.com/2020/06/Single-transistor-mobile-phone-charger.html  
   
   
