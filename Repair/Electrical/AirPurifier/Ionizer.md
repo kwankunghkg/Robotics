@@ -231,8 +231,8 @@ https://youtu.be/E5XBuCAqCsI
   
 Mei Yi Deng electrical  @electric1938  
   youtube.com/channel/UCHMRcqDZG4S7VfhpuHfWGRw  
-•6.06K subscribers•3.4K videos  
-Mei Yi Deng, senior electronic engineer, one of the drafters of national standardized switching power supply, 0 basic introductory electronic technology explanation.  
+• 6.06K subscribers • 3.4K videos  
+	Mei Yi Deng, senior electronic engineer, one of the drafters of national standardized switching power supply, 0 basic introductory electronic technology explanation.  
   
   
   
@@ -406,16 +406,15 @@ Air Purifier F-PXT70H OPERATING INSTRUCTIONS
   
 +++++ +++++  
   
-Panasonic Split Ac Motor Not working Step by step Repair 100% ok | Panasonic Blower Not working / S.k Electronic's work /  Oct 3, 2023  
+Panasonic Split AC Motor Not working Step by step Repair 100% ok | Panasonic Blower Not working / S.k Electronic's work /  Oct 3, 2023  
 https://youtu.be/5pFw_2O_jrY  
   871K subscribers / 26,521 views  //  
 Panasonic split(InDoor+OutDoor) ac(AirCon) (Fan Motor) blower not work  
   
   
-Indoor Dc Motor ! Indoor Dc Motor Check With Pcb and Multimiter / Jahir Technical /  Jul 19, 2021  #JahirTechnical  
+Indoor DC Motor ! Indoor DC Motor Check With PCB and Multimiter / Jahir Technical / Jul 19, 2021  #JahirTechnical  
 https://youtu.be/sQ4lF24-sZE  
 8.04K subscribers / 83,544 views  //  
-	Indoor Dc Motor ! Indoor Dc Motor Check With Pcb and Multimiter  
   
   
   
