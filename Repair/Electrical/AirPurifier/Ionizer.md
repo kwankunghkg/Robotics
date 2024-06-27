@@ -2,7 +2,8 @@
 BLOG_GitHub_Repair_AirPurifier_Ionizer_20240617.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/AirPurifier/Ionizer.md  
   
-last update : 20240625_1400(UTC+8)  
+last update : 20240627_2020(UTC+8)  
+prev update : 20240625_1400(UTC+8)  
 prev update : 20240617_0139(UTC+8)  
   
 --------------------------------------------------  
@@ -23,11 +24,75 @@ Panasonic F-P06DXZ Operating Instructions Manual
   https://archive.org/details/manuallib-id-2527797/page/20/mode/2up  
   
   
+  
++++++ +++++  
+  
+空気清浄機「エアーリッチ」 F-P26SZ 生産終了  
+  https://panasonic.jp/airrich/p-db/F-P26SZ.html  
+	※1 2004年7月20日現在  
+  
+  
++++++ +++++  
+  
+説明書 ナショナル F-P26SZ 空気洗浄器  
+  https://dl-ctlg.panasonic.com/manual/F-/F-P26SZ.pdf  
+  https://manuall.jp/national-f-p26sz-air-purifier/  
+  
+  
++++++ +++++  
+  
+☆と648●ナショナル空気清浄機●National/エアーリッチ/F-P22SZ/2004年製/タイマー機能/～22畳/パナソニック/詳細写真複数あり  
+  https://tw.daigobang.com/zh-tw/item/aID-1067221007.html  
+  
+  
++++++ +++++  
+  
+Panasonic air purifier Deodorizing filter F-Y506WZ  
+  
+  
++++++ +++++  
+  
+  
+「空気清浄機 脱臭フィルター(2枚入) F-Z30ZD」  
+Panasonic 原廠F-Z30ZD 空氣清淨機脫臭濾網過濾網2入可用3年 F-P22SZ P268RV7 P26SZ / TW$1,180  
+  https://www.rakuten.com.tw/shop/tw1111/product/dj0000000015939/  
+	F-P22SZ/F-P22SZ-W/F-P268RV7/F-P26SZ-G/F-P26SZ-W/F-P30SZ  
+  
+  
+  
++++++ +++++  
+  
 nanoe™納米離子空氣清新機配件  
   
 What is Nanoe in Panasonic?  
 	nanoe™ X, the original ionizer to generate “nano-sized atomized water particles” is developed by Panasonic. It is an electrostatic atomization technology, that collects invisible moisture in the air and applies high voltage to it to produce “hydroxyl radicals contained in water”.  
   
+  
++++++ +++++  
+  
+Service Manual Air Purifier F-PXC50A OverSea Market  
+  http://www.sm.azhand.co/ServiceManuals/AC/AirPurifier/F-PXC50A.pdf  
+  
+  
++++++ +++++  
+  
+Air Purifier F-P06DXZ Operating Instruction  
+  https://www.manualslib.com/manual/2586838/Panasonic-F-P06dxz.html  
+  
+  
+  
++++++ +++++  
+  
+Service Manual Air Conditioner CS-F50MD1E5 CU-L50DBE5 CS-F50MD1E5 CU-L50DBE8  
+  http://www.csportal.panasonic-la.com/descargaspla/PLAT//ACON.%20AIRE//ACON.%20AIRE//PACKAGE%2050/CS-F50MD1E5/MANUAL%20DE%20SERVICIO//CU-L50DBE5.pdf  
+  
+  
+  
++++++ +++++  
+  
+空気清浄機 F-P06S1  
+空気清浄機 F-P06S1-S（シルバー）  
+  https://panasonic.jp/airrich/p-db/F-P06S1.html  
   
   
   
@@ -134,9 +199,9 @@ SOT23 marking 60 LCE6003Y
   
 空调五线直流风机工作原理及测量方法 家电维修培训  
   https://www.bilibili.com/video/BV1ur421p7HF/  
-空调五线直流风机工作原理 空调维修 江安县家电维修 #家电维修培训姜松  
+空调五线直流风机工作原理 空调维修 江安县家电维修  
   https://www.bilibili.com/video/BV1YK411s7Kf/  
-空调五线直流风机工作原理 空调维修 家电维修 #家电维修培训姜松  
+空调五线直流风机工作原理 空调维修 家电维修  
   https://www.bilibili.com/video/BV1Wg4y1C7zP/  
   
   
@@ -203,20 +268,18 @@ https://youtu.be/hyssAR79PNE
 	Rob Towell - Technical Manager at AMP shares how to check for a DC fan motor fault on Panasonic air conditioning indoor & outdoor PCBs  
   
   
-Dc Motor !Indoor Dc Motor !Dc FG/PG Motor VCC/VSP/VM/FG Finding !Jahir Technical / Jahir Technical /  Nov 7, 2021  #dcmotor #jahirtechnical  
+DC Motor ! Indoor DC Motor ! DC FG/PG Motor VCC/VSP/VM/FG Finding ! Jahir Technical / Jahir Technical /  Nov 7, 2021  #DCmotor #jahirtechnical  
 https://youtu.be/WlkSG1ZKxXo  
 8.04K subscribers / 14,762 views  //  
-	Dc Motor !Indoor Dc Motor !Dc FG/PG Motor VCC/VSP/VM/FG Finding !Jahir Technical  
-	ac indoor motor  
-	Split ac indoor dc motor  
+	AC indoor motor  
+	Split AC indoor DC motor  
 	This video is DC motor wier finding VCC VSP and PG  
   
   
-How to Check air condition DC Motor ! DC Motor Test kai sai kara !Jahir technical / Jahir Technical /  Jun 15, 2021  #dcmotorworking  
+How to Check air condition DC Motor ! DC Motor Test kai sai kara ! Jahir technical / Jahir Technical /  Jun 15, 2021  #dcmotorworking  
 https://youtu.be/gWxgQT7AVmw  
 8.04K subscribers / 507 views  //  
-How to Check air condition DC Motor ! DC Motor Test kai sai kara !Jahir technical  
-dc motor check with multimeter  
+	DC motor check with multimeter  
   
   
   
@@ -227,6 +290,20 @@ Panasonic fan motor ARW7629AC 30W
   
 ARW7629AC ARW7628AC for Panasonic CS-E15NKDW Inverter Air Conditioning DC Motor Fan Motor ARW7629AC 30W Air Conditioner Parts. HKD417.83  
   https://www.aliexpress.com/i/1005005893192495.html  
+  
+PANASONIC CSE24PKR CSE24PKR CROSS FLOW FAN  
+  
+What is the difference between cross flow fan and axial fan?  
+	What Are Cross-flow Fans And Axial Fans: Comparative Analysis ...  
+	Cross-flow Fans: Suitable for environments with high-pressure requirements, limited space, and low noise restrictions. Axial Fans: Ideal for environments requiring high airflow rates, extensive coverage, and relatively flexible noise restrictions.  
+  
+What is the difference between a cross flow fan and a blower fan?  
+	Cooling Fans Structure, Air Flow Static Pressure ...  
+	A cross flow fan has an impeller similar to that of a centrifugal blower, but both sides of the fan are covered with side panels and thus no air enters from the axial direction. As a result, air flows that pass through the impeller are generated. Cross flow fans utilize these air flows.  
+  
+PANASONIC CSE24PKR CSE24PKR INDOOR FAN MOTOR ARW7627AC  
+  
+Panasonic ARW7627AC Air Conditioner Fan Motor 8P 40W DC280-340V  
   
   
   
@@ -250,6 +327,8 @@ The motor is connected to the white 6-pin on the bottom left.
     pin 5: Vsp is behind an optocoupler. When the optocoupler is off, Vsp is pulled to ground. When the optocoupler is on, a voltage divider should give 6V. My guess is that 6V PWM can be used to control the motor speed.  
     pin 6: PG is front of an optocoupler, so this is used as an output. It is pulled up to 15V.  
 I hooked it up without the mainboard, using Vm = 92 Vdc (instead of 310 Vdc). Vcc = 15 Vdc. Vsp = 6V PWM @20 kHz with variable duty cycle. The motor runs fine and I can control the rpm by chaning the duty cycle.  
+  
+  
   
 Nidec Shibaura brushless DC motor SIC-41CVJ-F127-2  
 Nidec SIC-41CVJ-F127  
@@ -331,7 +410,7 @@ https://youtu.be/sQ4lF24-sZE
   
 3-phase DC motor  
   
-直流电机如何测试好坏 电机测试方法 江安县家电维修#家电维修培训姜松  
+直流电机如何测试好坏 电机测试方法 江安县家电维修  
   https://www.bilibili.com/video/BV1Yw41177Nv/  
   
   
@@ -466,172 +545,13 @@ How to Make a Negative Ion Air Ionizer
   
   
   
-  
 ----------------------------------------  
   
-空调制冷工作原理 空调维修 家电维修培训 #家电维修培训姜松_哔哩哔哩_bilibili  
--, 视频播放量 232、弹幕量 0、点赞数 6、投硬币枚数 0、收藏人数 7、转发人数 0, 视频作者 家电维修培训姜松, 作者简介 家电维修培训 181:81700068，相关视频：空调五线直流风机工作原理及测量方法 家电维修培训，冰箱制冷工作原理 家电维修 #家电维修培训姜松，如何判断空调缺少制冷剂 空调维修 家电维修 空调不制冷#家电维修培训姜松，空调五线直流风机工作原理 空调维修 江安县家电维修 #家电维修培训姜松，冰箱循环风机如何判断好坏 冰箱维修 家电维修培训 #家电维修培训姜松，冰箱电动风门工作原理 冰箱维修 家电维修培训 江安县家电维修 #家电维修培训姜松，九个维修师傅一起教大家学习家电维修 #家电维修培训姜松，空调五线直流风机工作原理 空调维修 家电维修 #家电维修培训姜松，波轮洗衣机工作原理 洗衣机维修方法 家电维修培训，空调制冷系统工作原理 空调维修 家电维修培训 #家电维修培训姜松  
-bilibili.com  
-https://bilibili.com/video/BV1BK421a7b3  
-1:30 pm  
-变频空调主板看着很复杂，其实维修起来很简单，新手也容易学会_哔哩哔哩_bilibili  
-变频空调主板看着很复杂，其实维修起来很简单，新手也容易学会, 视频播放量 19033、弹幕量 22、点赞数 425、投硬币枚数 72、收藏人数 349、转发人数 49, 视频作者 朝锋家电维修, 作者简介 讲解家电维修知识，分享家电维修中的趣事，相关视频：格力E6速修，3分钟解决问题，学会更换这两个元件儿，就可以维修空调的50%的故障，变频板的原理及八大电路的控制逻辑，日立变频空调主板维修，了解变频主板的结构 ，维修变频空调更简单，变频空调的模块电路，2017年花了200块买了这两本空调维修书自己学会空调维修，直到今天修空调已经赚到10多万块钱了，这200花得值啊，想要书的找我，收徒弟，格力变频空调主板维修，E6,H5故障，空调主板几个常见故障，格力变频空调主板，这位粉丝自己动手换模块，竟然吧CPU烧了  
-bilibili.com  
-https://bilibili.com/video/BV14U4y1B7E4  
-1:40 pm  
-定频空调工作原理 空调维修 #家电维修培训姜松_哔哩哔哩_bilibili  
--, 视频播放量 151、弹幕量 0、点赞数 2、投硬币枚数 0、收藏人数 1、转发人数 0, 视频作者 家电维修培训姜松, 作者简介 家电维修培训 181:81700068，相关视频：空调制冷工作原理 空调维修 家电维修培训 #家电维修培训姜松，空调温度传感器阻值大全 #家电维修培训姜松，冰箱电动风门工作原理 冰箱维修 家电维修培训 江安县家电维修 #家电维修培训姜松，格力空调显示E6如何判断故障点 空调维修 家电维修培训 江安县家电维修 #家电维修培训姜松，洗衣机显示故障代码维修方法 #家电维修培训姜松，空调万能板更换方法 空调维修 家电维修培训 #家电维修培训姜松，格力空调显示E6维修方法 格力空调通讯故障维修方法 家电维修培训 #家电维修培训姜松，空调如何通过测试电流判断故障点空调维修 #家电维修培训姜松，空调制冷系统工作原理 空调维修 家电维修培训 #家电维修培训姜松，空调五线直流风机工作原理 空调维修 江安县家电维修 #家电维修培训姜松  
-bilibili.com  
-https://bilibili.com/video/BV1dm421N7Pa  
-1:46 pm  
-姜松 变频空调维修方法  
-1:48 pm  
-变频空调没冷气也不报故障，原来是这里有问题，0成本就能修复  
-变频空调冷气维修  
-youtube.com  
-https://youtu.be/ajTgCy_5Tl8  
-2:16 pm  
-变频空调坏了维修成本太高，其实很多都是小问题低成本就能修复  
-变频空调板维修过程  
-youtube.com  
-https://youtu.be/Rj3C6BnKoXs  
-Repair AirCon Controller PCB  
-2:23 pm  
   
   
+Repair Café International supports local groups around the world to start their own Repair Café. For a voluntary one-off fee, we offer a digital starter kit.  
+  https://www.repaircafe.org/en/  
   
-+++++ +++++  
-  
-+++++ +++++  
-+++++ +++++  
-+++++ +++++  
-  
-  
-姜松 变频空调维修方法  
-  
-家电维修姜松  
-  https://www.douyin.com/user/MS4wLjABAAAAQYPYmetUSEQjtMT7fnSGdinYahT0Y2FWAdJ0FG42lm0  
-  
-姜松家电维修培训:电话18181700068,地址-四川省宜宾市江安县竹都大道东段  
-***** ***** 家电维修学习资料 家电维修学习方法 家电维修学习 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1U1421B7kf/  
-***** ***** 家电维修学习方法 购买视频课程送学习资料 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1UJ4m1a7bm/  
-***** ***** 家电维修学习资料 家电维修学习方法 家电维修姜松  
-  https://www.bilibili.com/video/BV12a4y197hX/  
-家电维修培训两年的变化，每一天都在学习，每一天都在改变 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1r4421S74r/  
-一个月学会家电维修又要毕业了 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1Qb421v7Wa/  
-家电维修学习方法 家电维修培训 一个月学会家电维修 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1Xx4y1v7zx/  
-家电维修学习又搬家了 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1Dw4m1i71e/  
-什么样的朋友适合学习家电维修 学习家电维修的好处 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV17E421A76w/  
-开家电维修店需要多少钱 家电维修培训学习 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1q4421S7FE/  
-家电维修线上学习 家电维修培训 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1Aj421S7JQ/  
-  
-  
-  
-  
-  
-+++++ +++++  
-  
-变频空调工作原理 空调维修 # 家电维修培训姜松  
-  https://v.douyin.com/ijouusVb/  
-  
-变频空调维修方法 空调维修家电维修培训 # 家电维修培训姜松  
-  https://v.douyin.com/ijoutvdo/  
-  
-空调通讯故障维修方法 # 家电维修 # 家电维修培训姜松  
-  https://v.douyin.com/ijouvsAn/  
-空调显示通讯故障代码维修方法 空调维修 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1HC411E7jB/  
-  
-如何测试压力开判断空调故障点 空调维修 # 家电维修培训姜松  
-  https://v.douyin.com/ijouuB4f/  
-  
-如何通过观察判断空调故障点 # 家电维修 # 空调制冷空调维修 # 家电维修培训姜松  
-  https://v.douyin.com/ijouuaAM/  
-  
-变频空调显示通讯故障维修方法 空调维修 家电维修学习培训# 家电维修培训姜松  
-  https://v.douyin.com/ijou9wRA/ 复制此链接，打开Dou音搜索，直接观看视频！  
-  
-空调五线直流风机工作原理 # 家电维修 # 家电维修培训姜松  
-  https://v.douyin.com/ijoutTh2/ 复制此链接，打开Dou音搜索，直接观看视频！  
-  
-  
-  
-+++++ +++++  
-  
-热水器维修方法 热水器维修 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV13E421F7JH/  
-热水器中途熄火维修方法 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1JD42137sH/  
-  
-  
-  
-  
-电磁炉通电不加热维修方法 电磁炉维修 家电维修 江安县家电维修 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV18g4y1m7rM/  
-电磁炉通电不加热 电磁炉维修方法 江安县家电维修 家电维修 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1AN4y1s7ca/  
-  
-  
-  
-  
-微波炉工作原理 微波炉维修 家电维修培训 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1Ci421R7nV/  
-微波炉不加热维修方法 家电维修 江安家电维修 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1tQ4y157Ew/  
-微波炉定时器工作原理 测试方法 江安家电维修 微波炉维修#家电维修培训姜松  
-  https://www.bilibili.com/video/BV1cw411n7yr/  
-微波炉变压器工作原理及测量方法 微波炉维修 江安家电维修 #家电维修培训姜松  
-  https://www.bilibili.com/video/BV1CG411i7wg/  
-  
-  
-  
-+++++ +++++  
-  
-  
-  
-变频空调室外机主板坏，交流风机，直流风机，换2合1主板，解决,数码,家电电器 / 杨老师爱专业家电维修小杨 /  Jan 28, 2024  
-https://youtu.be/4FsLc8bqMeg  
-2.02K subscribers / 132 views  //  
-变频空调室外机主板坏，交流风机，直流风机，换2合1主板，解决,数码,家电电器  
-  
-+++++ +++++  
-+++++ +++++  
-+++++ +++++  
-  
-  
-田佰涛老师 第四讲.变频空调PFC电路 / Andy Lave /  Jan 12, 2022  
-https://youtu.be/cxO7J6AQIlc  
-344 subscribers / 9,625 views  //  
-田佰涛老师的课，讲的非常不错  
-  
-  
-  
-【变频空调维修】 29 pfc工作原理 / 学习教程 /  May 21, 2020  变频空调维修  
-https://youtu.be/_qXL-B8DJ4o  
-17.2K subscribers / 160 views  //  
-	【定频空调维修】全集列表  
-	   • 【定频空调维修】  
-	【变频空调维修】全集列表  
-		• 变频空调维修  
-	【一套挺好的空调安装维修移机教学】  
-	   • 一套挺好的空调安装维修移机教学  
-	【现场安装】视频合集：  
-	   • 空调安装维修维护  
-  
-  
-【家电维修】赵全老师主讲：功率因数校正（二）有源PFC / 华宇万维 /  Jul 22, 2020  
-https://youtu.be/Uv3LbT5j29U  
-27K subscribers / 6,287 views  //  
-.  
   
   
   
