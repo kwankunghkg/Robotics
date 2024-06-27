@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_AirPurifier_Ionizer_20240617.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/AirPurifier/Ionizer.md  
   
-last update : 20240627_2020(UTC+8)  
+last update : 20240627_2139(UTC+8)  
 prev update : 20240625_1400(UTC+8)  
 prev update : 20240617_0139(UTC+8)  
   
@@ -22,6 +22,12 @@ Panasonic F-P06DXZ Operating Instructions Manual
   https://www.manualslib.com/manual/2586838/Panasonic-F-P06dxz.html#manual  
   https://www.manualslib.com/products/Panasonic-F-P06dxz-12434803.html  
   https://archive.org/details/manuallib-id-2527797/page/20/mode/2up  
+  
+  
++++++ +++++  
+  
+Air Purifier F-P06DXZ Operating Instruction  
+  https://www.manualslib.com/manual/2586838/Panasonic-F-P06dxz.html  
   
   
   
@@ -76,9 +82,9 @@ Service Manual Air Purifier F-PXC50A OverSea Market
   
 +++++ +++++  
   
-Air Purifier F-P06DXZ Operating Instruction  
-  https://www.manualslib.com/manual/2586838/Panasonic-F-P06dxz.html  
-  
+空気清浄機 F-P06S1  
+空気清浄機 F-P06S1-S（シルバー）  
+  https://panasonic.jp/airrich/p-db/F-P06S1.html  
   
   
 +++++ +++++  
@@ -87,12 +93,20 @@ Service Manual Air Conditioner CS-F50MD1E5 CU-L50DBE5 CS-F50MD1E5 CU-L50DBE8
   http://www.csportal.panasonic-la.com/descargaspla/PLAT//ACON.%20AIRE//ACON.%20AIRE//PACKAGE%2050/CS-F50MD1E5/MANUAL%20DE%20SERVICIO//CU-L50DBE5.pdf  
   
   
-  
 +++++ +++++  
   
-空気清浄機 F-P06S1  
-空気清浄機 F-P06S1-S（シルバー）  
-  https://panasonic.jp/airrich/p-db/F-P06S1.html  
+Service Manual Air Conditioner  
+CS-F24DD1E5 CU-B24DBE5  
+CS-F28DD1E5 CU-B28DBE5  
+CS-F28DD1E5 CU-B28DBE8  
+CS-F34DD1E5 CU-B34DBE5  
+CS-F34DD1E5 CU-B34DBE8  
+CS-F43DD1E5 CU-B43DBE8  
+CS-F50DD1E5 CU-B50DBE8  
+  https://www.panasonicproclub.com/uploads/CZ/catalogues/cac/service-manual/CU-B24-50DBE_service%20manual_mac0509068c2.pdf  
+  
+  
+  
   
   
   
