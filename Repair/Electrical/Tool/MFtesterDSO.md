@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Tool_MultiFunctionTesterDSO_20240701.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Tool/MFtesterDSO.md  
   
-last update : 20240701_0736(UTC+8)  
+last update : 20240701_0748(UTC+8)  
 prev update : 20240701_0721(UTC+8)  
   
 --------------------------------------------------  
@@ -18,6 +18,17 @@ FNIRSI DSO-TC3 Digital Oscilloscope Transistor Tester Function Signal Generator 
   
 3in1 electronic device tester + DSO + SigGen / HKD331  
 	https://www.aliexpress.com/item/1005005202074391.html  
+  
+  
+  
+----  
+  
+FNIRSI三合一多功能示波器DSO-TC3手持小型晶体管检测信号发生器 / fnirsi旗舰店 广东深圳 / 已售 6000+ / ¥300 券后¥275 券后约 HKD 295.96  
+  https://detail.tmall.com/item.htm?id=673384101173  
+颜色分类：  
+	TC3标配  
+	TC3高配  
+	搭档组合  
   
   
   
