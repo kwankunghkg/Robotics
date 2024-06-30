@@ -16,8 +16,8 @@ prev update : 20240701_0721(UTC+8)
   
 FNIRSI DSO-TC3 Digital Oscilloscope Transistor Tester Function Signal Generator 3 in 1 MultiFunction Electronic Component Tester  
   
-3in1 electronic device tester + DSO + SigGen  
-  https://www.aliexpress.com/item/1005006067753213.htm  
+3in1 electronic device tester + DSO + SigGen / HKD331  
+	https://www.aliexpress.com/item/1005005202074391.html  
   
   
   
@@ -46,7 +46,6 @@ FNIRSI DSO-TC3 Digital Oscilloscope, Transistor Tester and Signal Generator in 1
   
 All component Tester with mini Oscilloscope, FNIRSI DSO TC3, LCR meter  
   https://youtu.be/kb1yx4oIKT8  
-	HKD331  
 	All component Tester with mini Oscilloscope, FNIRSI DSO TC3, LCR meter DSO-TC3 👉  
 	https://www.aliexpress.com/item/1005005202074391.html  
 	3 in 1 Tester. You can use it as a Components tester and  Oscilloscope, Signal Generator. This is an advanced meter. Plz Discharge the capacitor before measuring the capacitors because burn out the instrument.  
@@ -69,8 +68,6 @@ FNIRSI DSO-TC3 3 in 1 Oscilloscope Signal Generator Component Analyzer Tester Ch
   https://youtu.be/JpISM7g9Ff4  
   151K subscribers / 49,917 views  //  
 	FNIRSI sent me one of their new DSO-TC3.  This is like a little electronics lab in one unit for around £50 it contains an Oscilloscope, Signal Generator, Component Analyzer (resistor, capacitor, inductor, diode, transistor, mosfet, thyristor, zener diode and more) Continuity Tester, Voltage Measurement etc.  Let's give the DSO-TC3 a workout and see how good it is.  
-	BUY DSO-TC3 here  
-	https://s.click.aliexpress.com/e/_oF7...  
 	CHAPTERS  
 	00:00:00 Intro  
 	00:02:49 Unboxing  
