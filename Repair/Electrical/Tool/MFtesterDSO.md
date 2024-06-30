@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Tool_MultiFunctionTesterDSO_20240701.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Tool/MFtesterDSO.md  
   
-last update : 20240701_0721(UTC+8)  
+last update : 20240701_0736(UTC+8)  
 prev update : 20240701_0721(UTC+8)  
   
 --------------------------------------------------  
@@ -40,14 +40,19 @@ FNIRSI DSO-TC3 Digital Oscilloscope Transistor Tester Function Signal Generator 
   
 FNIRSI DSO-TC3 Digital Oscilloscope, Transistor Tester and Signal Generator in 1  
   https://youtu.be/ZNlCieQwIZI  
-	#ErCanEverything #Transistor #Tester📌FNIRSI DSO-TC3 Official Store: https://s.click.aliexpress.com/e/_opraiJoYou can find Featured products here👇📌FNIRSI D...  
   
   
 ----  
   
 All component Tester with mini Oscilloscope, FNIRSI DSO TC3, LCR meter  
   https://youtu.be/kb1yx4oIKT8  
-	All component Tester with mini Oscilloscope, FNIRSI DSO TC3, LCR meter DSO-TC3 👉 https://s.click.aliexpress.com/e/_oE5eMkb  This is a very good 3 in 1 Tester. ...  
+	HKD331  
+	All component Tester with mini Oscilloscope, FNIRSI DSO TC3, LCR meter DSO-TC3 👉  
+	https://www.aliexpress.com/item/1005005202074391.html  
+	3 in 1 Tester. You can use it as a Components tester and  Oscilloscope, Signal Generator. This is an advanced meter. Plz Discharge the capacitor before measuring the capacitors because burn out the instrument.  
+	You can test 👉  Triodes, Diodes, All MOSFETs, SCRs, TRIAC, Capacitors, Resistors, Inductors, Battery, Voltges 0-40V DC, Temperature, Humidity, Waves, IR, Continuity.  
+  
+  
   
 ----  
   
