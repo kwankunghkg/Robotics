@@ -98,6 +98,14 @@ FNIRSI DSO-TC3 Teardown / ElectroBananas /  Mar 27, 2023
   
 ----  
   
+  
+  
+----  
+  
+  
+  
+----  
+  
 FNIRSI 2C53P Overview, Teardown & Hardware Review / ElectroBananas /  May 16, 2024  
   https://youtu.be/03tuX4vN9GE  
 1.06K subscribers / 4,435 views  //  
