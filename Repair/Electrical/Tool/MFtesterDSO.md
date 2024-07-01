@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Tool_MultiFunctionTesterDSO_20240701.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Tool/MFtesterDSO.md  
   
-last update : 20240701_0826(UTC+8)  
+last update : 20240701_0840(UTC+8)  
 prev update : 20240701_0721(UTC+8)  
   
 --------------------------------------------------  
@@ -137,8 +137,20 @@ https://www.edntaiwan.com/20230829ta01-control-a-power-converter-with-pwm/
   
 +++++ +++++  
   
+PWM 脈波寬度調變 工作原理  
+  
+  
+“我能调速，能调光，还能唱歌！我干啥都行！”——PWM脉宽调制 / 维库电子市场网 /  Sep 14, 2022  
+  https://youtu.be/8tq9XV6g5bE  
+1.73K subscribers / 3,156 views  //  
+	万物皆可调制的PWM？它是怎么做到的？  
+  
+  
+  
++++++ +++++  
+  
 PWM / 高中機器人微課程_方向控制與驅動系統_脈波寬度調變_支裕文 / . DeltaMOOCx /  Dec 6, 2021 / [高工]機器人微課程底盤基礎篇  
-https://youtu.be/ISa633oCOUE  
+  https://youtu.be/ISa633oCOUE  
 86.5K subscribers / 276 views  //  
 	#機器人#脈波寬度調變  
 	DeltaMOOCx 台達磨課師是高中/高工及大學的免費公益磨課師（MOOCs）平臺。  
@@ -147,7 +159,42 @@ https://youtu.be/ISa633oCOUE
   
 +++++ +++++  
   
-測試 電磁爐 輸出電路  
+Pulse Width Modulation (PWM) - Electronics Basics 23 / Simply Electronics /  Oct 10, 2016  Simply Electronics Basics  
+https://youtu.be/GQLED3gmONg  
+  228K subscribers / 645,605 views  //  
+	What is PWM? Let's take a look at the basics of PWM  
+  
+  
+  
++++++ +++++  
+  
+NE555-PWM(脈波寬度調變) / 王偉捷 /  Jul 30, 2019  
+  https://youtu.be/svHCcTRrE1I  
+33 subscribers / 257 views  //  
+	電路圖：  
+	電源輸入：9V  
+	頻率：17Hz  
+	可調工作週期範圍（大約）：30%~70%  
+	使用元件：  
+	1.NE555 x1  
+	2.電阻：10kOhm x2  
+	3.半可變電阻（SVR）:10kOhm x1  
+	4.二極體：1N4001 x2  
+	5.電容：2.2uF/50V x1  
+	6.陶瓷電容：104（0.1uF）x1  
+  
+  
+  
+簡單產生PWM方波 用555IC控制伺服馬達 非程式作法 / 加州科創學院 /  Apr 23, 2023  Tinkercad學習  
+  https://youtu.be/pOi0CYkpVNo  
+2.68K subscribers / 1,324 views  //  
+	利用Tinkercad線上電子模擬，在示波器上呈現出方波，並透過頻率設定轉動SG90伺服馬達。  
+  
+  
+  
++++++ +++++  
+  
+測試 電磁爐 輸出電路 :  
 可嘗試用 示波器 觀測 IGBT 輸入端 控制訊號 (18V PWM 方波 square wave) 及 輸出端 (300V PWM)  
   
   
