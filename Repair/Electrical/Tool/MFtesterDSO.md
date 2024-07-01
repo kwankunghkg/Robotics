@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Tool_MultiFunctionTesterDSO_20240701.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Tool/MFtesterDSO.md  
   
-last update : 20240701_0846(UTC+8)  
+last update : 20240701_0930(UTC+8)  
 prev update : 20240701_0721(UTC+8)  
   
 --------------------------------------------------  
@@ -218,6 +218,127 @@ NE555-PWM(脈波寬度調變) / 王偉捷 /  Jul 30, 2019
   
   
   
+  
++++++ +++++  
+  
+Everything you need to know when buying/using an Oscilloscope! EB#49 / GreatScott! /  Aug 8, 2021  Electronic Basics  
+  https://youtu.be/d58GzhXKKG8  
+  1.96M subscribers / 496,410 views  //  
+  
+  
+  
+  
++++++ +++++  
+  
+Understanding Passive Probes / Rohde Schwarz /  Jan 28, 2020  R&S Oscilloscopes  
+  https://youtu.be/fj1o2CQEVwU  
+66K subscribers / 17,350 views  //  
+	This video explains the basic concepts behind passive oscilloscope probes, as well as how these probes and accessories are used when making measurements with an oscilloscope.  
+  
+  
++++++ +++++  
+  
+Understanding Probe Compensation / Rohde Schwarz /  Jan 28, 2020  R&S Oscilloscopes  
+  https://youtu.be/ke7ST2CUxNo  
+66K subscribers / 18,662 views  //  
+	This video explains the basic concepts of probe compensation, how probes are compensated and why probe compensation is important when making oscilloscope measurements.  
+  
+  
++++++ +++++  
+  
+Understanding Active Probes / Rohde Schwarz /  Oct 10, 2023  Test & Measurement Fundamentals  
+  https://youtu.be/tEYYk3-tQgg  
+66K subscribers / 2,412 views  //  
+	This video provides a short technical introduction to single-ended active probes as well as explains why they are commonly used in certain oscilloscope applications.  
+	00:00 Introduction  
+	00:15 Suggested viewing  
+	00:31 Review of passive probes  
+	01:25 What do we mean by an “active” probe  
+	02:06 Active probes  
+	03:15 Characteristics of active probes  
+	03:37 About probe loading  
+	04:25 Active probes and loading  
+	05:18 About (probe) bandwidth  
+	06:16 Active probes and bandwidth  
+	07:04 About offset range  
+	08:20 Active probes and offset range  
+	09:04 Summary  
+  
+  
++++++ +++++  
+  
+Understanding Current Probes / Rohde Schwarz /  Sep 7, 2023  Test & Measurement Fundamentals  
+  https://youtu.be/U2LJJ8SgxwM  
+66K subscribers / 6,507 views  //  
+	This video provides a short technical introduction to current probes and how they are used with modern oscilloscopes.  
+	00:00 Introduction  
+	00:12 About oscilloscope probes  
+	01:11 Measuring current with a shunt  
+	02:09 Measuring current with a (clamping) current probe  
+	02:47 AC / DC probes  
+	03:23 Current probe parameters  
+	04:28 Connecting to the oscilloscope  
+	05:20 Connecting to the circuit under test  
+	05:54 Multiple loops  
+	06:40 Additional topics  
+	06:57 Zeroing  
+	07:56 Demagnetization / degauss  
+	08:56 Deskew  
+	09:49 Summary  
+  
+  
++++++ +++++  
+  
+Understanding Differential Probes / Rohde Schwarz /  Oct 13, 2023  Test & Measurement Fundamentals  
+https://youtu.be/WHWMbGcCppo  
+66K subscribers / 6,598 views  //  
+	This video provides a short technical introduction to the differential voltage probes commonly used with oscilloscopes.  
+	00:00 Introduction  
+	00:12 Suggested viewing  
+	00:30 About single-ended measurements  
+	01:31 About differential measurements  
+	02:14 Two ways of measuring differential voltages  
+	02:35 Two single-ended probes (quasi-differential)  
+	03:26 Differential probes  
+	04:22 Aside: twisting differential probe leads  
+	04:58 Advantages and disadvantages of differential probes  
+	05:50 Differential probe specification  
+	06:12 Common mode rejection ratio (CMRR)  
+	07:20 Differential mode range (DMR)  
+	08:26 Common mode range (CMR)  
+	09:24 Summary  
+  
+  
++++++ +++++  
+  
+Understanding Rogowski Probes / Rohde Schwarz /  Oct 16, 2023  Test & Measurement Fundamentals  
+  https://youtu.be/yxwmDr3tAo0  
+66K subscribers / 3,133 views  //  
+	This video provides a short technical introduction to how Rogowski probes are constructed and how they’re used to measure current.  
+	00:00 Introduction  
+	00:13 Suggest viewing  
+	00:33 Review of “traditional” current probes  
+	01:27 Limitations of “traditional” current probes  
+	02:14 About Rogowski probes  
+	02:56 Construction of a Rogowski coil  
+	03:27 From coil to probe  
+	04:04 Using Rogowski probes  
+	05:03 Advantages of Rogowski probes  
+	06:04 Disadvantages of Rogowski probes  
+	06:44 Summary  
+  
+  
+  
++++++ +++++  
+  
+{689} Measuring High Voltage With Oscilloscope, What is Maximum Range / Haseeb Electronics /  Aug 17, 2022  HASEEB ELECTRONICS  
+  https://youtu.be/BY3jCSY6YsM  
+125K subscribers / 8,712 views  //  
+  
+  
++++++ +++++  
+  
+.  
   
   
   
