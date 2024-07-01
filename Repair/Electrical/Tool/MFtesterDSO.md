@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Tool_MultiFunctionTesterDSO_20240701.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Tool/MFtesterDSO.md  
   
-last update : 20240701_1006(UTC+8)  
+last update : 20240701_1012(UTC+8)  
 prev update : 20240701_0721(UTC+8)  
   
 --------------------------------------------------  
@@ -263,6 +263,31 @@ Everything you need to know when buying/using an Oscilloscope! EB#49 / GreatScot
   
   
 +++++ +++++  
+  
+  
+----------------------------------------  
+  
+Understanding Oscilloscope Probing – Best Practices / Rohde Schwarz /  Oct 17, 2023  Test & Measurement Fundamentals  
+  https://youtu.be/oqL5YLKQJ_U  
+66K subscribers / 3,875 views  //  
+	This video explains the most important “tips and tricks” for selecting and using different types of oscilloscope probes.  
+	00:00 Introduction  
+	00:15 Probing tips  
+	00:43 Compensating passive probes  
+	01:17 How are probes compensated?  
+	01:56 Probe compensation examples  
+	02:24 Use the shortest ground connection possible  
+	03:11 Select the correct channel impedance  
+	04:29 Zeroing current probes  
+	05:34 Degaussing current probes  
+	06:31 Multiple loops for increased current sensitivity  
+	07:23 Deskew voltage and current probes for power measurements  
+	08:18 Using differential probes for floating measurements  
+	09:38 Active probes for challenging measurements  
+	10:49 Summary  
+  
+  
+  
   
 Understanding Passive Probes / Rohde Schwarz /  Jan 28, 2020  R&S Oscilloscopes  
   https://youtu.be/fj1o2CQEVwU  
