@@ -133,7 +133,7 @@ FNIRSI 2C53P Overview, Teardown & Hardware Review / ElectroBananas /  May 16, 20
   
 --------------------------------------------------  
   
-#### Pulse Width Modulation Duty Cycle 控制 開關比例 及功率  
+### Pulse Width Modulation Duty Cycle 控制 開關比例 及功率  
   
 ----------------------------------------  
   
@@ -249,7 +249,7 @@ NE555-PWM(脈波寬度調變) / 王偉捷 /  Jul 30, 2019
   
 ----------------------------------------  
   
-#### Scope & Probe  
+### Scope & Probe  
   
   
 ----------------------------------------  
