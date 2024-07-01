@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Tool_MultiFunctionTesterDSO_20240701.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Tool/MFtesterDSO.md  
   
-last update : 20240701_0840(UTC+8)  
+last update : 20240701_0846(UTC+8)  
 prev update : 20240701_0721(UTC+8)  
   
 --------------------------------------------------  
@@ -163,6 +163,17 @@ Pulse Width Modulation (PWM) - Electronics Basics 23 / Simply Electronics /  Oct
 https://youtu.be/GQLED3gmONg  
   228K subscribers / 645,605 views  //  
 	What is PWM? Let's take a look at the basics of PWM  
+  
+  
++++++ +++++  
+  
+  
+What is PWM? / Electrical Engineering Tuts /  Mar 22, 2015  
+https://youtu.be/4PtepH8CcEE  
+1.3K subscribers / 120,715 views  //  
+Pulse Width Modulation is a intuitive way to control voltage digitally. It pulses voltage very rapidly in such a way that it can reduce voltage to your desired voltage.  
+  
+The main parts of a PWM signal are is period and its duty cycle.  The duty cycle is what determines its voltage. the period length will determine if it works with the device you plan to use it with,  generally the higher the frequency,  the more compatible the signal will be for your device.  
   
   
   
