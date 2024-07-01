@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Tool_MultiFunctionTesterDSO_20240701.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Tool/MFtesterDSO.md  
   
-last update : 20240701_0748(UTC+8)  
+last update : 20240701_0826(UTC+8)  
 prev update : 20240701_0721(UTC+8)  
   
 --------------------------------------------------  
@@ -123,10 +123,43 @@ FNIRSI 2C53P Overview, Teardown & Hardware Review / ElectroBananas /  May 16, 20
   
 ----  
   
+Pulse Width Modulation Duty Cycle 控制 開關比例 及功率  
+  
+  
+脈波寬度調變 Pulse-width modulation (PWM)  
+https://zh.wikipedia.org/zh-hk/%E8%84%88%E8%A1%9D%E5%AF%AC%E5%BA%A6%E8%AA%BF%E8%AE%8A  
+  
+  
+如何以PWM技術控制功率轉換器？  
+https://www.edntaiwan.com/20230829ta01-control-a-power-converter-with-pwm/  
   
   
   
 +++++ +++++  
+  
+PWM / 高中機器人微課程_方向控制與驅動系統_脈波寬度調變_支裕文 / . DeltaMOOCx /  Dec 6, 2021 / [高工]機器人微課程底盤基礎篇  
+https://youtu.be/ISa633oCOUE  
+86.5K subscribers / 276 views  //  
+	#機器人#脈波寬度調變  
+	DeltaMOOCx 台達磨課師是高中/高工及大學的免費公益磨課師（MOOCs）平臺。  
+  
+  
+  
++++++ +++++  
+  
+測試 電磁爐 輸出電路  
+可嘗試用 示波器 觀測 IGBT 輸入端 控制訊號 (18V PWM 方波 square wave) 及 輸出端 (300V PWM)  
+  
+  
+注意 ：  
+量度高電壓時，  
+示波器 探測頭(探針)  
+必須撥致 10x檔 (減致十分一)，  
+以降低電壓 讓示波器內部電路在可負荷工作範圍 (低電壓)。  
+  
+  
+  
+  
   
   
   
