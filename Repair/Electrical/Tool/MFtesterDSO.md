@@ -184,6 +184,7 @@ NE555-PWM(脈波寬度調變) / 王偉捷 /  Jul 30, 2019
 	6.陶瓷電容：104（0.1uF）x1  
   
   
++++++ +++++  
   
 簡單產生PWM方波 用555IC控制伺服馬達 非程式作法 / 加州科創學院 /  Apr 23, 2023  Tinkercad學習  
   https://youtu.be/pOi0CYkpVNo  
