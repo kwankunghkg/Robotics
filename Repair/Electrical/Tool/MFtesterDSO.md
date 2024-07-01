@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Tool_MultiFunctionTesterDSO_20240701.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Tool/MFtesterDSO.md  
   
-last update : 20240701_0930(UTC+8)  
+last update : 20240701_0934(UTC+8)  
 prev update : 20240701_0721(UTC+8)  
   
 --------------------------------------------------  
@@ -123,6 +123,16 @@ FNIRSI 2C53P Overview, Teardown & Hardware Review / ElectroBananas /  May 16, 20
   
 ----  
   
+  
+  
+  
+----  
+  
+  
+  
+  
+--------------------------------------------------  
+  
 Pulse Width Modulation Duty Cycle 控制 開關比例 及功率  
   
   
@@ -204,11 +214,14 @@ NE555-PWM(脈波寬度調變) / 王偉捷 /  Jul 30, 2019
   
   
   
-+++++ +++++  
+  
+  
+--------------------------------------------------  
   
 測試 電磁爐 輸出電路 :  
 可嘗試用 示波器 觀測 IGBT 輸入端 控制訊號 (18V PWM 方波 square wave) 及 輸出端 (300V PWM)  
   
++++++ +++++  
   
 注意 ：  
 量度高電壓時，  
@@ -219,7 +232,21 @@ NE555-PWM(脈波寬度調變) / 王偉捷 /  Jul 30, 2019
   
   
   
-+++++ +++++  
+----  
+  
+  
+  
+----  
+  
+  
+  
+----  
+  
+  
+  
+--------------------------------------------------  
+  
+  
   
 Everything you need to know when buying/using an Oscilloscope! EB#49 / GreatScott! /  Aug 8, 2021  Electronic Basics  
   https://youtu.be/d58GzhXKKG8  
