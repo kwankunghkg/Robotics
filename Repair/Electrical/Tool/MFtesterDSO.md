@@ -2,7 +2,7 @@
 BLOG_GitHub_Repair_Tool_MultiFunctionTesterDSO_20240701.txt  
   https://github.com/kwankunghkg/Robotics/blob/main/Repair/Electrical/Tool/MFtesterDSO.md  
   
-last update : 20240701_0934(UTC+8)  
+last update : 20240701_1006(UTC+8)  
 prev update : 20240701_0721(UTC+8)  
   
 --------------------------------------------------  
@@ -133,7 +133,10 @@ FNIRSI 2C53P Overview, Teardown & Hardware Review / ElectroBananas /  May 16, 20
   
 --------------------------------------------------  
   
-Pulse Width Modulation Duty Cycle 控制 開關比例 及功率  
+#### Pulse Width Modulation Duty Cycle 控制 開關比例 及功率  
+  
+----------------------------------------  
+  
   
   
 脈波寬度調變 Pulse-width modulation (PWM)  
@@ -244,11 +247,15 @@ NE555-PWM(脈波寬度調變) / 王偉捷 /  Jul 30, 2019
   
   
   
---------------------------------------------------  
+----------------------------------------  
+  
+#### Scope & Probe  
   
   
+----------------------------------------  
   
-Everything you need to know when buying/using an Oscilloscope! EB#49 / GreatScott! /  Aug 8, 2021  Electronic Basics  
+  
+Everything you need to know when buying/using an Oscilloscope! EB#49 / GreatScott! /  Aug 8, 2021 / Electronic Basics  
   https://youtu.be/d58GzhXKKG8  
   1.96M subscribers / 496,410 views  //  
   
@@ -358,6 +365,12 @@ Understanding Rogowski Probes / Rohde Schwarz /  Oct 16, 2023  Test & Measuremen
   
 +++++ +++++  
   
+  
+  
+  
+----  
+  
+  
 {689} Measuring High Voltage With Oscilloscope, What is Maximum Range / Haseeb Electronics /  Aug 17, 2022  HASEEB ELECTRONICS  
   https://youtu.be/BY3jCSY6YsM  
 125K subscribers / 8,712 views  //  
@@ -365,7 +378,16 @@ Understanding Rogowski Probes / Rohde Schwarz /  Oct 16, 2023  Test & Measuremen
   
 +++++ +++++  
   
-.  
+  
+{662} Oscilloscope - Safeties While Using DSO, CRO, Waveform Recorder / Haseeb Electronics /  Jul 28, 2022  HASEEB ELECTRONICS  
+  https://youtu.be/-K96Pmfp6L0  
+125K subscribers / 6,576 views  //  
+	Safeties While Using Oscilloscope, DSO, CRO, Waveform Recorder. i discussed how not to blow up your oscilloscope and you can protect dso while testing any unisolated live circuits. i demonstrated how to set up oscilloscope for first time use while observing oscilloscope safety to use dso / cro / waveform recorder / oscilloscope scope safely.  
+  
+  
+  
+  
+  
   
   
   
