@@ -173,7 +173,7 @@ TXC 7x5mm SMD LVDS CXO BF SERIES
   
 Phase Noise and Frequency Stability of the Red-Pitaya Internal PLL  
   
-	The entire system, with the exception of the SoC processor, works at 125MHz clock provided by a local quartz oscillator (CXO BFBC90 from. TXC Corporation).  
+  The entire system, with the exception of the SoC processor, works at 125MHz clock provided by a local quartz oscillator (CXO BFBC90 from. TXC Corporation).  
   
   
   
