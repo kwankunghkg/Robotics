@@ -22,6 +22,87 @@ Red Pitaya WiFi Access Point connection
   http://192.168.128.1/  
   
   
+  
+----------------------------------------  
+  
+  
+Red Pitaya URL : http://rp-f00414.local/  
+Red Pitaya URL : rp-xxxxxx.local/  
+xxxxxx are the last 6 characters from MAC address of your STEMlab board. MAC address is written on the Ethernet connector.  
+2.2.1. Connect to your Red Pitaya  
+  https://redpitaya.readthedocs.io/en/latest/quickStart/connect/connect.html  
+  
+  
+----------------------------------------  
+  
+  
+red pitaya hotspot mode : access point  
+red pitaya hotspot SSID : RP_xx  
+red pitaya hotspot address 192.168.128.1  
+red pitaya hotspot pass : rpk.R...  
+  
+  
+  
+----------------------------------------  
+  
+  
+  
+C:\Users\kwankung>arp  
+Displays and modifies the IP-to-Physical address translation tables used by  
+address resolution protocol (ARP).  
+ARP -s inet_addr eth_addr [if_addr]  
+ARP -d inet_addr [if_addr]  
+ARP -a [inet_addr] [-N if_addr] [-v]  
+  
+C:\Users\kwankung>arp -a  
+Interface: 192.168.11.38 --- 0x18  
+  Internet Address      Physical Address      Type  
+  192.168.11.1          00-0d-0b-64-53-84     dynamic  
+  192.168.11.255        ff-ff-ff-ff-ff-ff     static  
+  
+  
+----------------------------------------  
+  
+  
+  
+  
+Red Pitaya User Manual  
+  https://www.elektor.com/downloads/dl/file/id/1088/red_pitaya_user_manual.pdf  
+  
+  
+Red Pitaya Quick-start guide  
+  http://data.designspark.info/uploads/knowledge-items/a-starting-guide-for-the-red-pitaya/RP-%20The%20Guide%20v1.0.pdf  
+  
+  
+  
+1.6. Troubleshooting  
+1.6.1. Problems connecting to Red Pitaya  
+  http://redpitaya.readthedocs.io/en/latest/quickStart/troubleshooting/troubleshooting.html  
+  
+Red Pitaya Hardware Specifications V1.1.1  
+  https://www.galagomarket.com/datasheet/redpitaya_hardware%20specifications.pdf  
+  
+Red Pitaya Data Acquisition DAQ, 8 channels  
+  https://hken.rs-online.com/web/p/data-acquisition/1271091/  
+STEMLab Logic Analyser User Manual  
+  https://docs-apac.rs-online.com/webdocs/1578/0900766b81578196.pdf  
+  
+STEMLab Logic Analyser Pro  
+  https://hken.rs-online.com/web/p/data-acquisition/1271092/  
+  
+  http://redpitaya.readthedocs.io/en/latest/appsFeatures/apps-featured/logic/logic.html  
+  
+  
+----------------------------------------  
+  
+  
+  
+  
+  
+----------------------------------------  
+  
+  
+  
 RedPitaya OS 2.0 not booting on 125-14 #250  
   https://github.com/RedPitaya/RedPitaya/issues/250  
   
