@@ -1,13 +1,13 @@
 BLOG_GitHub_RedPitaya_20250721.txt  
-  https://github.com/kwankunghkg/Self_Learning/blob/main/template.md  
+  https://github.com/kwankunghkg/Robotics/blob/main/instrument/RedPitaya/RedPitaya.md  
   
   
   
 ----------------------------------------  
   
 #### updated  
-last : 2023-09-04_16:58(UTC+8)  
-prev : 2023-09-04_16:58(UTC+8)  
+last : 2025-07-21_17:51(UTC+8)  
+prev : 2025-07-21_17:51(UTC+8)  
   
 ----------------------------------------  
   
