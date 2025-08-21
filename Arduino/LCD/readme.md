@@ -18,6 +18,12 @@ prev : 2025-08-21_17:34(UTC+8)
   
 ----------------------------------------  
   
+LCD 128x64 SPI ST7920  
+  https://github.com/kwankunghkg/Robotics/tree/main/Arduino/LCD/LCD12864/SPI/LCD12864_ST7920_SPI_20191223  
+  
+  
+----------------------------------------  
+  
 LCD TFT 1.8" 128x160 ST7735(S) demo  
   https://github.com/kwankunghkg/Robotics/blob/main/Arduino/LCD/LCD_TFT/TFT18_128x160_ST7735/TFT18_128x160_ST7735_graphicstest_20250817.ino  
   
