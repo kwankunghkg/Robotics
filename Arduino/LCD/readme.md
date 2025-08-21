@@ -1,6 +1,6 @@
   
 BLOG_GitHub_LCD_OLED_demo_code_20250821.md  
-  https://github.com/kwankunghkg/Self_Learning/blob/main/template.md  
+  https://github.com/kwankunghkg/Robotics/tree/main/Arduino/LCD/readme.md  
   
   
   
