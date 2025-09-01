@@ -94,6 +94,28 @@ arduino nano extension board pinout
 ----------------------------------------  
   
   
+----------------------------------------  
+  
+  
+----------------------------------------  
+  
+  
+----------------------------------------  
+  
+  
+Door Bell  
+  
+PC817 opto-coupler  
+  
+PC817 Optocoupler: Pinout, Schematic, Equivalent [FAQ]   
+  https://www.kynix.com/components/bc817-pinout-schematic-equivalent.html  
+   
+  
+ams1117 3.3v voltage limit datasheet  
+  
+  
+  
+  
   
 ----------------------------------------  
   
