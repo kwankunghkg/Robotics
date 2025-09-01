@@ -64,6 +64,10 @@ graphics
   
   
   
+  ![alt text](https://blog.jmaker.com.tw/content/images/2020/04/st7735-7.jpg)  
+  
+  
+  
 ----------------------------------------  
   
   
@@ -77,13 +81,13 @@ graphics
   
   
 arduino nano pinout  
-  https://europe1.discourse-cdn.com/arduino/optimized/4X/9/c/e/9ce9e0981a1c5faa16d727392b0290c066202052_2_750x750.jpeg  
+  ![alt text](https://europe1.discourse-cdn.com/arduino/optimized/4X/9/c/e/9ce9e0981a1c5faa16d727392b0290c066202052_2_750x750.jpeg)  
   
 arduino nano shield pinout  
-  https://forum.fritzing.org/uploads/default/original/2X/0/0b85b9f8b7f5e4f7906289839862a3be2f4d4a96.png  
+  ![alt text](https://forum.fritzing.org/uploads/default/original/2X/0/0b85b9f8b7f5e4f7906289839862a3be2f4d4a96.png)  
   
 arduino nano extension board pinout  
-  https://europe1.discourse-cdn.com/arduino/original/4X/7/8/9/789b3057ac1b15c056036952c435e26f247a8858.jpeg  
+  ![alt text](https://europe1.discourse-cdn.com/arduino/original/4X/7/8/9/789b3057ac1b15c056036952c435e26f247a8858.jpeg)  
   
   
   
