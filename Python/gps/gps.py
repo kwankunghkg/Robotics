@@ -1,4 +1,3 @@
-
 import android
 import time
 
@@ -24,5 +23,3 @@ if event['name'] == "location":
         pass
 
 droid.stopLocating()
-
-
