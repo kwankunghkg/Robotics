@@ -11,8 +11,9 @@ def get_gps_location():
         # Extract relevant information
         latitude = location_data['latitude']
         longitude = location_data['longitude']
+        altitude = location_data['altitude']
         accuracy = location_data['accuracy']
-        return latitude, longitude, accuracy
+        return latitude, longitude, altitude, accuracy
     else:
         print("Error getting location:", result.stderr)
         return None, None, None
@@ -20,10 +21,11 @@ def get_gps_location():
 if __name__ == "__main__":
     print("Fetching GPS location...")
     # The first call might take a moment to warm up the GPS sensor
-    lat, lon, acc = get_gps_location()
+    lat, lon, alt, acc = get_gps_location()
     if lat is not None:
         print(f"Latitude: {lat}")
         print(f"Longitude: {lon}")
+        print(f"Altitude: {alt}")
         print(f"Accuracy: {acc} meters")
     else:
         print("Failed to retrieve GPS location.")
