@@ -1,6 +1,7 @@
 import subprocess
 import json
 import time
+from datetime import datetime
 
 def get_gps_location():
     # Call termux-location command
@@ -19,14 +20,14 @@ def get_gps_location():
         return None, None, None
 
 if __name__ == "__main__":
-    print("Fetching GPS location...")
+    now = datetime.now()
+    now_format = now.strftime("%Y/%m/%d %H:%M:%S")
+    print(f"Date    : {now_format}")                        #print("Fetching GPS location...")
     # The first call might take a moment to warm up the GPS sensor
     lat, lon, alt, acc = get_gps_location()
-    if lat is not None:
-        print(f"Latitude: {lat}")
-        print(f"Longitude: {lon}")
-        print(f"Altitude: {alt}")
+    if lat is not None:                                         print(f"Latitude: {lat}")
+        print(f"Longitude: {lon}")                              print(f"Altitude: {alt}")
         print(f"Accuracy: {acc} meters")
+        print(f"----")
     else:
         print("Failed to retrieve GPS location.")
-
