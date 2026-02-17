@@ -22,11 +22,14 @@ def get_gps_location():
 if __name__ == "__main__":
     now = datetime.now()
     now_format = now.strftime("%Y/%m/%d %H:%M:%S")
-    print(f"Date    : {now_format}")                        #print("Fetching GPS location...")
+    print(f"Date    : {now_format}")                        
+    #print("Fetching GPS location...")
     # The first call might take a moment to warm up the GPS sensor
     lat, lon, alt, acc = get_gps_location()
-    if lat is not None:                                         print(f"Latitude: {lat}")
-        print(f"Longitude: {lon}")                              print(f"Altitude: {alt}")
+    if lat is not None:                                         
+        print(f"Latitude: {lat}")
+        print(f"Longitude: {lon}")                              
+        print(f"Altitude: {alt}")
         print(f"Accuracy: {acc} meters")
         print(f"----")
     else:
