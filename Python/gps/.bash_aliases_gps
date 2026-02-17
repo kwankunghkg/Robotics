@@ -4,4 +4,4 @@ alias llgpslog='cdgps ; ll gps*.log'
 alias catgpslog='cdgps ; cat gps*.log'
 
 alias gpslog='cdgps ; python gps.py > gps`datenow`.log'
-alias gpsloop='cdgps ; while :; do gpslog ; catgpslog|tail -6 ; done'
+alias gpsloop='cdgps ; while :; do gpslog ; catgpslog | tail -6 ; done'
